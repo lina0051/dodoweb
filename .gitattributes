@@ -1,1 +1,2 @@
 canivon/*.mov filter=lfs diff=lfs merge=lfs -text
+canivon/CANIVON_Brand_film_1080p.mp4 filter=lfs diff=lfs merge=lfs -text
