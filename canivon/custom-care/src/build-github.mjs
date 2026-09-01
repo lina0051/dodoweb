@@ -4,7 +4,7 @@ import { fileURLToPath } from 'node:url';
 
 const dir = path.dirname(fileURLToPath(import.meta.url));
 const outDir = path.join(dir, 'dist-github');
-const baseUrl = 'https://lina0051.github.io/dodoweb/canivon/personalized-nutrition-consultation';
+const baseUrl = 'https://lina0051.github.io/dodoweb/canivon/custom-care';
 const values = {
   'sheet-id': '1R__1IzZP6rx3ZYiUuJOcOZQR3RLPTH3_YTw97z0UePs',
   'product-name': 'CANIVON COMPLETE',
