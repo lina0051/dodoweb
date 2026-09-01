@@ -9,7 +9,8 @@
     G = q("#cv-progress-back"),
     X = q("#cv-reset"),
     d = R.dataset;
-  let N = [
+  let dataReady = Promise.resolve(),
+    N = [
       ["joint", "관절·다리"], ["eye", "눈·눈물"], ["heart", "심장·순환"],
       ["skin", "피부·모질"], ["liver", "소화·간"], ["energy", "기력·면역"],
       ["daily", "특별한 이슈 없음"],
@@ -260,7 +261,8 @@
     progress();
     V.innerHTML = q("#cv-load").innerHTML;
     q("[data-z]").textContent = s.n;
-    setTimeout(() => {
+    setTimeout(async () => {
+      await dataReady;
       s.i = 8;
       result();
     }, +(d.ls || 3.2) * 1000);
@@ -367,6 +369,17 @@
     progress();
     [name, gender, age, weight, activity, needs, priority][s.i]?.();
   }
+  function revealWhenStyled() {
+    let started = Date.now();
+    function reveal() {
+      if (getComputedStyle(R).getPropertyValue("--red").trim() || Date.now() - started > 3000) {
+        R.style.removeProperty("visibility");
+      } else {
+        requestAnimationFrame(reveal);
+      }
+    }
+    reveal();
+  }
   X.onclick = reset;
   async function sync() {
     if (!d.si) return;
@@ -403,21 +416,24 @@
     M.h = (z.h || []).map((x) => [x[1], String(x[2]), String(x[3] || "").split(/[+,]/).filter(Boolean), x[4], +(x[5] || 999)]);
     M.u = (z.u || []).filter((x) => x[3] !== "").map((x) => [x[1], +(x[2] || 0), +(x[3] || 0), x[4] || ""]);
   }
-  sync().catch(() => {}).finally(() => {
+  dataReady = sync().catch(() => {});
   if (d.pr === "true") {
-    s = {
-      i: 8,
-      n: "홍이",
-      g: "female",
-      a: 9,
-      w: 22,
-      v: "normal",
-      x: ["liver", "joint"],
-      p: "liver",
-    };
-    result();
+    dataReady.finally(() => {
+      s = {
+        i: 8,
+        n: "홍이",
+        g: "female",
+        a: 9,
+        w: 22,
+        v: "normal",
+        x: ["liver", "joint"],
+        p: "liver",
+      };
+      result();
+      revealWhenStyled();
+    });
   } else {
     render();
+    revealWhenStyled();
   }
-  });
 })();
