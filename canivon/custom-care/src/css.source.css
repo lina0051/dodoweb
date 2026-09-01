@@ -31,8 +31,34 @@
   min-height: 640px;
   overflow: hidden;
 }
-#cv * {
+#cv *,
+#cv *::before,
+#cv *::after {
   box-sizing: border-box;
+}
+#cv #cv-view,
+#cv .cv-step,
+#cv .cv-step > form,
+#cv .cv-actions {
+  width: 100%;
+  min-width: 0;
+  max-width: none;
+}
+#cv h1,
+#cv h2,
+#cv h3,
+#cv p,
+#cv button,
+#cv input {
+  font-family: inherit;
+}
+#cv h1,
+#cv h2,
+#cv h3,
+#cv p,
+#cv form {
+  margin-right: 0;
+  margin-left: 0;
 }
 #cv button,
 #cv input,
@@ -281,7 +307,7 @@
   grid-template-columns: 1fr 1fr;
   gap: 10px;
 }
-.cv-choice {
+#cv .cv-choice {
   position: relative;
   display: flex;
   align-items: center;
@@ -306,14 +332,14 @@
   flex-direction: column;
   gap: 8px;
 }
-.cv-choice:hover,
-.cv-choice:focus-within {
+#cv .cv-choice:hover,
+#cv .cv-choice:focus-within {
   border-color: var(--red);
   color: var(--red);
   background: var(--soft);
   outline: 0;
 }
-.cv-choice:has(input:checked) {
+#cv .cv-choice:has(input:checked) {
   border-color: var(--red);
   color: var(--red);
   background: var(--soft);
@@ -349,6 +375,7 @@ i.cv-choice-icon::before {
 }
 .cv-choice strong {
   font-size: 18px;
+  font-weight: 700;
   letter-spacing: -0.035em;
 }
 .cv-choice small {

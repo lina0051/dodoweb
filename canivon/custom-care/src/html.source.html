@@ -95,7 +95,7 @@
     @keyframes cv-stage-fill { to { width: 100%; } }
     @media (prefers-reduced-motion: reduce) {
       #cv .cv-loading-status span,
-      #cv .cv-stage-fill { animation-duration: .01ms; }
+      #cv .cv-stage-fill { animation-duration: 1ms; }
       #cv .cv-loading-status span:last-child { opacity: 1; }
     }
   </style>
@@ -177,5 +177,5 @@
     </div>
     <span class="cv-progress-label" id="cv-label">이름</span>
   </div>
-  <main id="cv-view" aria-live="polite"></main>
+  <div id="cv-view" aria-live="polite"></div>
 </div>
