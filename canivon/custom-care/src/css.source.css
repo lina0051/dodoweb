@@ -486,7 +486,7 @@ i.cv-choice-icon::before {
 .cv-result-top {
   padding: 16px 20px;
 }
-.cv-result-top h1 {
+#cv .cv-result-top h1 {
   margin: 0;
   font-size: 32px;
   line-height: 40px;
@@ -522,14 +522,14 @@ i.cv-choice-icon::before {
 .cv-result-section + .cv-result-section {
   margin-top: 40px;
 }
-.cv-section-title {
+#cv .cv-section-title {
   margin: 0 20px 10px;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: -0.5px;
   font-weight: 700;
 }
-.cv-result-section:first-child > .cv-section-title {
+#cv .cv-result-section:first-child > .cv-section-title {
   display: none;
 }
 .cv-product-card {
@@ -557,7 +557,7 @@ i.cv-choice-icon::before {
   border-radius: 8px;
   background: #f2f8fc;
 }
-.cv-product h3 {
+#cv .cv-product h3 {
   margin: 0;
   color: var(--result-ink);
   font-size: 18px;
@@ -652,7 +652,7 @@ i.cv-choice-icon::before {
   }
 }
 @media (max-width: 360px) {
-  .cv-result-top h1 {
+  #cv .cv-result-top h1 {
     font-size: 29px;
     letter-spacing: -1.7px;
   }
@@ -693,7 +693,7 @@ i.cv-choice-icon::before {
   gap: 8px;
   flex-wrap: wrap;
 }
-.cv-reason h3 {
+#cv .cv-reason h3 {
   margin: 0;
   font-size: 14px;
   line-height: 24px;
@@ -808,7 +808,7 @@ i.cv-choice-icon::before {
   .cv-product-img {
     height: 430px;
   }
-  .cv-result-top h1 {
+  #cv .cv-result-top h1 {
     font-size: 36px;
   }
   .cv-dose-card {

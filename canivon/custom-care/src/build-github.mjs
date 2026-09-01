@@ -43,7 +43,7 @@ const replaceValues = (source) => {
 const html = replaceValues(read('html.txt'));
 const css = replaceValues(read('css.txt'));
 const js = replaceValues(read('javascript.txt'));
-const version = '20260901-2';
+const version = '20260901-3';
 const loader = `<link rel="stylesheet" href="${baseUrl}/widget.min.css?v=${version}">${html}<script src="${baseUrl}/widget.min.js?v=${version}"></script>`;
 const fetchLoader = `<div id="cv-loader"></div><script>(()=>{const b="${baseUrl}",v="${version}",m=document.getElementById("cv-loader"),l=document.createElement("link");l.rel="stylesheet";l.href=b+"/widget.min.css?v="+v;document.head.appendChild(l);fetch(b+"/widget.html?v="+v).then(r=>{if(!r.ok)throw new Error("CANIVON HTML "+r.status);return r.text()}).then(h=>{m.outerHTML=h;const s=document.createElement("script");s.src=b+"/widget.min.js?v="+v;document.body.appendChild(s)}).catch(e=>{m.textContent="맞춤 영양제를 불러오지 못했습니다.";console.error(e)})})()</script>`;
 const page = `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CANIVON 맞춤 영양 추천</title><link rel="stylesheet" href="widget.min.css?v=${version}"></head><body>${html}<script src="widget.min.js?v=${version}"></script></body></html>`;
