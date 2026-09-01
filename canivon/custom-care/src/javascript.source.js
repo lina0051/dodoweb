@@ -291,9 +291,13 @@
       price = +d.pp || 0,
       subscriptionPrice = +d.sp || 38000,
       total = price * boxes,
-      policy = M.u.find((x) => x[1] === boxes) || M.u.find((x) => x[1] === 0 || x[0] === "default"),
-      rate = +(policy?.[2] ?? d.dr ?? (price ? Math.round((1 - subscriptionPrice / price) * 100) : 0)),
-      sub = Math.round(total * (1 - rate / 100) / 1000) * 1000,
+      policy = M.u.find((x) => x[1] === boxes && x[1] > 0),
+      defaultPolicy = M.u.find((x) => x[1] === 0 || x[0] === "default"),
+      baseRate = price ? Math.round((1 - subscriptionPrice / price) * 100) : +(d.dr || 0),
+      rate = +(policy?.[2] ?? baseRate),
+      sub = policy
+        ? Math.round(total * (1 - rate / 100) / 1000) * 1000
+        : subscriptionPrice * boxes,
       details = [
         ["형태·용량", d.pc],
         [
@@ -335,7 +339,7 @@
         ? `<article class="cv-reason">${needIcon("daily")}<div><div class="cv-reason-head"><h3>시니어 종합 관리</h3><div class="cv-ingredient-tags"><span>종합 영양</span></div></div><p>전 성분 종합 관리와 관절 건강을 함께 강조했어요.</p></div></article>`
         : "");
     q("[data-m]").href = d.pu;
-    q("[data-o]").href = policy?.[3] || d.su || d.pu;
+    q("[data-o]").href = policy?.[3] || defaultPolicy?.[3] || d.su || d.pu;
     put("[data-p]", `총 ${boxes}개 기준`);
     put("[data-q]", won(total));
     put("[data-r]", `1개당 ${won(price)}`);
