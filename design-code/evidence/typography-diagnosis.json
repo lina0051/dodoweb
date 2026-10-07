@@ -1,0 +1,62 @@
+[
+  {
+    "name": "original",
+    "width": 631,
+    "text": "Featured Work",
+    "font": "\"Pretendard Variable\", Pretendard, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+    "size": "46px",
+    "weight": "500",
+    "lineHeight": "50.6px",
+    "letterSpacing": "-1.84px",
+    "textWidth": 286.90625,
+    "characterSpans": 13
+  },
+  {
+    "name": "same-copy-structure-test",
+    "width": 631,
+    "plainWidth": 322.46875,
+    "originalCharacterStructureWidth": 322.84375
+  },
+  {
+    "name": "current",
+    "width": 631,
+    "text": "Selected Spaces",
+    "font": "\"Pretendard Variable\", Pretendard, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+    "size": "46px",
+    "weight": "500",
+    "lineHeight": "50.6px",
+    "letterSpacing": "-1.84px",
+    "textWidth": 322.46875,
+    "characterSpans": 0
+  },
+  {
+    "name": "original",
+    "width": 1720,
+    "text": "Featured Work",
+    "font": "\"Pretendard Variable\", Pretendard, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+    "size": "107.5px",
+    "weight": "400",
+    "lineHeight": "107.5px",
+    "letterSpacing": "-4.3px",
+    "textWidth": 656.921875,
+    "characterSpans": 13
+  },
+  {
+    "name": "same-copy-structure-test",
+    "width": 1720,
+    "plainWidth": 740.546875,
+    "originalCharacterStructureWidth": 741.21875
+  },
+  {
+    "name": "current",
+    "width": 1720,
+    "text": "Selected Spaces",
+    "font": "\"Pretendard Variable\", Pretendard, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+    "size": "107.5px",
+    "weight": "400",
+    "lineHeight": "107.5px",
+    "letterSpacing": "-4.3px",
+    "textWidth": 740.546875,
+    "characterSpans": 0
+  }
+]

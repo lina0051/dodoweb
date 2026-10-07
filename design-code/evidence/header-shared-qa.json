@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-01",
+  "baseUrl": "http://127.0.0.1:54642/",
+  "result": "pass",
+  "markupSource": "header.html",
+  "normalizedMarkupIdentical": true,
+  "logoContract": {
+    "src": "assets/brand/code-wordmark-loop.webm",
+    "appliedTo": ["index.html", "work.html", "process.html", "contact.html"],
+    "intrinsicSize": [640, 188],
+    "duration": 6.4,
+    "holdTime": 4.4,
+    "desktopHeight": "56px",
+    "mobileHeight": "28px",
+    "staticLogoCountPerPage": 0
+  },
+  "links": ["index.html#about", "work.html", "process.html", "contact.html"],
+  "pages": {
+    "index.html": {
+      "headerCount": 1,
+      "sourceRootRemoved": true,
+      "visibleLogo": "motion",
+      "currentMenu": null
+    },
+    "work.html": {
+      "headerCount": 1,
+      "sourceRootRemoved": true,
+      "visibleLogo": "motion",
+      "currentMenu": "프로젝트"
+    },
+    "process.html": {
+      "headerCount": 1,
+      "sourceRootRemoved": true,
+      "visibleLogo": "motion",
+      "currentMenu": "프로세스"
+    },
+    "contact.html": {
+      "headerCount": 1,
+      "sourceRootRemoved": true,
+      "visibleLogo": "motion",
+      "currentMenu": "상담신청"
+    }
+  },
+  "mobileMenu": {
+    "open": {
+      "bodyClassApplied": true,
+      "ariaExpanded": "true",
+      "label": "메뉴 닫기",
+      "navigationVisible": true
+    },
+    "escapeClose": {
+      "bodyClassApplied": false,
+      "ariaExpanded": "false",
+      "label": "메뉴 열기"
+    }
+  },
+  "consoleErrors": []
+}

@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "testedAt": "2026-10-07T07:08:27.169Z",
+  "checks": [
+    "Project title, supplied information structure, concise concept and 15 real photographs",
+    "All detail-page text and rules use the design-system black without custom gray colors",
+    "Project detail footer is removed",
+    "All optimized project photographs load successfully",
+    "Centered full-width and two-up gallery pattern with single-column mobile fallback",
+    "Project information uses matching top and bottom rules",
+    "15 web images remain under 8MB total and 800KB each",
+    "Work and home project cards both link to the reusable detail template",
+    "Novonesis project-list thumbnail click navigates to the detail page"
+  ],
+  "errors": [],
+  "failed": []
+}

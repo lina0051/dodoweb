@@ -1,0 +1,8 @@
+/* Source-exact visual layer. No redesign overrides. */
+@import url("reference/assets/soroweb.co.kr/v6/assets/css/base.css");
+@import url("reference/assets/soroweb.co.kr/v6/assets/css/common.css?v=20261001-subtitle-26");
+@import url("reference/assets/soroweb.co.kr/v6/assets/css/main.css");
+@font-face{font-family:"Pretendard Variable";src:url("assets/fonts/PretendardVariable.woff2") format("woff2");font-style:normal;font-weight:100 900;font-display:swap}
+:root{--sub-page-bottom-space:100px}
+.btit{font-weight:300!important}
+.sub-title .stit{font-weight:500!important}

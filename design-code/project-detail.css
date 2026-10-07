@@ -1,0 +1,218 @@
+/* Reusable project-detail template. Content and imagery are project-specific. */
+.project-detail-body {
+  overflow-x: clip;
+  background: #fff;
+  color: #0a0a0a;
+}
+
+.project-detail-page {
+  width: min(100%, 1200px);
+  margin-inline: auto;
+  padding: 128px 32px var(--sub-page-bottom-space);
+}
+
+.project-masthead {
+  margin-bottom: 48px;
+}
+
+.project-eyebrow {
+  margin-bottom: 8px;
+  color: #0a0a0a;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.6;
+  letter-spacing: .05em;
+}
+
+.project-masthead h1 {
+  margin-bottom: 0;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0;
+}
+
+.project-hero-media {
+  overflow: hidden;
+  aspect-ratio: 1136 / 775;
+  margin-bottom: 48px;
+  background: var(--beige);
+}
+
+.project-hero-media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.project-information {
+  padding-block: 32px;
+  border-block: 1px solid #0a0a0a;
+}
+
+.project-information dl {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.project-information dl > div {
+  min-width: 0;
+}
+
+.project-information dt {
+  margin-bottom: 8px;
+  color: #0a0a0a;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.6;
+  letter-spacing: .05em;
+}
+
+.project-information dd {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6;
+  letter-spacing: 0;
+  word-break: keep-all;
+}
+
+.project-concept {
+  margin-top: 64px;
+}
+
+.project-concept h2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: 0;
+  word-break: keep-all;
+}
+
+.project-concept p {
+  color: #0a0a0a;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: 0;
+  word-break: keep-all;
+}
+
+.project-gallery {
+  margin-top: 64px;
+}
+
+.project-gallery h2 {
+  margin-bottom: 24px;
+  color: #0a0a0a;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.6;
+  letter-spacing: .05em;
+}
+
+.project-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.gallery-item {
+  min-width: 0;
+  overflow: hidden;
+  background: var(--beige);
+}
+
+.gallery-item--full { grid-column: 1 / -1; }
+.gallery-item--half,
+.gallery-item--wide,
+.gallery-item--portrait { grid-column: span 6; }
+
+.gallery-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.gallery-item--half img,
+.gallery-item--wide img,
+.gallery-item--portrait img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.gallery-item--portrait img { object-position: center; }
+.gallery-item--detail img { object-position: center 58%; }
+
+.project-detail-body :is(a, button):focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 5px;
+}
+
+@media (max-width: 900px) {
+  .project-information dl {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .project-detail-page {
+    width: 100%;
+    padding: 96px 20px var(--sub-page-bottom-space);
+  }
+
+  .project-masthead { margin-bottom: 36px; }
+
+  .project-masthead h1 { font-size: clamp(36px, 11vw, 48px); }
+
+  .project-hero-media { margin-bottom: 32px; }
+
+  .project-information { padding-block: 24px; }
+
+  .project-information dl {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    row-gap: 28px;
+  }
+
+  .project-concept {
+    margin-top: 48px;
+  }
+
+  .project-gallery {
+    margin-top: 48px;
+  }
+
+  .project-gallery-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .gallery-item--full,
+  .gallery-item--half,
+  .gallery-item--wide,
+  .gallery-item--portrait {
+    grid-column: 1;
+  }
+
+  .gallery-item--half img,
+  .gallery-item--wide img,
+  .gallery-item--portrait img {
+    height: auto;
+    aspect-ratio: auto;
+    object-fit: contain;
+  }
+
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .project-detail-body *,
+  .project-detail-body *::before,
+  .project-detail-body *::after {
+    scroll-behavior: auto !important;
+    transition: none !important;
+    animation: none !important;
+  }
+}

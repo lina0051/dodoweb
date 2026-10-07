@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "testedAt": "2026-10-07T07:08:23.303Z",
+  "checks": [
+    "Shared title system, static consultation markup, navigation and local assets",
+    "Shared subtitle uses 26px and weight 500 at the 1440px PC breakpoint",
+    "Static CTA does not submit, navigate or open an external application",
+    "Responsive split-to-stack layout at five viewport widths",
+    "Shared subtitle scales down to 18px on mobile while retaining weight 500",
+    "Accessible mobile navigation and visible shared title",
+    "Work, process and consultation pages share the same responsive subtitle rule"
+  ],
+  "errors": [],
+  "failed": []
+}

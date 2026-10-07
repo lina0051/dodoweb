@@ -1,0 +1,71 @@
+{
+  "passed": true,
+  "testedAt": "2026-10-01T07:26:09.659Z",
+  "checks": [
+    "Three project phases and all nine supplied stages render in order",
+    "All nine user-supplied 1254px process illustrations load locally",
+    "Current-page navigation and contact footer links are connected",
+    "Nine responsive widths: 4-column desktop, 2-column tablet, 1-column mobile, no overflow",
+    "Mobile navigation opens and closes with keyboard support",
+    "Reduced-motion mode reveals content without animation",
+    "No JavaScript errors or failed asset responses"
+  ],
+  "layouts": [
+    {
+      "width": 320,
+      "columns": 1,
+      "overflow": false,
+      "navWrap": true
+    },
+    {
+      "width": 390,
+      "columns": 1,
+      "overflow": false,
+      "navWrap": true
+    },
+    {
+      "width": 768,
+      "columns": 1,
+      "overflow": false,
+      "navWrap": true
+    },
+    {
+      "width": 769,
+      "columns": 2,
+      "overflow": false,
+      "navWrap": false
+    },
+    {
+      "width": 1024,
+      "columns": 2,
+      "overflow": false,
+      "navWrap": false
+    },
+    {
+      "width": 1180,
+      "columns": 2,
+      "overflow": false,
+      "navWrap": false
+    },
+    {
+      "width": 1181,
+      "columns": 4,
+      "overflow": false,
+      "navWrap": false
+    },
+    {
+      "width": 1440,
+      "columns": 4,
+      "overflow": false,
+      "navWrap": false
+    },
+    {
+      "width": 1920,
+      "columns": 4,
+      "overflow": false,
+      "navWrap": false
+    }
+  ],
+  "errors": [],
+  "failed": []
+}

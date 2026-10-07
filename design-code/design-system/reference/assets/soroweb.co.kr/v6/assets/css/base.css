@@ -1,0 +1,27 @@
+:root { 
+  --font-base:  "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; 
+  --font-accent: "Cabinet Grotesk", var(--font-base);
+  --sky: #EAF6FF;
+  --navy: #0C2136; 
+  --lime:#9bff1f;
+  /*--primary:#ff6432;
+  --primary:#4DA3FF;/
+  --primary:#D9FF3F; 
+  --primary:#ff5a1e; */
+  --primary:#ff6338; 
+  /*--beige:#f1efec; */
+  --beige:#f1efec;
+  /*--gray:#fafafa;*/
+}
+ 
+
+  
+* { margin:0;padding:0;box-sizing:border-box;vertical-align:top;  }
+html, body { text-rendering:optimizeLegibility;margin:0;padding:0;height:auto; } 
+li { list-style:none; }
+a { color:inherit;text-decoration:none; } 
+button{ color:inherit;}
+button,
+textarea,
+input{font-family:var(--font-base); letter-spacing:-0.05em;  background: transparent;}
+img{max-width:100%;}

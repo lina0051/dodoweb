@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="새로운 사무공간 프로젝트를 디자인코드와 함께 시작해 보세요.">
+<title>상담신청 - Design Code</title>
+<link rel="icon" href="data:,">
+<script>document.documentElement.classList.add("has-js")</script>
+<link rel="stylesheet" href="design-system/system.css?v=20261007-subpage-space-v2">
+<link rel="stylesheet" href="work.css?v=20261007-subpage-space-v1">
+<link rel="stylesheet" href="contact.css?v=20261007-subpage-space-v1">
+<link rel="stylesheet" href="footer.css?v=20261007-footer-spacing-v4">
+<script src="header-fallback.js?v=20261007-logo-black-v3" defer></script>
+<script src="footer-fallback.js?v=20261002-file-fallback-v1" defer></script>
+<script src="header.js?v=20261007-logo-black-v3" defer></script>
+<script src="footer.js?v=20261002-common-v5" defer></script>
+<script src="sub-title-motion.js?v=20261007-subtitle-motion-v1" defer></script>
+</head>
+<body class="contact-body">
+<div id="site-header-root" data-current-page="contact"></div>
+
+<main class="sub-container contact-page">
+  <div class="sub-wrap">
+    <header class="sub-title sub-title-motion-ready" data-sub-title-motion>
+      <h1 class="btit sub-title-motion-item sub-title-motion-title" id="contact-title">Contact Us</h1>
+      <p class="stit sub-title-motion-item sub-title-motion-copy">새로운 공간을 계획하고 계신가요?<br>프로젝트의 시작을 함께 준비하겠습니다.</p>
+    </header>
+
+    <section class="contact-workspace" id="inquiry" aria-labelledby="contact-title">
+      <div class="contact-layout">
+    <aside class="contact-intro" aria-labelledby="contact-intro-title">
+      <h2 id="contact-intro-title">상담신청 하기</h2>
+      <p class="contact-lead">예상 일정과 규모를 남겨주시면 상담에 필요한 내용을 확인해 안내드리겠습니다.</p>
+
+      <address class="contact-channels">
+        <a href="tel:03180170306">
+          <span>연락처</span>
+          <strong>031-8017-0306</strong>
+          <i aria-hidden="true">↗</i>
+        </a>
+        <a href="mailto:cho@design-code.co.kr">
+          <span>이메일</span>
+          <strong>cho@design-code.co.kr</strong>
+          <i aria-hidden="true">↗</i>
+        </a>
+      </address>
+    </aside>
+
+    <div class="inquiry-panel">
+      <form class="inquiry-form" id="inquiry-form" aria-label="상담 신청 정보">
+        <div class="form-grid">
+          <div class="form-field">
+            <label for="company">회사명 <span aria-hidden="true">*</span></label>
+            <input id="company" name="company" type="text" autocomplete="organization" required>
+            <p class="field-error" id="company-error"></p>
+          </div>
+          <div class="form-field">
+            <label for="contact-name">담당자명 / 직함 <span aria-hidden="true">*</span></label>
+            <input id="contact-name" name="contactName" type="text" autocomplete="name" required>
+            <p class="field-error" id="contact-name-error"></p>
+          </div>
+          <div class="form-field">
+            <label for="phone">담당자 연락처 <span aria-hidden="true">*</span></label>
+            <input id="phone" name="phone" type="tel" inputmode="tel" autocomplete="tel" pattern="[0-9+() -]{8,}" required>
+            <p class="field-error" id="phone-error"></p>
+          </div>
+          <div class="form-field">
+            <label for="email">담당자 이메일 <span aria-hidden="true">*</span></label>
+            <input id="email" name="email" type="email" autocomplete="email" required>
+            <p class="field-error" id="email-error"></p>
+          </div>
+          <div class="form-field">
+            <label for="move-date">입주 / 공사 예정일 <span aria-hidden="true">*</span></label>
+            <input id="move-date" name="moveDate" type="date" required>
+            <p class="field-error" id="move-date-error"></p>
+          </div>
+          <div class="form-field">
+            <label for="area">예상 면적 (평) <span aria-hidden="true">*</span></label>
+            <input id="area" name="area" type="number" min="1" inputmode="numeric" required>
+            <p class="field-error" id="area-error"></p>
+          </div>
+          <div class="form-field form-field--wide">
+            <label for="address">현장 주소 <span aria-hidden="true">*</span></label>
+            <input id="address" name="address" type="text" autocomplete="street-address" required>
+            <p class="field-error" id="address-error"></p>
+          </div>
+          <div class="form-field form-field--wide">
+            <label for="message">문의 내용 <small>선택</small></label>
+            <textarea id="message" name="message" rows="7" aria-describedby="message-help"></textarea>
+            <p class="field-help" id="message-help">원하시는 공간 구성, 예산 범위, 현재 준비 상황을 자유롭게 적어주세요.</p>
+          </div>
+        </div>
+
+        <div class="form-consent">
+          <label for="privacy">
+            <input id="privacy" name="privacy" type="checkbox" required>
+            <span class="consent-check" aria-hidden="true"></span>
+            <span>상담을 위한 개인정보 수집·이용에 동의합니다. <small>수집 항목: 회사명, 성명, 연락처, 이메일, 프로젝트 정보 · 이용 목적: 상담 응대</small></span>
+          </label>
+          <p class="field-error" id="privacy-error"></p>
+        </div>
+
+        <div class="form-actions">
+          <p class="form-status" id="form-status" role="status" aria-live="polite"></p>
+          <button class="more-btn" type="button">Send Inquiry <span class="arr" aria-hidden="true">→</span></button>
+        </div>
+      </form>
+        </div>
+      </div>
+    </section>
+  </div>
+</main>
+
+<div id="site-footer-root"></div>
+</body>
+</html>

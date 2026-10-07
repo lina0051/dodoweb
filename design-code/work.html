@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="업종의 특성과 일하는 방식을 담아 완성한 공간 프로젝트를 소개합니다.">
+<title>Our Projects - Design Code</title>
+<script>document.documentElement.classList.add("has-js")</script>
+<link rel="stylesheet" href="design-system/system.css?v=20261007-subpage-space-v2">
+<link rel="stylesheet" href="work.css?v=20261007-btree-logo-v1">
+<link rel="stylesheet" href="footer.css?v=20261007-footer-spacing-v4">
+<script src="projects.js?v=20261007-btree-logo-v2" defer></script>
+<script src="header-fallback.js?v=20261007-logo-black-v3" defer></script>
+<script src="footer-fallback.js?v=20261002-file-fallback-v1" defer></script>
+<script src="header.js?v=20261007-logo-black-v3" defer></script>
+<script src="footer.js?v=20261002-common-v5" defer></script>
+<script src="work.js?v=20261007-recent-sort-v2" defer></script>
+<script src="sub-title-motion.js?v=20261007-subtitle-motion-v1" defer></script>
+</head>
+<body>
+<div id="site-header-root" data-current-page="work"></div>
+<main class="sub-container work-page" id="work">
+<div class="sub-wrap">
+<header class="sub-title sub-title-motion-ready" data-sub-title-motion>
+<h1 class="btit sub-title-motion-item sub-title-motion-title">Our Projects</h1>
+<p class="stit sub-title-motion-item sub-title-motion-copy">업종의 특성과 일하는 방식을 담아,<br>각 기업에 맞는 공간을 만듭니다.</p>
+</header>
+<div class="work-filter" role="group" aria-label="업종별 프로젝트 필터"></div>
+<p class="sr-only" id="result-status" role="status" aria-live="polite" aria-atomic="true"></p>
+<div class="work-list" id="project-list" aria-label="프로젝트 목록"></div>
+<div class="empty-state" id="empty-state" hidden>
+<p class="stit">등록된 프로젝트가 없습니다.</p>
+<p class="desc">다른 업종의 프로젝트를 확인해 보세요.</p>
+<button class="more-btn" id="reset-filter">전체 프로젝트 보기 <span class="arr" aria-hidden="true">→</span></button>
+</div>
+<noscript>프로젝트와 업종 필터를 보려면 브라우저에서 JavaScript를 활성화해 주세요.</noscript>
+</div>
+</main>
+<div id="site-footer-root"></div>
+</body>
+</html>

@@ -1,0 +1,95 @@
+{
+  "passed": true,
+  "testedAt": "2026-09-27T07:57:06.380Z",
+  "checks": [
+    "9 filters, 3 source-confirmed projects plus 3 dummy records",
+    "Supplied logo, four menu labels, current page and accessible mobile toggle",
+    "Every filter updates real records, selected state and live results",
+    "Keyboard selection, empty state and reset focus",
+    "9 responsive widths, square media, no overflow or clipped filters",
+    "45 source component comparisons × 9 CSS properties",
+    "Reduced motion extension",
+    "No JavaScript errors or failed asset responses"
+  ],
+  "widths": [
+    {
+      "width": 320,
+      "overflow": false,
+      "columns": 2,
+      "clippedButtons": false,
+      "squareImages": true,
+      "imagesReady": true
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "columns": 2,
+      "clippedButtons": false,
+      "squareImages": true,
+      "imagesReady": true
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "columns": 2,
+      "clippedButtons": false,
+      "squareImages": true,
+      "imagesReady": true
+    },
+    {
+      "width": 769,
+      "overflow": false,
+      "columns": 3,
+      "clippedButtons": false,
+      "squareImages": true,
+      "imagesReady": true
+    },
+    {
+      "width": 1200,
+      "overflow": false,
+      "columns": 3,
+      "clippedButtons": false,
+      "squareImages": true,
+      "imagesReady": true
+    },
+    {
+      "width": 1201,
+      "overflow": false,
+      "columns": 4,
+      "clippedButtons": false,
+      "squareImages": true,
+      "imagesReady": true
+    },
+    {
+      "width": 1400,
+      "overflow": false,
+      "columns": 4,
+      "clippedButtons": false,
+      "squareImages": true,
+      "imagesReady": true
+    },
+    {
+      "width": 1401,
+      "overflow": false,
+      "columns": 4,
+      "clippedButtons": false,
+      "squareImages": true,
+      "imagesReady": true
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "columns": 4,
+      "clippedButtons": false,
+      "squareImages": true,
+      "imagesReady": true
+    }
+  ],
+  "errors": [],
+  "failed": [],
+  "limits": [
+    "Four-column desktop layout and nine-filter wrapping are requested composition extensions.",
+    "Axion uses a temporary original logo until interior photography is provided.",
+    "Complete pixel parity with a different source page is not asserted."
+  ]
+}

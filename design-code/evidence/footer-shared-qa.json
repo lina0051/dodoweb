@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-02",
+  "baseUrl": "http://127.0.0.1:54642/",
+  "result": "pass",
+  "markupSource": "footer.html",
+  "normalizedMarkupIdentical": true,
+  "pages": {
+    "index.html": { "footerCount": 1, "position": "sticky" },
+    "work.html": { "footerCount": 1, "position": "sticky" },
+    "process.html": { "footerCount": 1, "position": "sticky" },
+    "contact.html": { "footerCount": 1, "position": "sticky", "legacyFooterCount": 0 }
+  },
+  "excludedPages": {
+    "project-detail.html": { "footerCount": 0, "footerLoader": false }
+  },
+  "directFilePreview": {
+    "headerFallback": "header-fallback.js",
+    "footerFallback": "footer-fallback.js",
+    "markupMatchesHttpSources": true
+  },
+  "sharedContent": {
+    "title": "Contact Us",
+    "projectHref": "contact.html",
+    "backToTopHref": "#site-header",
+    "background": "rgb(255, 118, 50)",
+    "logoIntrinsicSize": [300, 68]
+  },
+  "contactResponsive": {
+    "desktop": { "viewport": 1920, "titleSize": "100px", "overflow": false },
+    "mobile": { "viewport": 390, "titleSize": "48.75px", "overflow": false, "bottomDirection": "column" }
+  },
+  "motion": {
+    "trigger": "IntersectionObserver at main content boundary",
+    "initialState": { "motionReady": true, "revealed": false, "titleOpacity": 0, "introOpacity": 0 },
+    "revealedState": { "revealed": true, "titleOpacity": 1, "introOpacity": 1, "bottomOpacity": 1 },
+    "titleCharacterCount": 10,
+    "reducedMotionFallback": true
+  },
+  "consoleErrors": []
+}

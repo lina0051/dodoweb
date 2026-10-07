@@ -1,0 +1,19 @@
+{
+  "iteration": 5,
+  "reviewedAt": "2026-09-27T07:36:16.852909+00:00",
+  "result": "pass",
+  "method": "Desktop, mobile, and open mobile menu screenshots inspected; Playwright interaction checks passed",
+  "observations": [
+    "User-provided 300×68 logo is legible in the fixed desktop header and mobile menu",
+    "Menu order is 디자인코드, 프로젝트, 프로세스, 상담신청; consultation is a black desktop button and white mobile button",
+    "Mobile menu opens, closes with Escape and current-page navigation, and locks page scrolling while open",
+    "Original WORK typography, filters, four-column desktop grid, and transparent filter background remain intact"
+  ],
+  "evidence": [
+    "evidence/desktop.png",
+    "evidence/mobile.png",
+    "evidence/mobile-menu.png",
+    "evidence/qa.json"
+  ],
+  "limit": "Only the Project destination exists; remaining menu destinations are displayed but inactive until their target pages or contact route are supplied."
+}

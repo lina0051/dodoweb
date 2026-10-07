@@ -1,0 +1,41 @@
+{
+  "initial": [
+    {
+      "selector": "#home-project-list .work-item",
+      "x": 0,
+      "y": 36,
+      "opacity": "0"
+    },
+    {
+      "selector": "#history-list .award-block",
+      "x": 0,
+      "y": 24,
+      "opacity": "0"
+    },
+    {
+      "selector": "#difference-list .difference-item",
+      "x": 0,
+      "y": 26,
+      "opacity": "0"
+    },
+    {
+      "selector": "#partner-marquees .partner-marquee",
+      "x": 0,
+      "y": 22,
+      "opacity": "0"
+    },
+    {
+      "selector": "#faq-list .faq-item",
+      "x": 0,
+      "y": 18,
+      "opacity": "0"
+    }
+  ],
+  "settled": {
+    "revealed": true,
+    "transform": "none",
+    "opacity": "1"
+  },
+  "allHorizontalOffsetsZero": true,
+  "allVerticalOffsetsPositive": true
+}

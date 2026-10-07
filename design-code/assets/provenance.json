@@ -1,0 +1,32 @@
+{
+  "dataSource": "User-provided screenshot 2026-09-27 16.06.19",
+  "images": {
+    "axion": "/Users/lina/Desktop/디자인코드/기획/홈페이지 자료모음/고객사모음/38)AXION.jpg",
+    "btree": "/Users/lina/Desktop/디자인코드/기획/홈페이지 자료모음/고객사모음/46)비트리.jpg",
+    "novonesis": "/Users/lina/Desktop/디자인코드/기획/추가내용/도도웹전달용_노보네시스_준공사진/2.jpg",
+    "novonesisDetail": "/Users/lina/Desktop/디자인코드/기획/추가내용/도도웹전달용_노보네시스_준공사진"
+  },
+  "process": {
+    "source": "/Users/lina/Desktop/프로세스",
+    "contentReference": "/Users/lina/Desktop/Frame 277.png",
+    "files": ["01.png", "02.png", "03.png", "04.png", "05.png", "06.png", "07.png", "08.png", "09.png"],
+    "updatedAt": "2026-10-01T07:47:08Z",
+    "note": "User-provided process illustrations copied without visual modification. Files 04.png, 05.png, 06.png, and 08.png were refreshed from the source folder on 2026-10-01."
+  },
+  "notes": [
+    "Novonesis uses another actual entrance photo from supplied local client materials.",
+    "Btree uses the original client logo.",
+    "Axion interior original was not available; client logo is an interim replacement, not a completed interior photo.",
+    "No SORO project imagery or invented client records are included."
+  ],
+  "dummyRecords": {
+    "requestedByUser": true,
+    "ids": [
+      "sample-tech",
+      "sample-media",
+      "sample-service"
+    ],
+    "data": "Names, industries and areas are fictional layout samples.",
+    "images": "Existing Novonesis photos 3.jpg, 4.jpg and 2.jpg reused for layout only; not project claims."
+  }
+}
