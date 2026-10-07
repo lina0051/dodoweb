@@ -46,10 +46,11 @@
 - 아이콘에 그라데이션, 그림자, 배경 원형, 큰 채움면을 사용하지 않는다. 모션은 아이콘의 배치와 바깥 프레임을 고정하고 내부 설계선·궤도·인증·초점만 상시 반복한다. `prefers-reduced-motion` 환경에서는 정지한다.
 
 ## Components
+- 플로팅 문의: 전체 페이지 오른쪽 하단에 카카오톡과 문자 버튼을 세로로 고정한다. 사용자 스크린샷과 `https://canivon.com/` 기준으로 카카오는 노란 원형, 문자는 검정 원형 배경에 흰색 솔리드 문자 말풍선 아이콘을 사용한다. 데스크톱 56px·간격 16px·오른쪽/하단 24px, 모바일 48px·간격 12px·오른쪽/하단 16px 및 safe-area를 적용한다. 공통 푸터와 독립된 `floating-contact.js`와 `floating-contact.css`에서 관리한다. 모바일 메뉴가 열리면 버튼을 숨기고, 키보드 포커스와 화면 낭독기용 이름을 제공하며, 마우스오버 툴팁은 표시하지 않는다.
 - 공통 헤더: 실제 마크업은 `header.html`이 소유하고 `header-fallback.js`는 그와 완전히 동일한 `file://` 직접 미리보기용 본본을 제공한다. 각 페이지는 `#site-header-root`만 선언하고 `header.js`가 HTTP에서는 `header.html`, 파일 미리보기에서는 폴백을 불러온 뒤 현재 메뉴의 `aria-current`만 설정한다. 모든 페이지는 같은 모션 로고를 데스크톱 56px, 모바일 28px로 표시하고 4.4초 부근에서 정지한다.
 - Process: 프로젝트 페이지와 동일한 `.sub-container`, `.sub-wrap`, `.sub-title`, `.btit`, `.stit` 상단 체계를 사용한다. 이후 세 구간 헤더와 아홉 개의 일러스트 카드로 구성하며, 4열 데스크톱·2열 태블릿(769–1180px)·1열 모바일(최대 768px)을 유지하고 `prefers-reduced-motion`에서는 스크롤 리빌을 정적으로 표시한다.
 - About Alternative: 기존 수치인 업계 경력 14년·프로젝트 누적 250+와 One-stop Service 8개 항목만 사용한다. 데스크톱은 상단 1개와 하단 2개의 지표 구조, 모바일은 단일 열로 전환하며 프로젝트 이미지는 가로 스크롤과 스냅으로 탐색한다.
-- 히어로: 6개 슬라이드. 첫 슬라이드는 유리 노이즈 오버레이 없이 H.264 Full HD `assets/video/magnific-highkey-studio-1080p.mp4`를 사용하고 이후 슬라이드는 기존 공간 사진을 사용한다.
+- 히어로: 7개 슬라이드. 첫 두 슬라이드는 유리 노이즈 오버레이 없이 `assets/video/designcode-hero-line-to-space-HQ.webm`와 `assets/video/magnific-highkey-studio-1080p.mp4`를 사용하며 문구와 디자인은 동일하다. 이후 슬라이드는 기존 공간 사진을 사용한다. 첫 화면 로딩과 슬라이드 전환 애니메이션이 끝난 후 활성 영상을 0초부터 끝까지 재생한 뒤 다음 슬라이드로 전환하며, 사진은 7초 간격으로 전환한다.
 - 프로젝트: 원본 WORK 카드의 정사각형·타이포·메타·선 재사용. 3열은 사용자 지정.
 - 히스토리: 원본 `.award-block > .award-year + .award-list > .award-item` 구조와 반응형을 유지. 2026년 `LATEST PROJECTS`, 2025년 `RECENT PROJECTS`, 2024년 `PROJECT ARCHIVE`의 독립된 세 블록에 프로젝트명과 영문명을 표시하며 원본 수상 배지는 사용하지 않음.
 - Difference: 카드 내부 영문 상세 타이틀은 사용하지 않고 한글 제목과 설명만 표시한다. 3D 제안·A/S·면허·촬영은 각각 공간 프레임·연결 궤도·건축 그리드 인증·뷰파인더로 표현한다.
@@ -86,6 +87,8 @@
 - Process verification: `tests/process.cjs`, `evidence/process-qa.json`, and `evidence/process-visual-review.json`.
 - 의존성 없는 HTML/CSS/JS. 기존 Python 로컬 서버 사용.
 - 히어로 영상: 사용자 제공 HEVC MOV `magnific_real-highkey-studio-footage-of-a-smooth-white-lacq_seedance_1080p_16-9_24fps_26020.mov`을 웹 호환 H.264 `assets/video/magnific-highkey-studio-1080p.mp4`로 변환해 사용한다.
+- 첫 번째 히어로 영상: 사용자 지정 `designcode_hero_line_to_space_HQ.webm` 원본을 변환이나 편집 없이 `assets/video/designcode-hero-line-to-space-HQ.webm`으로 복사해 사용한다.
+- 플로팅 문의 링크 출처: 2026-10-07 `https://www.design-code.co.kr/` HTML에서 확인한 카카오 채널 `_QGLVX`와 휴대전화 `01041663194`. 카카오는 `https://pf.kakao.com/_QGLVX/chat`, 문자는 공개된 휴대전화로 연결하는 `sms:01041663194`를 사용한다. 원본 사이트에는 별도 SMS 링크가 없으므로 문자 URI는 해당 번호를 바탕으로 구성한다.
 - 연락처 출처: 기존 작업물 `../footer-preview/index.html`의 디자인코드 회사 정보. 이번 턴에서 외부 실시간 확인은 하지 않음.
 - 이미지와 영상은 로컬 파일. lazy loading 이미지가 실제 스크롤 후 로드되는지 검증.
 - 검증: `tests/home.cjs`, `tests/work.cjs`, `evidence/home-qa.json`, 화면 캡처.

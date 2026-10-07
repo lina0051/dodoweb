@@ -14,8 +14,8 @@ const images = [
   'assets/hero/open-office.jpg'
 ];
 
-assert.equal((html.match(/class="hero-slide(?:\s|\")/g) || []).length, 6, 'hero must contain the video plus five supplied image slides');
-assert.equal((html.match(/class="hero-progress-bar(?:\s|\")/g) || []).length, 6, 'hero progress must use one bar per slide');
+assert.equal((html.match(/class="hero-slide(?:\s|\")/g) || []).length, 7, 'hero must contain two videos plus five supplied image slides');
+assert.equal((html.match(/class="hero-progress-bar(?:\s|\")/g) || []).length, 7, 'hero progress must use one bar per slide');
 assert.doesNotMatch(html, /id="slide-(?:current|total)"/, 'visible slide numbers must be removed');
 assert.match(html, /class="hero-progress-bar is-active"/, 'the first progress bar must be active initially');
 assert.match(styles, /\.hero-progress-bar\s*\{[^}]*height:\s*2px;/, 'hero progress bars must be 2px thick');
@@ -35,4 +35,4 @@ for (const image of images) {
 
 assert.doesNotMatch(html, /assets\/projects\/sample-(?:tech|media)\.jpg/, 'placeholder project images must not remain in the hero');
 
-console.log('Main hero uses all five supplied wide-cut images with six-slide navigation.');
+console.log('Main hero uses all five supplied wide-cut images with two videos and seven-slide navigation.');

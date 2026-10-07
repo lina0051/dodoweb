@@ -200,6 +200,7 @@ const root = path.resolve(__dirname, '..');
   await page.waitForFunction(() => document.querySelector('#hero-video').readyState >= 2);
   assert.deepEqual(await page.locator('.hero-slide-copy :is(h1,h2)').allTextContents(), [
    'We Design Together',
+   'We Design Together',
    'Kakao Healthcare',
    'Studio Bside',
    'Novonesis',
@@ -207,7 +208,8 @@ const root = path.resolve(__dirname, '..');
    'Super Creative'
   ]);
   assert.deepEqual(await page.locator('.hero-slide-copy p').allTextContents(), [
-   '일하는 방식을 이해하고, 브랜드에 맞는 공간을 설계합니다.',
+   '[시안1] 일하는 방식을 이해하고, 브랜드에 맞는 공간을 설계합니다.',
+   '[시안2] 일하는 방식을 이해하고, 브랜드에 맞는 공간을 설계합니다.',
    '투명한 동선과 따뜻한 소재로 완성한 카카오헬스케어의 공간입니다.',
    '집중과 교류가 자연스럽게 이어지는 스튜디오비사이드의 공간입니다.',
    '지속가능한 성장을 담아낸 노보네시스의 업무 공간입니다.',
@@ -222,14 +224,16 @@ const root = path.resolve(__dirname, '..');
    'assets/hero/open-office.jpg'
   ]);
   assert.equal(await page.locator('.hero-slide.is-active').getAttribute('data-slide'), '0');
-  assert.equal(await page.locator('.hero-slide.is-prev').getAttribute('data-slide'), '5');
+  assert.equal(await page.locator('.hero-slide.is-prev').getAttribute('data-slide'), '6');
   assert.equal(await page.locator('.hero-slide.is-next').getAttribute('data-slide'), '1');
-  assert.equal(await page.locator('.hero-progress-bar').count(), 6);
+  assert.equal(await page.locator('.hero-progress-bar').count(), 7);
   assert.equal(await page.locator('.hero-progress-bar.is-active').evaluate(bar => [...bar.parentElement.children].indexOf(bar)), 0);
   assert.equal(await page.locator('#hero-progress').innerText(), '');
   const video = await page.locator('#hero-video').evaluate(v => ({ width:v.videoWidth, height:v.videoHeight, muted:v.muted, loop:v.loop }));
-  assert.ok(video.width > 0); assert.equal(video.muted,true); assert.equal(video.loop,true);
+  assert.ok(video.width > 0); assert.equal(video.muted,true); assert.equal(video.loop,false);
   await page.waitForFunction(() => [...document.querySelectorAll('.hero-progress-bar')].findIndex(bar => bar.classList.contains('is-active')) === 1, {timeout: 9500});
+  await page.waitForFunction(() => document.querySelector('#hero-video').currentTime > 0);
+  assert.deepEqual(await page.locator('.hero-slide video').evaluateAll(videos => videos.map(video => video.paused)), [true, false]);
   assert.equal(await page.locator('#slide-pause').count(), 0);
   await page.locator('#slide-prev').click();
   assert.equal(await page.locator('.hero-progress-bar.is-active').evaluate(bar => [...bar.parentElement.children].indexOf(bar)), 0);
@@ -237,7 +241,8 @@ const root = path.resolve(__dirname, '..');
   assert.equal(await page.locator('.hero-progress-bar.is-active').evaluate(bar => [...bar.parentElement.children].indexOf(bar)), 1);
   await page.keyboard.press('ArrowRight');
   assert.equal(await page.locator('.hero-progress-bar.is-active').evaluate(bar => [...bar.parentElement.children].indexOf(bar)), 2);
-  for (let index = 0; index < 4; index += 1) await page.locator('#slide-next').click();
+  assert.deepEqual(await page.locator('.hero-slide video').evaluateAll(videos => videos.map(video => video.paused)), [true, true]);
+  for (let index = 0; index < 5; index += 1) await page.locator('#slide-next').click();
   assert.equal(await page.locator('.hero-progress-bar.is-active').evaluate(bar => [...bar.parentElement.children].indexOf(bar)), 0);
   checks.push('Hero copy, full-screen carousel state, automatic rotation, minimal controls, next/previous, keyboard and wraparound work');
   for (const item of await page.locator('.faq-question').all()) {

@@ -210,7 +210,7 @@
 
   const hero = document.querySelector('#hero');
   const slides = [...hero.querySelectorAll('.hero-slide')];
-  const video = hero.querySelector('video');
+  const videos = [...hero.querySelectorAll('video')];
   const heroProgress = document.querySelector('#hero-progress');
   const progressBars = [...heroProgress.querySelectorAll('.hero-progress-bar')];
   const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
@@ -218,6 +218,12 @@
   let motionPaused = reducedMotion.matches;
   let visible = true;
   let timer;
+  let videoReady = false;
+  let playbackRequest = 0;
+  const pageReady = new Promise(resolve => {
+    if (document.readyState === 'complete') resolve();
+    else window.addEventListener('load', resolve, { once: true });
+  });
   function preloadSlide(index) {
     const image = slides[(index + slides.length) % slides.length].querySelector('img');
     if (image) image.loading = 'eager';
@@ -225,12 +231,23 @@
   function schedule() {
     clearTimeout(timer);
     const running = !motionPaused && visible && !document.hidden;
-    if (running && current === 0) video.play().catch(() => {});
-    else video.pause();
-    if (running) timer = setTimeout(() => show(current + 1), 7000);
+    const activeVideo = slides[current].querySelector('video');
+    videos.forEach(video => {
+      if (running && videoReady && video === activeVideo) video.play().catch(() => {});
+      else video.pause();
+    });
+    if (running && !activeVideo) timer = setTimeout(() => show(current + 1), 7000);
   }
   function show(index) {
     current = (index + slides.length) % slides.length;
+    const activeSlide = slides[current];
+    const activeVideo = activeSlide.querySelector('video');
+    const request = ++playbackRequest;
+    videoReady = false;
+    if (activeVideo) {
+      activeVideo.pause();
+      activeVideo.currentTime = 0;
+    }
     const previous = (current - 1 + slides.length) % slides.length;
     const next = (current + 1) % slides.length;
     preloadSlide(current);
@@ -244,7 +261,23 @@
     progressBars.forEach((bar, i) => bar.classList.toggle('is-active', current === i));
     heroProgress.setAttribute('aria-label', `슬라이드 ${current + 1} / ${slides.length}`);
     schedule();
+    if (activeVideo) {
+      // Keep the opening frame still until the page and slide are visible.
+      pageReady
+        .then(() => new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve))))
+        .then(() => Promise.all(activeSlide.getAnimations().map(animation => animation.finished.catch(() => {}))))
+        .then(() => {
+          if (request !== playbackRequest) return;
+          videoReady = true;
+          schedule();
+        });
+    }
   }
+  videos.forEach(video => {
+    video.addEventListener('ended', () => {
+      if (!motionPaused && visible && !document.hidden && slides[current].contains(video)) show(current + 1);
+    });
+  });
   document.querySelector('#slide-prev').addEventListener('click', () => show(current - 1));
   document.querySelector('#slide-next').addEventListener('click', () => show(current + 1));
   hero.addEventListener('keydown', event => {
