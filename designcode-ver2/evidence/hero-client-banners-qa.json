@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "testedAt": "2026-10-20T04:29:41.304Z",
+  "baseUrl": "http://127.0.0.1:60369/",
+  "checks": [
+    "five client photos in order",
+    "no hero video",
+    "fixed copy during every slide and animation",
+    "all photos load on desktop/mobile",
+    "progress and accessibility state",
+    "next/previous wraparound",
+    "keyboard navigation",
+    "seven-second autoplay",
+    "pause off screen",
+    "reduced motion",
+    "six viewport widths without overflow"
+  ],
+  "screenshots": [
+    "evidence/hero-client-banners-desktop.png",
+    "evidence/hero-client-banners-desktop-2.png",
+    "evidence/hero-client-banners-desktop-3.png",
+    "evidence/hero-client-banners-desktop-4.png",
+    "evidence/hero-client-banners-desktop-5.png",
+    "evidence/hero-client-banners-mobile.png",
+    "evidence/hero-client-banners-mobile-2.png",
+    "evidence/hero-client-banners-mobile-3.png",
+    "evidence/hero-client-banners-mobile-4.png",
+    "evidence/hero-client-banners-mobile-5.png"
+  ],
+  "errors": [],
+  "failed": []
+}

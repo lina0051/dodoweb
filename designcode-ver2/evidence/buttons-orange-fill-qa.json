@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "route": "index.html",
+      "width": 390,
+      "hover": true,
+      "keyboardFocus": true,
+      "restoresDefault": true
+    },
+    {
+      "route": "contact.html",
+      "width": 390,
+      "hover": true,
+      "keyboardFocus": true,
+      "restoresDefault": true
+    },
+    {
+      "route": "work.html",
+      "width": 390,
+      "hover": true,
+      "keyboardFocus": true,
+      "restoresDefault": true
+    },
+    {
+      "route": "index.html",
+      "width": 1440,
+      "hover": true,
+      "keyboardFocus": true,
+      "restoresDefault": true
+    },
+    {
+      "route": "contact.html",
+      "width": 1440,
+      "hover": true,
+      "keyboardFocus": true,
+      "restoresDefault": true
+    },
+    {
+      "route": "work.html",
+      "width": 1440,
+      "hover": true,
+      "keyboardFocus": true,
+      "restoresDefault": true
+    }
+  ],
+  "errors": []
+}

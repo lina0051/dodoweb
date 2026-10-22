@@ -1,0 +1,61 @@
+{
+  "passed": true,
+  "testedAt": "2026-09-30T05:38:41.939Z",
+  "checks": [
+    "Sticky footer reveal layers, single-play header/footer logos and fully revealed footer interactions",
+    "FAQ question text and icon use the primary orange on pointer hover",
+    "Process remains in navigation only; history shows complete 2026-2024 project groups and a project link",
+    "Original video ready; automatic rotation, pause, next/previous, keyboard and wraparound work",
+    "All FAQ answers open and close with pointer and keyboard",
+    "Six viewport widths: PC 3×2, mobile 2×3, no horizontal overflow",
+    "Mobile menu navigation and reduced-motion pause",
+    "Project route remains available with nine filters",
+    "All media loaded; no JavaScript errors or failed HTTP responses"
+  ],
+  "layouts": [
+    {
+      "width": 320,
+      "overflow": false,
+      "columns": 2,
+      "rows": 3
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "columns": 2,
+      "rows": 3
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "columns": 2,
+      "rows": 3
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "columns": 3,
+      "rows": 2
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "columns": 3,
+      "rows": 2
+    },
+    {
+      "width": 1920,
+      "overflow": false,
+      "columns": 3,
+      "rows": 2
+    }
+  ],
+  "video": {
+    "width": 1080,
+    "height": 1080,
+    "muted": true,
+    "loop": true
+  },
+  "errors": [],
+  "failed": []
+}

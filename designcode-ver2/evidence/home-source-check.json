@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "width": 390,
+      "selector": ".award-block",
+      "properties": 9
+    },
+    {
+      "width": 390,
+      "selector": ".award-year",
+      "properties": 9
+    },
+    {
+      "width": 390,
+      "selector": ".award-label",
+      "properties": 9
+    },
+    {
+      "width": 390,
+      "selector": ".award-list",
+      "properties": 9
+    },
+    {
+      "width": 390,
+      "selector": ".award-item",
+      "properties": 9
+    },
+    {
+      "width": 1440,
+      "selector": ".award-block",
+      "properties": 9
+    },
+    {
+      "width": 1440,
+      "selector": ".award-year",
+      "properties": 9
+    },
+    {
+      "width": 1440,
+      "selector": ".award-label",
+      "properties": 9
+    },
+    {
+      "width": 1440,
+      "selector": ".award-list",
+      "properties": 9
+    },
+    {
+      "width": 1440,
+      "selector": ".award-item",
+      "properties": 9
+    }
+  ],
+  "hashes": {
+    "base.css": "beff1a4c680f42d15f388ba1267acf13ceb17464326c849f34b52172f4cef8f4",
+    "common.css": "8e6bdc4c3fc095a021349153b44e6ee89fc9f24c01d948cf186583d52fe24d58",
+    "main.css": "3671704f0f4b8f777c3a91b2809022d234004c0babaedfcc12d24cb267ba1d98"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "passed": true,
+  "testedAt": "2026-10-07T07:08:20.895Z",
+  "checks": [
+    "Our Story introduction absorbs the former Story content and removes the duplicate section",
+    "Scrolled header uses translucent white, backdrop blur, saturation, and a subtle divider",
+    "Vertical scroll drives a sticky, staggered horizontal project gallery",
+    "The rail reaches its final image before releasing into the next vertical section",
+    "Eight responsive widths preserve the intended grids without horizontal overflow",
+    "Desktop and mobile gallery, Difference, and service-card states are captured",
+    "Reduced-motion mode changes the rail to manual scrolling and keeps final metric values"
+  ],
+  "layouts": [
+    {
+      "width": 320,
+      "overflow": false,
+      "studioColumns": 1,
+      "titleFits": true,
+      "serviceColumns": 2,
+      "serviceCards": true,
+      "differenceColumns": 2,
+      "differenceBlockFlow": true,
+      "metricSectionColumns": 1,
+      "sectionTitleSize": "44.8px",
+      "sectionTitleSystemMatches": true
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "studioColumns": 1,
+      "titleFits": true,
+      "serviceColumns": 2,
+      "serviceCards": true,
+      "differenceColumns": 2,
+      "differenceBlockFlow": true,
+      "metricSectionColumns": 1,
+      "sectionTitleSize": "54.6px",
+      "sectionTitleSystemMatches": true
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "studioColumns": 1,
+      "titleFits": true,
+      "serviceColumns": 2,
+      "serviceCards": true,
+      "differenceColumns": 2,
+      "differenceBlockFlow": true,
+      "metricSectionColumns": 1,
+      "sectionTitleSize": "76px",
+      "sectionTitleSystemMatches": true
+    },
+    {
+      "width": 769,
+      "overflow": false,
+      "studioColumns": 2,
+      "titleFits": true,
+      "serviceColumns": 4,
+      "serviceCards": true,
+      "differenceColumns": 2,
+      "differenceBlockFlow": true,
+      "metricSectionColumns": 2,
+      "sectionTitleSize": "100px",
+      "sectionTitleSystemMatches": true
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "studioColumns": 2,
+      "titleFits": true,
+      "serviceColumns": 4,
+      "serviceCards": true,
+      "differenceColumns": 2,
+      "differenceBlockFlow": true,
+      "metricSectionColumns": 2,
+      "sectionTitleSize": "100px",
+      "sectionTitleSystemMatches": true
+    },
+    {
+      "width": 1280,
+      "overflow": false,
+      "studioColumns": 2,
+      "titleFits": true,
+      "serviceColumns": 4,
+      "serviceCards": true,
+      "differenceColumns": 4,
+      "differenceBlockFlow": true,
+      "metricSectionColumns": 2,
+      "sectionTitleSize": "100px",
+      "sectionTitleSystemMatches": true
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "studioColumns": 2,
+      "titleFits": true,
+      "serviceColumns": 4,
+      "serviceCards": true,
+      "differenceColumns": 4,
+      "differenceBlockFlow": true,
+      "metricSectionColumns": 2,
+      "sectionTitleSize": "100px",
+      "sectionTitleSystemMatches": true
+    },
+    {
+      "width": 1920,
+      "overflow": false,
+      "studioColumns": 2,
+      "titleFits": true,
+      "serviceColumns": 4,
+      "serviceCards": true,
+      "differenceColumns": 4,
+      "differenceBlockFlow": true,
+      "metricSectionColumns": 2,
+      "sectionTitleSize": "100px",
+      "sectionTitleSystemMatches": true
+    }
+  ],
+  "errors": [],
+  "failed": []
+}

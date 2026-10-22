@@ -1,0 +1,107 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "route": "index.html",
+      "position": "fixed",
+      "right": 24,
+      "bottom": 24,
+      "width": 56,
+      "height": 128,
+      "buttons": [
+        true,
+        true
+      ]
+    },
+    {
+      "route": "work.html",
+      "position": "fixed",
+      "right": 24,
+      "bottom": 24,
+      "width": 56,
+      "height": 128,
+      "buttons": [
+        true,
+        true
+      ]
+    },
+    {
+      "route": "process.html",
+      "position": "fixed",
+      "right": 24,
+      "bottom": 24,
+      "width": 56,
+      "height": 128,
+      "buttons": [
+        true,
+        true
+      ]
+    },
+    {
+      "route": "contact.html",
+      "position": "fixed",
+      "right": 24,
+      "bottom": 24,
+      "width": 56,
+      "height": 128,
+      "buttons": [
+        true,
+        true
+      ]
+    },
+    {
+      "route": "about.html",
+      "position": "fixed",
+      "right": 24,
+      "bottom": 24,
+      "width": 56,
+      "height": 128,
+      "buttons": [
+        true,
+        true
+      ]
+    },
+    {
+      "route": "about-alt.html",
+      "position": "fixed",
+      "right": 24,
+      "bottom": 24,
+      "width": 56,
+      "height": 128,
+      "buttons": [
+        true,
+        true
+      ]
+    },
+    {
+      "route": "project-detail.html",
+      "position": "fixed",
+      "right": 24,
+      "bottom": 24,
+      "width": 56,
+      "height": 128,
+      "buttons": [
+        true,
+        true
+      ]
+    }
+  ],
+  "mobile": [
+    16,
+    16,
+    48,
+    108
+  ],
+  "checks": [
+    "all seven routes",
+    "right-bottom fixed placement after scroll",
+    "verified contact destinations",
+    "keyboard focus and tooltip",
+    "mobile size and safe margins",
+    "hidden under mobile menu",
+    "reduced motion",
+    "direct-file preview"
+  ],
+  "errors": [],
+  "failed": []
+}

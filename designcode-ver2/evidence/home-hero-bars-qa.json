@@ -1,0 +1,41 @@
+{
+  "desktopBefore": {
+    "count": 6,
+    "text": "",
+    "active": 0,
+    "widths": [
+      "60px",
+      "30px",
+      "30px",
+      "30px",
+      "30px",
+      "30px"
+    ],
+    "label": "슬라이드 1 / 6"
+  },
+  "desktopAfter": {
+    "active": 1,
+    "widths": [
+      "30px",
+      "60px",
+      "30px",
+      "30px",
+      "30px",
+      "30px"
+    ],
+    "label": "슬라이드 2 / 6"
+  },
+  "mobile": {
+    "overflow": false,
+    "widths": [
+      "44px",
+      "22px",
+      "22px",
+      "22px",
+      "22px",
+      "22px"
+    ],
+    "active": 0
+  },
+  "errors": []
+}

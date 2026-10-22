@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="일하는 방식을 이해하고, 브랜드에 맞는 공간을 설계합니다. 디자인코드의 프로젝트와 공간을 만드는 과정을 만나보세요.">
+<title>Design Code - Communication</title>
+<link rel="icon" href="data:,"><link rel="stylesheet" href="design-system/system.css?v=20261020-title-spacing-v5"><link rel="stylesheet" href="work.css?v=20261021-about-menu-v3"><link rel="stylesheet" href="home.css?v=20261020-title-spacing-v13"><link rel="stylesheet" href="footer.css?v=20261020-footer-widgets-v4">
+<script src="header-fallback.js?v=20261021-about-menu-v3" defer></script><script src="footer-fallback.js?v=20261020-footer-widgets-v4" defer></script><script src="header.js?v=20261021-about-menu-v3" defer></script><script src="footer.js?v=20261020-footer-widgets-v4" defer></script><script src="home-content.js?v=20261022-cleanup-v1" defer></script><script src="home.js?v=20261022-cleanup-v1" defer></script>
+<link rel="stylesheet" href="floating-contact.css?v=20261020-instagram-v4">
+<script src="floating-contact.js?v=20261020-instagram-link-v6" defer></script>
+</head>
+<body class="home-body">
+<div id="site-header-root" data-current-page="home"></div>
+
+<main class="main-container home-page" id="main">
+<section class="main-visual home-hero" id="hero" aria-label="디자인코드 공간 소개" aria-roledescription="carousel" tabindex="0">
+  <div class="hero-slides">
+    <article class="hero-slide hero-slide--studio-bside is-active" data-slide="0" role="group" aria-label="1 / 5: 스튜디오비사이드 업무 공간" aria-roledescription="slide">
+      <img src="assets/hero/banner-studio-bside.jpg" alt="스튜디오비사이드 업무 공간" width="1536" height="1024" loading="eager" fetchpriority="high" decoding="async">
+    </article>
+    <article class="hero-slide hero-slide--novonesis" data-slide="1" role="group" aria-label="2 / 5: 노보네시스 업무 공간" aria-roledescription="slide" aria-hidden="true">
+      <img src="assets/hero/banner-novonesis.jpg" alt="노보네시스 업무 공간" width="2048" height="1364" loading="lazy" decoding="async">
+    </article>
+    <article class="hero-slide hero-slide--kakao" data-slide="2" role="group" aria-label="3 / 5: 카카오 업무 공간" aria-roledescription="slide" aria-hidden="true">
+      <img src="assets/hero/banner-kakao.jpg" alt="카카오 업무 공간" width="2560" height="1706" loading="lazy" decoding="async">
+    </article>
+    <article class="hero-slide hero-slide--apet" data-slide="3" role="group" aria-label="4 / 5: 에이펫 업무 공간" aria-roledescription="slide" aria-hidden="true">
+      <img src="assets/hero/banner-apet.jpg" alt="에이펫 업무 공간" width="1536" height="1024" loading="lazy" decoding="async">
+    </article>
+    <article class="hero-slide hero-slide--medispan" data-slide="4" role="group" aria-label="5 / 5: 메디스팬 업무 공간" aria-roledescription="slide" aria-hidden="true">
+      <img src="assets/hero/banner-medispan.jpg" alt="메디스팬 업무 공간" width="1536" height="1024" loading="lazy" decoding="async">
+    </article>
+  </div>
+  <div class="hero-slide-copy"><h1>We Design Together</h1><p>일하고싶은공간, 디자인코드가함께설계합니다.</p></div>
+  <button class="hero-arrow hero-arrow--prev" type="button" id="slide-prev" aria-label="이전 슬라이드"><span class="hero-arrow-icon" aria-hidden="true"></span></button>
+  <button class="hero-arrow hero-arrow--next" type="button" id="slide-next" aria-label="다음 슬라이드"><span class="hero-arrow-icon" aria-hidden="true"></span></button>
+  <div class="hero-progress" id="hero-progress" role="status" aria-live="polite" aria-label="슬라이드 1 / 5">
+    <span class="hero-progress-bars" aria-hidden="true">
+      <span class="hero-progress-bar is-active"></span>
+      <span class="hero-progress-bar"></span>
+      <span class="hero-progress-bar"></span>
+      <span class="hero-progress-bar"></span>
+      <span class="hero-progress-bar"></span>
+    </span>
+  </div>
+</section>
+<section class="home-section home-projects" id="projects" aria-labelledby="projects-title">
+  <div class="section-heading"><h2 class="btit" id="projects-title">Featured Work</h2><p class="section-copy">서로 다른 업종, 서로 다른 일상.<br>각 기업의 방식으로 완성한 공간을 만나보세요.</p></div>
+  <div class="work-list" id="home-project-list"></div>
+  <div class="section-link"><a href="work.html" class="more-btn">전체 프로젝트 보기 <span class="arr" aria-hidden="true">→</span></a></div>
+</section>
+<section class="award-section home-section history-section" id="history" aria-labelledby="history-title">
+  <div class="section-heading"><h2 class="btit" id="history-title">Our History</h2><p class="section-copy">14년의 업계 경력을 바탕으로, 신뢰할 수 있는 공간을 만들어갑니다.</p></div>
+  <div id="history-list"></div>
+  <div class="cursor-hover"><a href="work.html" class="more-btn">전체 프로젝트 보기 <span class="arr" aria-hidden="true">→</span></a></div>
+</section>
+<section class="home-section difference-section" id="about" aria-labelledby="difference-title">
+  <div class="section-heading"><h2 class="btit" id="difference-title">Difference</h2><p class="section-copy"><span class="difference-intro">공간을 완성하는 방식부터 다릅니다.</span>디자인 제안부터 시공, 준공 이후까지.<br>디자인코드만의 전문성과 책임으로 차이를 만듭니다.</p></div>
+  <div class="difference-list" id="difference-list"></div>
+</section>
+<section class="home-section partners-section" id="partners" aria-labelledby="partners-title">
+  <div class="section-heading"><h2 class="btit" id="partners-title">Our Partners</h2><p class="section-copy">함께 고민하고, 함께 만들어 갑니다.</p></div>
+  <div class="partner-marquees" id="partner-marquees" aria-label="파트너사 로고 목록"></div>
+</section>
+<section class="faq-section home-section home-faq" id="faq" aria-labelledby="faq-title">
+  <div class="faq-grid"><div class="faq-cont"><div class="faq-head"><h2 class="btit" id="faq-title">Questions?<br>Answered.</h2><p class="section-copy">공간을 준비하며 궁금했던 이야기.<br>시작 전에 확인해 보세요.</p><a href="contact.html" class="more-btn">상담신청하기 <span class="arr" aria-hidden="true">→</span></a></div><div class="faq-list" id="faq-list"></div></div></div>
+</section>
+</main>
+<div id="site-footer-root"></div>
+</body></html>

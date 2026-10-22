@@ -1,0 +1,143 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "route": "index.html",
+      "width": 1440,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "about.html",
+      "width": 1440,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "about-new.html",
+      "width": 1440,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "about-alt.html",
+      "width": 1440,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "work.html",
+      "width": 1440,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "process.html",
+      "width": 1440,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "contact.html",
+      "width": 1440,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "project-detail.html",
+      "width": 1440,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "index.html",
+      "width": 390,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "about.html",
+      "width": 390,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "about-new.html",
+      "width": 390,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "about-alt.html",
+      "width": 390,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "work.html",
+      "width": 390,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "process.html",
+      "width": 390,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "contact.html",
+      "width": 390,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    },
+    {
+      "route": "project-detail.html",
+      "width": 390,
+      "initialMatchesMain": true,
+      "scrolledMatchesMain": true
+    }
+  ],
+  "types": {
+    "390": {
+      "initial": {
+        "color": "rgb(10, 10, 10)",
+        "background": "rgba(0, 0, 0, 0)",
+        "backdropFilter": "none",
+        "border": "rgba(0, 0, 0, 0)",
+        "logoFilter": "url(\"#logo-black-layers\")",
+        "toggleColor": "rgb(10, 10, 10)",
+        "menuColor": "rgb(255, 255, 255)"
+      },
+      "scrolled": {
+        "color": "rgb(10, 10, 10)",
+        "background": "rgba(255, 255, 255, 0.72)",
+        "backdropFilter": "blur(18px) saturate(1.4)",
+        "border": "rgba(10, 10, 10, 0.08)",
+        "logoFilter": "url(\"#logo-black-layers\")",
+        "toggleColor": "rgb(10, 10, 10)",
+        "menuColor": "rgb(255, 255, 255)"
+      }
+    },
+    "1440": {
+      "initial": {
+        "color": "rgb(10, 10, 10)",
+        "background": "rgba(0, 0, 0, 0)",
+        "backdropFilter": "none",
+        "border": "rgba(0, 0, 0, 0)",
+        "logoFilter": "url(\"#logo-black-layers\")",
+        "toggleColor": "rgba(0, 0, 0, 0)",
+        "menuColor": "rgb(10, 10, 10)"
+      },
+      "scrolled": {
+        "color": "rgb(10, 10, 10)",
+        "background": "rgba(255, 255, 255, 0.72)",
+        "backdropFilter": "blur(18px) saturate(1.4)",
+        "border": "rgba(10, 10, 10, 0.08)",
+        "logoFilter": "url(\"#logo-black-layers\")",
+        "toggleColor": "rgba(0, 0, 0, 0)",
+        "menuColor": "rgb(10, 10, 10)"
+      }
+    }
+  }
+}

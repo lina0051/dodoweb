@@ -1,0 +1,14 @@
+{
+  "score": 98,
+  "verdict": "pass",
+  "category_match": true,
+  "differences": [],
+  "suggestions": [],
+  "reasoning": "Existing outline button shape, typography, padding, border width, background and arrow behavior are preserved. English action labels are translated to 전체 프로젝트 보기 and 상담신청. The text, border and arrow become brand orange on hover and restore on exit; dimensions are stable at desktop and mobile widths.",
+  "screenshots": [
+    "evidence/buttons-korean-default-1440.png",
+    "evidence/buttons-korean-hover-index-1440.png",
+    "evidence/buttons-korean-hover-contact-1440.png"
+  ],
+  "validation": "evidence/buttons-korean-qa.json"
+}

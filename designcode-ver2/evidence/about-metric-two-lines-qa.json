@@ -1,0 +1,196 @@
+{
+  "status": "pass",
+  "scope": "uniform metric weights and two-line descriptions",
+  "results": [
+    {
+      "width": 1920,
+      "lines": [
+        2,
+        2,
+        2
+      ],
+      "weights": [
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300"
+      ],
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1440,
+      "lines": [
+        2,
+        2,
+        2
+      ],
+      "weights": [
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300"
+      ],
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1280,
+      "lines": [
+        2,
+        2,
+        2
+      ],
+      "weights": [
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300"
+      ],
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1201,
+      "lines": [
+        2,
+        2,
+        2
+      ],
+      "weights": [
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300"
+      ],
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1200,
+      "lines": [
+        2,
+        2,
+        2
+      ],
+      "weights": [
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300"
+      ],
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1100,
+      "lines": [
+        2,
+        2,
+        2
+      ],
+      "weights": [
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300"
+      ],
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1025,
+      "lines": [
+        2,
+        2,
+        2
+      ],
+      "weights": [
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300"
+      ],
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 1024,
+      "lines": [
+        2,
+        2,
+        2
+      ],
+      "weights": [
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300"
+      ],
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 390,
+      "lines": [
+        2,
+        2,
+        2
+      ],
+      "weights": [
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300"
+      ],
+      "overflow": false,
+      "clipped": false
+    },
+    {
+      "width": 320,
+      "lines": [
+        2,
+        2,
+        2
+      ],
+      "weights": [
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300",
+        "300"
+      ],
+      "overflow": false,
+      "clipped": false
+    }
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "passed": true,
+  "testedAt": "2026-10-20T13:37:51.115Z",
+  "checks": [
+    "Title and introduction match project-page typography with compact process-page spacing",
+    "Three project phases and all nine supplied stages render in order",
+    "All nine unified 1024px process illustrations load locally",
+    "Current-page navigation and contact footer links are connected",
+    "Nine responsive widths: 4-column desktop, 2-column tablet, 1-column mobile, no overflow",
+    "Mobile navigation opens and closes with keyboard support",
+    "Reduced-motion mode reveals content without animation",
+    "No JavaScript errors or failed asset responses"
+  ],
+  "layouts": [
+    {
+      "width": 320,
+      "columns": 1,
+      "titleOffsets": [
+        [
+          410.0116271972656,
+          836.5069885253906,
+          1208.8047180175781
+        ],
+        [
+          410.01171875,
+          863.6474609375,
+          1263.0859375
+        ],
+        [
+          409.984375,
+          809.265625,
+          1208.546875
+        ]
+      ],
+      "numberSize": "26px",
+      "cards": [
+        {
+          "height": 426.421875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 372.140625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 392.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 453.5626220703125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 399.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 399.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 399.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 399.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 426.421875,
+          "clipped": false,
+          "originalOrder": true
+        }
+      ],
+      "overflow": false,
+      "navWrap": true
+    },
+    {
+      "width": 390,
+      "columns": 1,
+      "titleOffsets": [
+        [
+          409.985107421875,
+          836.417724609375,
+          1208.5977783203125
+        ],
+        [
+          409.985107421875,
+          863.558349609375,
+          1262.87890625
+        ],
+        [
+          409.984375,
+          809.265625,
+          1208.546875
+        ]
+      ],
+      "numberSize": "26px",
+      "cards": [
+        {
+          "height": 426.4218444824219,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 372.14056396484375,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 392.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 453.5625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 399.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 399.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 399.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 399.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 426.421875,
+          "clipped": false,
+          "originalOrder": true
+        }
+      ],
+      "overflow": false,
+      "navWrap": true
+    },
+    {
+      "width": 768,
+      "columns": 1,
+      "titleOffsets": [
+        [
+          409.984375,
+          836.40625,
+          1208.5478515625
+        ],
+        [
+          409.984375,
+          863.546875,
+          1262.8291015625
+        ],
+        [
+          409.984375,
+          809.265625,
+          1208.546875
+        ]
+      ],
+      "numberSize": "26px",
+      "cards": [
+        {
+          "height": 426.421875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 372.140625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 392.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 453.5625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 399.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 399.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 399.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 399.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 426.421875,
+          "clipped": false,
+          "originalOrder": true
+        }
+      ],
+      "overflow": false,
+      "navWrap": true
+    },
+    {
+      "width": 769,
+      "columns": 2,
+      "titleOffsets": [
+        [
+          400.984375,
+          400.984375,
+          823.40625
+        ],
+        [
+          400.984375,
+          400.984375,
+          850.546875
+        ],
+        [
+          400.984375,
+          400.984375,
+          796.265625
+        ]
+      ],
+      "numberSize": "26px",
+      "cards": [
+        {
+          "height": 421.421875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 421.421875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 368.140625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 448.5625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 448.5625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 395.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 394.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 394.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 422.421875,
+          "clipped": false,
+          "originalOrder": true
+        }
+      ],
+      "overflow": false,
+      "navWrap": false
+    },
+    {
+      "width": 1024,
+      "columns": 2,
+      "titleOffsets": [
+        [
+          400.984375,
+          400.984375,
+          823.40625
+        ],
+        [
+          400.984375,
+          400.984375,
+          850.546875
+        ],
+        [
+          400.984375,
+          400.984375,
+          796.265625
+        ]
+      ],
+      "numberSize": "26px",
+      "cards": [
+        {
+          "height": 421.421875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 421.421875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 368.140625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 448.5625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 448.5625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 395.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 394.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 394.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 422.421875,
+          "clipped": false,
+          "originalOrder": true
+        }
+      ],
+      "overflow": false,
+      "navWrap": false
+    },
+    {
+      "width": 1180,
+      "columns": 2,
+      "titleOffsets": [
+        [
+          400.984375,
+          400.984375,
+          823.40625
+        ],
+        [
+          400.984375,
+          400.984375,
+          850.546875
+        ],
+        [
+          400.984375,
+          400.984375,
+          796.265625
+        ]
+      ],
+      "numberSize": "26px",
+      "cards": [
+        {
+          "height": 421.421875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 421.421875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 368.140625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 448.5625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 448.5625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 395.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 394.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 394.28125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 422.421875,
+          "clipped": false,
+          "originalOrder": true
+        }
+      ],
+      "overflow": false,
+      "navWrap": false
+    },
+    {
+      "width": 1181,
+      "columns": 4,
+      "titleOffsets": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "numberSize": "26px",
+      "cards": [
+        {
+          "height": 421.421875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 421.421875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 421.421875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 468.703125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 468.703125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 468.703125,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 421.421875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 421.421875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 421.421875,
+          "clipped": false,
+          "originalOrder": true
+        }
+      ],
+      "overflow": false,
+      "navWrap": false
+    },
+    {
+      "width": 1440,
+      "columns": 4,
+      "titleOffsets": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "numberSize": "26px",
+      "cards": [
+        {
+          "height": 429.40625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 429.40625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 429.40625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 456.546875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 456.546875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 456.546875,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 429.40625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 429.40625,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 429.40625,
+          "clipped": false,
+          "originalOrder": true
+        }
+      ],
+      "overflow": false,
+      "navWrap": false
+    },
+    {
+      "width": 1920,
+      "columns": 4,
+      "titleOffsets": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "numberSize": "26px",
+      "cards": [
+        {
+          "height": 463.75,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 463.75,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 463.75,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 494,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 494,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 494,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 463.75,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 463.75,
+          "clipped": false,
+          "originalOrder": true
+        },
+        {
+          "height": 463.75,
+          "clipped": false,
+          "originalOrder": true
+        }
+      ],
+      "overflow": false,
+      "navWrap": false
+    }
+  ],
+  "errors": [],
+  "failed": []
+}

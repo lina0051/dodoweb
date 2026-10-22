@@ -1,0 +1,203 @@
+[
+  {
+    "page": "index.html",
+    "expectedCurrent": "home",
+    "header": {
+      "headerHeight": 97,
+      "headerPadding": "20px 30px",
+      "headerColor": "rgb(10, 10, 10)",
+      "headerPosition": "fixed",
+      "logoHeight": "56px",
+      "logoFilter": "url(\"#logo-black-layers\")",
+      "logoOpacity": "1",
+      "navGap": "40px",
+      "ctaSize": "180px × 56px",
+      "ctaColor": "rgb(255, 255, 255)",
+      "ctaBackground": "rgb(255, 99, 56)",
+      "currentPage": null
+    },
+    "footer": {
+      "present": true,
+      "revealed": true,
+      "motionReady": true,
+      "position": "sticky",
+      "paddingTop": "105.005px",
+      "height": 440.0625,
+      "titleSize": "100px",
+      "titleLineHeight": "100px",
+      "bottomDisplay": "flex",
+      "bottomOpacity": "1"
+    }
+  },
+  {
+    "page": "about.html",
+    "expectedCurrent": "about",
+    "header": {
+      "headerHeight": 97,
+      "headerPadding": "20px 30px",
+      "headerColor": "rgb(10, 10, 10)",
+      "headerPosition": "fixed",
+      "logoHeight": "56px",
+      "logoFilter": "url(\"#logo-black-layers\")",
+      "logoOpacity": "1",
+      "navGap": "40px",
+      "ctaSize": "180px × 56px",
+      "ctaColor": "rgb(255, 255, 255)",
+      "ctaBackground": "rgb(255, 99, 56)",
+      "currentPage": "about"
+    },
+    "footer": {
+      "present": true,
+      "revealed": true,
+      "motionReady": true,
+      "position": "sticky",
+      "paddingTop": "105.005px",
+      "height": 440.0625,
+      "titleSize": "100px",
+      "titleLineHeight": "100px",
+      "bottomDisplay": "flex",
+      "bottomOpacity": "1"
+    }
+  },
+  {
+    "page": "about-alt.html",
+    "expectedCurrent": "about",
+    "header": {
+      "headerHeight": 97,
+      "headerPadding": "20px 30px",
+      "headerColor": "rgb(10, 10, 10)",
+      "headerPosition": "fixed",
+      "logoHeight": "56px",
+      "logoFilter": "url(\"#logo-black-layers\")",
+      "logoOpacity": "1",
+      "navGap": "40px",
+      "ctaSize": "180px × 56px",
+      "ctaColor": "rgb(255, 255, 255)",
+      "ctaBackground": "rgb(255, 99, 56)",
+      "currentPage": "about"
+    },
+    "footer": {
+      "present": true,
+      "revealed": true,
+      "motionReady": true,
+      "position": "sticky",
+      "paddingTop": "105.005px",
+      "height": 440.0625,
+      "titleSize": "100px",
+      "titleLineHeight": "100px",
+      "bottomDisplay": "flex",
+      "bottomOpacity": "1"
+    }
+  },
+  {
+    "page": "work.html",
+    "expectedCurrent": "work",
+    "header": {
+      "headerHeight": 97,
+      "headerPadding": "20px 30px",
+      "headerColor": "rgb(10, 10, 10)",
+      "headerPosition": "fixed",
+      "logoHeight": "56px",
+      "logoFilter": "url(\"#logo-black-layers\")",
+      "logoOpacity": "1",
+      "navGap": "40px",
+      "ctaSize": "180px × 56px",
+      "ctaColor": "rgb(255, 255, 255)",
+      "ctaBackground": "rgb(255, 99, 56)",
+      "currentPage": "work"
+    },
+    "footer": {
+      "present": true,
+      "revealed": true,
+      "motionReady": true,
+      "position": "sticky",
+      "paddingTop": "105.005px",
+      "height": 440.0625,
+      "titleSize": "100px",
+      "titleLineHeight": "100px",
+      "bottomDisplay": "flex",
+      "bottomOpacity": "1"
+    }
+  },
+  {
+    "page": "process.html",
+    "expectedCurrent": "process",
+    "header": {
+      "headerHeight": 97,
+      "headerPadding": "20px 30px",
+      "headerColor": "rgb(10, 10, 10)",
+      "headerPosition": "fixed",
+      "logoHeight": "56px",
+      "logoFilter": "url(\"#logo-black-layers\")",
+      "logoOpacity": "1",
+      "navGap": "40px",
+      "ctaSize": "180px × 56px",
+      "ctaColor": "rgb(255, 255, 255)",
+      "ctaBackground": "rgb(255, 99, 56)",
+      "currentPage": "process"
+    },
+    "footer": {
+      "present": true,
+      "revealed": true,
+      "motionReady": true,
+      "position": "sticky",
+      "paddingTop": "105.005px",
+      "height": 440.0625,
+      "titleSize": "100px",
+      "titleLineHeight": "100px",
+      "bottomDisplay": "flex",
+      "bottomOpacity": "1"
+    }
+  },
+  {
+    "page": "contact.html",
+    "expectedCurrent": "contact",
+    "header": {
+      "headerHeight": 97,
+      "headerPadding": "20px 30px",
+      "headerColor": "rgb(10, 10, 10)",
+      "headerPosition": "fixed",
+      "logoHeight": "56px",
+      "logoFilter": "url(\"#logo-black-layers\")",
+      "logoOpacity": "1",
+      "navGap": "40px",
+      "ctaSize": "180px × 56px",
+      "ctaColor": "rgb(255, 255, 255)",
+      "ctaBackground": "rgb(255, 99, 56)",
+      "currentPage": "contact"
+    },
+    "footer": {
+      "present": true,
+      "revealed": true,
+      "motionReady": true,
+      "position": "sticky",
+      "paddingTop": "105.005px",
+      "height": 440.0625,
+      "titleSize": "100px",
+      "titleLineHeight": "100px",
+      "bottomDisplay": "flex",
+      "bottomOpacity": "1"
+    }
+  },
+  {
+    "page": "project-detail.html",
+    "expectedCurrent": "work",
+    "header": {
+      "headerHeight": 97,
+      "headerPadding": "20px 30px",
+      "headerColor": "rgb(10, 10, 10)",
+      "headerPosition": "fixed",
+      "logoHeight": "56px",
+      "logoFilter": "url(\"#logo-black-layers\")",
+      "logoOpacity": "1",
+      "navGap": "40px",
+      "ctaSize": "180px × 56px",
+      "ctaColor": "rgb(255, 255, 255)",
+      "ctaBackground": "rgb(255, 99, 56)",
+      "currentPage": "work"
+    },
+    "footer": {
+      "present": false
+    }
+  }
+]

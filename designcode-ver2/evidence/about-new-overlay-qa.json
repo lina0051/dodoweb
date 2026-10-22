@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "width": 1440,
+      "height": 900,
+      "heroTop": 0,
+      "heroHeight": 900,
+      "headerTop": 0,
+      "headerColor": "rgb(255, 255, 255)",
+      "titleSize": "135px",
+      "titleWeight": "300",
+      "subtitleSize": "37.44px",
+      "font": "\"Pretendard Variable\", Pretendard, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+      "bodySize": "19px",
+      "bodyWeight": "500",
+      "gap": "clamp(16px,1.25vw,24px)",
+      "overflow": false,
+      "scrolledHeaderRestored": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "heroTop": 0,
+      "heroHeight": 844,
+      "headerTop": 0,
+      "headerColor": "rgb(255, 255, 255)",
+      "titleSize": "64px",
+      "titleWeight": "300",
+      "subtitleSize": "26px",
+      "font": "\"Pretendard Variable\", Pretendard, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+      "bodySize": "19px",
+      "bodyWeight": "500",
+      "gap": "24px",
+      "overflow": false,
+      "scrolledHeaderRestored": true
+    }
+  ],
+  "menuFilesAndLinksUnchanged": true,
+  "remainingSectionsUnchanged": true,
+  "errors": []
+}

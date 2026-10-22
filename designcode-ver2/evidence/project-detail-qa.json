@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "testedAt": "2026-10-21T07:26:00.511Z",
+  "checks": [
+    "Bottom project navigation links to the list and disables unavailable adjacent detail pages",
+    "Project title, supplied information structure, concise concept and 15 real photographs",
+    "All detail-page text and rules use the design-system black without custom gray colors",
+    "Project detail footer is removed",
+    "All optimized project photographs load successfully",
+    "Centered full-width and two-up gallery pattern with single-column mobile fallback",
+    "Ruled two-column, two-row metadata table follows the title before the hero; Project Overview and 19px copy follow the hero with an 80px gallery gap",
+    "15 web images remain under 8MB total and 800KB each",
+    "Work and home project cards both link to the reusable detail template",
+    "Novonesis project-list thumbnail click navigates to the detail page"
+  ],
+  "errors": [],
+  "failed": []
+}

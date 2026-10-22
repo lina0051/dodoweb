@@ -1,0 +1,86 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "width": 952,
+      "height": 536,
+      "overflow": false,
+      "imageLoaded": true,
+      "filter": "grayscale(1) blur(6px)",
+      "font": "\"Pretendard Variable\", Pretendard, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "19px",
+      "contentFits": true,
+      "heroHeight": 536,
+      "viewport": 536,
+      "headerColor": "rgb(255, 255, 255)"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "imageLoaded": true,
+      "filter": "grayscale(1) blur(6px)",
+      "font": "\"Pretendard Variable\", Pretendard, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "19px",
+      "contentFits": true,
+      "heroHeight": 900,
+      "viewport": 900,
+      "headerColor": "rgb(255, 255, 255)"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "imageLoaded": true,
+      "filter": "grayscale(1) blur(6px)",
+      "font": "\"Pretendard Variable\", Pretendard, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "19px",
+      "contentFits": true,
+      "heroHeight": 844,
+      "viewport": 844,
+      "headerColor": "rgb(255, 255, 255)"
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "overflow": false,
+      "imageLoaded": true,
+      "filter": "grayscale(1) blur(6px)",
+      "font": "\"Pretendard Variable\", Pretendard, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "19px",
+      "contentFits": true,
+      "heroHeight": 700,
+      "viewport": 700,
+      "headerColor": "rgb(255, 255, 255)"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "overflow": false,
+      "imageLoaded": true,
+      "filter": "grayscale(1) blur(6px)",
+      "font": "\"Pretendard Variable\", Pretendard, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "19px",
+      "contentFits": true,
+      "heroHeight": 1024,
+      "viewport": 1024,
+      "headerColor": "rgb(255, 255, 255)"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "overflow": false,
+      "imageLoaded": true,
+      "filter": "grayscale(1) blur(6px)",
+      "font": "\"Pretendard Variable\", Pretendard, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "19px",
+      "contentFits": true,
+      "heroHeight": 1080,
+      "viewport": 1080,
+      "headerColor": "rgb(255, 255, 255)"
+    }
+  ],
+  "filePreviewHeader": true,
+  "mobileMenu": true,
+  "errors": []
+}

@@ -1,0 +1,664 @@
+{
+  "passed": true,
+  "testedAt": "2026-10-21T07:29:19.742Z",
+  "checks": [
+    "Menu-aligned 30px desktop and 20px mobile gutters across all sections.",
+    "Full-width panel backgrounds and desktop center split preserved.",
+    "9 responsive widths without horizontal overflow.",
+    "Three metrics, four differences and eight services preserved.",
+    "Auto gallery still duplicates and animates with normal motion.",
+    "No script errors or failed responses."
+  ],
+  "layouts": [
+    {
+      "width": 320,
+      "gutter": 20,
+      "panels": {
+        ".about-new-hero": {
+          "left": 0,
+          "right": 320,
+          "contentLeft": 20,
+          "contentRight": 300
+        },
+        ".metrics-heading": {
+          "left": 0,
+          "right": 320,
+          "contentLeft": 20,
+          "contentRight": 300
+        },
+        ".metric-list": {
+          "left": 0,
+          "right": 320,
+          "contentLeft": 20,
+          "contentRight": 300
+        },
+        ".difference-detail .section-heading": {
+          "left": 0,
+          "right": 320,
+          "contentLeft": 20,
+          "contentRight": 300
+        },
+        ".difference-list": {
+          "left": 0,
+          "right": 320,
+          "contentLeft": 20,
+          "contentRight": 300
+        },
+        ".service-detail .about-section-heading": {
+          "left": 0,
+          "right": 320,
+          "contentLeft": 20,
+          "contentRight": 300
+        },
+        ".service-list": {
+          "left": 0,
+          "right": 320,
+          "contentLeft": 20,
+          "contentRight": 300
+        },
+        ".shared-footer": {
+          "left": 0,
+          "right": 320,
+          "contentLeft": 20,
+          "contentRight": 300
+        }
+      },
+      "hero": {
+        "left": 20,
+        "right": 300,
+        "contentLeft": 20,
+        "contentRight": 300
+      },
+      "gallery": {
+        "left": 20,
+        "right": 300,
+        "contentLeft": 20,
+        "contentRight": 300
+      },
+      "overflow": false,
+      "counts": [
+        3,
+        4,
+        8
+      ]
+    },
+    {
+      "width": 390,
+      "gutter": 20,
+      "panels": {
+        ".about-new-hero": {
+          "left": 0,
+          "right": 390,
+          "contentLeft": 20,
+          "contentRight": 370
+        },
+        ".metrics-heading": {
+          "left": 0,
+          "right": 390,
+          "contentLeft": 20,
+          "contentRight": 370
+        },
+        ".metric-list": {
+          "left": 0,
+          "right": 390,
+          "contentLeft": 20,
+          "contentRight": 370
+        },
+        ".difference-detail .section-heading": {
+          "left": 0,
+          "right": 390,
+          "contentLeft": 20,
+          "contentRight": 370
+        },
+        ".difference-list": {
+          "left": 0,
+          "right": 390,
+          "contentLeft": 20,
+          "contentRight": 370
+        },
+        ".service-detail .about-section-heading": {
+          "left": 0,
+          "right": 390,
+          "contentLeft": 20,
+          "contentRight": 370
+        },
+        ".service-list": {
+          "left": 0,
+          "right": 390,
+          "contentLeft": 20,
+          "contentRight": 370
+        },
+        ".shared-footer": {
+          "left": 0,
+          "right": 390,
+          "contentLeft": 20,
+          "contentRight": 370
+        }
+      },
+      "hero": {
+        "left": 20,
+        "right": 370,
+        "contentLeft": 20,
+        "contentRight": 370
+      },
+      "gallery": {
+        "left": 20,
+        "right": 370,
+        "contentLeft": 20,
+        "contentRight": 370
+      },
+      "overflow": false,
+      "counts": [
+        3,
+        4,
+        8
+      ]
+    },
+    {
+      "width": 768,
+      "gutter": 20,
+      "panels": {
+        ".about-new-hero": {
+          "left": 0,
+          "right": 768,
+          "contentLeft": 20,
+          "contentRight": 748
+        },
+        ".metrics-heading": {
+          "left": 0,
+          "right": 768,
+          "contentLeft": 20,
+          "contentRight": 748
+        },
+        ".metric-list": {
+          "left": 0,
+          "right": 768,
+          "contentLeft": 20,
+          "contentRight": 748
+        },
+        ".difference-detail .section-heading": {
+          "left": 0,
+          "right": 768,
+          "contentLeft": 20,
+          "contentRight": 748
+        },
+        ".difference-list": {
+          "left": 0,
+          "right": 768,
+          "contentLeft": 20,
+          "contentRight": 748
+        },
+        ".service-detail .about-section-heading": {
+          "left": 0,
+          "right": 768,
+          "contentLeft": 20,
+          "contentRight": 748
+        },
+        ".service-list": {
+          "left": 0,
+          "right": 768,
+          "contentLeft": 20,
+          "contentRight": 748
+        },
+        ".shared-footer": {
+          "left": 0,
+          "right": 768,
+          "contentLeft": 20,
+          "contentRight": 748
+        }
+      },
+      "hero": {
+        "left": 20,
+        "right": 748,
+        "contentLeft": 20,
+        "contentRight": 748
+      },
+      "gallery": {
+        "left": 20,
+        "right": 748,
+        "contentLeft": 20,
+        "contentRight": 748
+      },
+      "overflow": false,
+      "counts": [
+        3,
+        4,
+        8
+      ]
+    },
+    {
+      "width": 769,
+      "gutter": 30,
+      "panels": {
+        ".about-new-hero": {
+          "left": 0,
+          "right": 769,
+          "contentLeft": 30,
+          "contentRight": 739
+        },
+        ".metrics-heading": {
+          "left": 0,
+          "right": 769,
+          "contentLeft": 30,
+          "contentRight": 739
+        },
+        ".metric-list": {
+          "left": 0,
+          "right": 769,
+          "contentLeft": 30,
+          "contentRight": 739
+        },
+        ".difference-detail .section-heading": {
+          "left": 0,
+          "right": 769,
+          "contentLeft": 30,
+          "contentRight": 739
+        },
+        ".difference-list": {
+          "left": 0,
+          "right": 769,
+          "contentLeft": 30,
+          "contentRight": 739
+        },
+        ".service-detail .about-section-heading": {
+          "left": 0,
+          "right": 769,
+          "contentLeft": 30,
+          "contentRight": 739
+        },
+        ".service-list": {
+          "left": 0,
+          "right": 769,
+          "contentLeft": 30,
+          "contentRight": 739
+        },
+        ".shared-footer": {
+          "left": 0,
+          "right": 769,
+          "contentLeft": 30,
+          "contentRight": 739
+        }
+      },
+      "hero": {
+        "left": 30,
+        "right": 739,
+        "contentLeft": 30,
+        "contentRight": 739
+      },
+      "gallery": {
+        "left": 30,
+        "right": 739,
+        "contentLeft": 30,
+        "contentRight": 739
+      },
+      "overflow": false,
+      "counts": [
+        3,
+        4,
+        8
+      ]
+    },
+    {
+      "width": 1024,
+      "gutter": 30,
+      "panels": {
+        ".about-new-hero": {
+          "left": 0,
+          "right": 1024,
+          "contentLeft": 30,
+          "contentRight": 994
+        },
+        ".metrics-heading": {
+          "left": 0,
+          "right": 1024,
+          "contentLeft": 30,
+          "contentRight": 994
+        },
+        ".metric-list": {
+          "left": 0,
+          "right": 1024,
+          "contentLeft": 30,
+          "contentRight": 994
+        },
+        ".difference-detail .section-heading": {
+          "left": 0,
+          "right": 1024,
+          "contentLeft": 30,
+          "contentRight": 994
+        },
+        ".difference-list": {
+          "left": 0,
+          "right": 1024,
+          "contentLeft": 30,
+          "contentRight": 994
+        },
+        ".service-detail .about-section-heading": {
+          "left": 0,
+          "right": 1024,
+          "contentLeft": 30,
+          "contentRight": 994
+        },
+        ".service-list": {
+          "left": 0,
+          "right": 1024,
+          "contentLeft": 30,
+          "contentRight": 994
+        },
+        ".shared-footer": {
+          "left": 0,
+          "right": 1024,
+          "contentLeft": 30,
+          "contentRight": 994
+        }
+      },
+      "hero": {
+        "left": 30,
+        "right": 994,
+        "contentLeft": 30,
+        "contentRight": 994
+      },
+      "gallery": {
+        "left": 30,
+        "right": 994,
+        "contentLeft": 30,
+        "contentRight": 994
+      },
+      "overflow": false,
+      "counts": [
+        3,
+        4,
+        8
+      ]
+    },
+    {
+      "width": 1025,
+      "gutter": 30,
+      "panels": {
+        ".about-new-hero": {
+          "left": 0,
+          "right": 1025,
+          "contentLeft": 30,
+          "contentRight": 995
+        },
+        ".metrics-heading": {
+          "left": 0,
+          "right": 512.5,
+          "contentLeft": 30,
+          "contentRight": 482.5
+        },
+        ".metric-list": {
+          "left": 512.5,
+          "right": 1025,
+          "contentLeft": 542.5,
+          "contentRight": 995
+        },
+        ".difference-detail .section-heading": {
+          "left": 512.5,
+          "right": 1025,
+          "contentLeft": 542.5,
+          "contentRight": 995
+        },
+        ".difference-list": {
+          "left": 0,
+          "right": 512.5,
+          "contentLeft": 30,
+          "contentRight": 482.5
+        },
+        ".service-detail .about-section-heading": {
+          "left": 0,
+          "right": 512.5,
+          "contentLeft": 30,
+          "contentRight": 482.5
+        },
+        ".service-list": {
+          "left": 512.5,
+          "right": 1025,
+          "contentLeft": 542.5,
+          "contentRight": 995
+        },
+        ".shared-footer": {
+          "left": 0,
+          "right": 1025,
+          "contentLeft": 30,
+          "contentRight": 995
+        }
+      },
+      "hero": {
+        "left": 30,
+        "right": 995,
+        "contentLeft": 30,
+        "contentRight": 995
+      },
+      "gallery": {
+        "left": 30,
+        "right": 995,
+        "contentLeft": 30,
+        "contentRight": 995
+      },
+      "overflow": false,
+      "counts": [
+        3,
+        4,
+        8
+      ]
+    },
+    {
+      "width": 1440,
+      "gutter": 30,
+      "panels": {
+        ".about-new-hero": {
+          "left": 0,
+          "right": 1440,
+          "contentLeft": 30,
+          "contentRight": 1410
+        },
+        ".metrics-heading": {
+          "left": 0,
+          "right": 720,
+          "contentLeft": 30,
+          "contentRight": 690
+        },
+        ".metric-list": {
+          "left": 720,
+          "right": 1440,
+          "contentLeft": 750,
+          "contentRight": 1410
+        },
+        ".difference-detail .section-heading": {
+          "left": 720,
+          "right": 1440,
+          "contentLeft": 750,
+          "contentRight": 1410
+        },
+        ".difference-list": {
+          "left": 0,
+          "right": 720,
+          "contentLeft": 30,
+          "contentRight": 690
+        },
+        ".service-detail .about-section-heading": {
+          "left": 0,
+          "right": 720,
+          "contentLeft": 30,
+          "contentRight": 690
+        },
+        ".service-list": {
+          "left": 720,
+          "right": 1440,
+          "contentLeft": 750,
+          "contentRight": 1410
+        },
+        ".shared-footer": {
+          "left": 0,
+          "right": 1440,
+          "contentLeft": 30,
+          "contentRight": 1410
+        }
+      },
+      "hero": {
+        "left": 30,
+        "right": 1030,
+        "contentLeft": 30,
+        "contentRight": 1030
+      },
+      "gallery": {
+        "left": 30,
+        "right": 1410,
+        "contentLeft": 30,
+        "contentRight": 1410
+      },
+      "overflow": false,
+      "counts": [
+        3,
+        4,
+        8
+      ]
+    },
+    {
+      "width": 1920,
+      "gutter": 30,
+      "panels": {
+        ".about-new-hero": {
+          "left": 0,
+          "right": 1920,
+          "contentLeft": 30,
+          "contentRight": 1890
+        },
+        ".metrics-heading": {
+          "left": 0,
+          "right": 960,
+          "contentLeft": 30,
+          "contentRight": 930
+        },
+        ".metric-list": {
+          "left": 960,
+          "right": 1920,
+          "contentLeft": 990,
+          "contentRight": 1890
+        },
+        ".difference-detail .section-heading": {
+          "left": 960,
+          "right": 1920,
+          "contentLeft": 990,
+          "contentRight": 1890
+        },
+        ".difference-list": {
+          "left": 0,
+          "right": 960,
+          "contentLeft": 30,
+          "contentRight": 930
+        },
+        ".service-detail .about-section-heading": {
+          "left": 0,
+          "right": 960,
+          "contentLeft": 30,
+          "contentRight": 930
+        },
+        ".service-list": {
+          "left": 960,
+          "right": 1920,
+          "contentLeft": 990,
+          "contentRight": 1890
+        },
+        ".shared-footer": {
+          "left": 0,
+          "right": 1920,
+          "contentLeft": 30,
+          "contentRight": 1890
+        }
+      },
+      "hero": {
+        "left": 30,
+        "right": 1030,
+        "contentLeft": 30,
+        "contentRight": 1030
+      },
+      "gallery": {
+        "left": 30,
+        "right": 1890,
+        "contentLeft": 30,
+        "contentRight": 1890
+      },
+      "overflow": false,
+      "counts": [
+        3,
+        4,
+        8
+      ]
+    },
+    {
+      "width": 2560,
+      "gutter": 30,
+      "panels": {
+        ".about-new-hero": {
+          "left": 0,
+          "right": 2560,
+          "contentLeft": 30,
+          "contentRight": 2530
+        },
+        ".metrics-heading": {
+          "left": 0,
+          "right": 1280,
+          "contentLeft": 30,
+          "contentRight": 1250
+        },
+        ".metric-list": {
+          "left": 1280,
+          "right": 2560,
+          "contentLeft": 1310,
+          "contentRight": 2530
+        },
+        ".difference-detail .section-heading": {
+          "left": 1280,
+          "right": 2560,
+          "contentLeft": 1310,
+          "contentRight": 2530
+        },
+        ".difference-list": {
+          "left": 0,
+          "right": 1280,
+          "contentLeft": 30,
+          "contentRight": 1250
+        },
+        ".service-detail .about-section-heading": {
+          "left": 0,
+          "right": 1280,
+          "contentLeft": 30,
+          "contentRight": 1250
+        },
+        ".service-list": {
+          "left": 1280,
+          "right": 2560,
+          "contentLeft": 1310,
+          "contentRight": 2530
+        },
+        ".shared-footer": {
+          "left": 0,
+          "right": 2560,
+          "contentLeft": 30,
+          "contentRight": 2530
+        }
+      },
+      "hero": {
+        "left": 30,
+        "right": 1030,
+        "contentLeft": 30,
+        "contentRight": 1030
+      },
+      "gallery": {
+        "left": 30,
+        "right": 2530,
+        "contentLeft": 30,
+        "contentRight": 2530
+      },
+      "overflow": false,
+      "counts": [
+        3,
+        4,
+        8
+      ]
+    }
+  ],
+  "errors": [],
+  "failed": []
+}

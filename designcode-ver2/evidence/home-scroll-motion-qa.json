@@ -1,0 +1,83 @@
+{
+  "initial": {
+    "projects": {
+      "prepared": true,
+      "revealed": false,
+      "opacity": "0",
+      "transform": "matrix(0.992, 0, 0, 0.992, 0, 36)"
+    },
+    "history": {
+      "prepared": true,
+      "revealed": false,
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, -22, 0)"
+    },
+    "difference": {
+      "prepared": true,
+      "revealed": false,
+      "opacity": "0",
+      "transform": "matrix(0.995, 0, 0, 0.995, 0, 26)"
+    },
+    "partners": {
+      "prepared": true,
+      "revealed": false,
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, -28, 0)"
+    },
+    "faq": {
+      "prepared": true,
+      "revealed": false,
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 18, 0)"
+    }
+  },
+  "after": {
+    "projects": {
+      "revealed": true,
+      "opacity": "1",
+      "transform": "none",
+      "top": 270
+    },
+    "history": {
+      "revealed": true,
+      "opacity": "1",
+      "transform": "none",
+      "top": 361
+    },
+    "difference": {
+      "revealed": true,
+      "opacity": "1",
+      "transform": "none",
+      "top": 367
+    },
+    "partners": {
+      "revealed": true,
+      "opacity": "1",
+      "transform": "none",
+      "top": 453
+    },
+    "faq": {
+      "revealed": true,
+      "opacity": "1",
+      "transform": "none",
+      "top": 476
+    }
+  },
+  "reduced": {
+    "reduced": true,
+    "motionReady": false,
+    "prepared": false,
+    "opacity": "1",
+    "transform": "none",
+    "iconAnimation": "none"
+  },
+  "mobile": {
+    "viewport": 390,
+    "overflow": false,
+    "revealed": true,
+    "opacity": "1",
+    "transform": "none"
+  },
+  "failures": [],
+  "consoleErrors": []
+}

@@ -1,0 +1,53 @@
+{
+  "passed": true,
+  "testedAt": "2026-10-21T05:07:02.427Z",
+  "menu": [
+    "회사소개",
+    "회사소개 NEW",
+    "프로젝트",
+    "프로세스",
+    "상담신청 →"
+  ],
+  "checks": [
+    {
+      "route": "index.html",
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "route": "about.html",
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "route": "about-new.html",
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "route": "about-alt.html",
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "route": "work.html",
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "route": "process.html",
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "route": "contact.html",
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "route": "project-detail.html",
+      "desktop": true,
+      "mobile": true
+    }
+  ]
+}

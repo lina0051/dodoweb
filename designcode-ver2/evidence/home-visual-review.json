@@ -1,0 +1,29 @@
+{
+  "result": "pass",
+  "iteration": 1,
+  "reviewedAt": "2026-09-27T08:01:36.750747+00:00",
+  "scope": "Design Code home page",
+  "method": "Desktop hero and projects and full mobile screenshot inspection; functional and source-style checks",
+  "observations": [
+    "Eight sections in requested order; duplicate history omitted following user confirmation",
+    "Original reference video is first slide; image slides follow",
+    "Eight project cards are visible with media and metadata in four desktop columns",
+    "Original history row typography, borders, spacing and responsive direction verified",
+    "Five differentiators, partner placeholders and keyboard-operated FAQ present",
+    "Mobile layout has no horizontal overflow at tested widths"
+  ],
+  "evidence": [
+    "evidence/home-hero.png",
+    "evidence/home-desktop.png",
+    "evidence/home-mobile.png",
+    "evidence/home-projects.png",
+    "evidence/home-qa.json",
+    "evidence/home-source-check.json"
+  ],
+  "limitations": [
+    "History and partner data are pending",
+    "Copy is proposed; sample projects are explicitly labeled",
+    "Hero slider, process, differentiators and partners are compositions derived from the source, not whole-page pixel reproductions",
+    "Contact details reused from existing footer artifact, not externally reverified"
+  ]
+}

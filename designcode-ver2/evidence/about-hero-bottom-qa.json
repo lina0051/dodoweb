@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "width": 1440,
+      "height": 900,
+      "bottomGap": 100,
+      "contentTop": 447.859375,
+      "noHorizontalOverflow": true,
+      "noWidgetOverlap": true,
+      "accentRemoved": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "bottomGap": 100,
+      "contentTop": 380.703125,
+      "noHorizontalOverflow": true,
+      "noWidgetOverlap": true,
+      "accentRemoved": true
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "bottomGap": 100,
+      "contentTop": 96,
+      "noHorizontalOverflow": true,
+      "noWidgetOverlap": true,
+      "accentRemoved": true
+    },
+    {
+      "width": 1024,
+      "height": 568,
+      "bottomGap": 100,
+      "contentTop": 175.5,
+      "noHorizontalOverflow": true,
+      "noWidgetOverlap": true,
+      "accentRemoved": true
+    }
+  ]
+}
