@@ -1,0 +1,15 @@
+.git
+.omx
+.DS_Store
+**/.DS_Store
+__pycache__
+*.pyc
+evidence
+tests
+design-system/reference
+assets/provenance.json
+README.md
+DESIGN.md
+WORK-DESIGN.md
+preview.py
+*.command
