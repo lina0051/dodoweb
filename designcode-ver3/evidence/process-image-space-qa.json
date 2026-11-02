@@ -1,0 +1,636 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "width": 320,
+      "overflow": false,
+      "boardHeight": 3834.1171875,
+      "cards": [
+        {
+          "height": 384.4453125,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 330.1484375,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 350.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 411.59375,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 357.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 357.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 357.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 357.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 384.4453125,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "boardHeight": 3834.1171875,
+      "cards": [
+        {
+          "height": 384.4453125,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 330.1484375,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 350.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 411.59375,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 357.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 357.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 357.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 357.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 384.4453125,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "boardHeight": 3834.1171875,
+      "cards": [
+        {
+          "height": 384.4453125,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 330.1484375,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 350.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 411.59375,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 357.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 357.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 357.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 357.296875,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 384.4453125,
+          "figureHeight": 184,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        }
+      ]
+    },
+    {
+      "width": 769,
+      "overflow": false,
+      "boardHeight": 2778.2265625,
+      "cards": [
+        {
+          "height": 375.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 375.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 322.1484375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 402.59375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 402.59375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 349.296875,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 348.296875,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 348.296875,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 376.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "boardHeight": 2778.2265625,
+      "cards": [
+        {
+          "height": 375.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 375.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 322.1484375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 402.59375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 402.59375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 349.296875,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 348.296875,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 348.296875,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 376.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        }
+      ]
+    },
+    {
+      "width": 1180,
+      "overflow": false,
+      "boardHeight": 2778.2265625,
+      "cards": [
+        {
+          "height": 375.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 375.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 322.1484375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 402.59375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 402.59375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 349.296875,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 348.296875,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 348.296875,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 376.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        }
+      ]
+    },
+    {
+      "width": 1181,
+      "overflow": false,
+      "boardHeight": 1177.6328125,
+      "cards": [
+        {
+          "height": 375.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 375.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 375.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 422.7421875,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 422.7421875,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 422.7421875,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 375.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 375.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 375.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "boardHeight": 1181.484375,
+      "cards": [
+        {
+          "height": 383.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 383.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 383.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 410.59375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 410.59375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 410.59375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 383.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 383.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 383.4453125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "overflow": false,
+      "boardHeight": 1275.34375,
+      "cards": [
+        {
+          "height": 413.703125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 413.703125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 413.703125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 443.9375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 443.9375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 443.9375,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 413.703125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 413.703125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        },
+        {
+          "height": 413.703125,
+          "figureHeight": 176,
+          "clipped": false,
+          "verticalOrder": true,
+          "imageLoaded": true
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

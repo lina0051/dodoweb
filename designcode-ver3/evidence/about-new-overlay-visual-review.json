@@ -1,0 +1,15 @@
+{
+  "score": 96,
+  "verdict": "pass",
+  "category_match": true,
+  "differences": [
+    "제목과 소제목의 크기·일부 간격은 참고 이미지에 맞춘 전용 값이며 기존 서체·굵기·본문 크기·공통 간격 변수를 재사용한다."
+  ],
+  "suggestions": [],
+  "reasoning": "첫 섹션이 화면 맨 위에서 시작하고 공통 메뉴가 투명하게 겹친다. 어두운 배경에서 흰색 메뉴·로고를 표시하며 스크롤 후 기존 공통 스타일로 복원된다. PC·모바일에서 확인했고 메뉴 파일·링크 및 이후 섹션은 보존했다.",
+  "evidence": [
+    "evidence/about-new-overlay-1440.png",
+    "evidence/about-new-overlay-390.png",
+    "evidence/about-new-overlay-qa.json"
+  ]
+}

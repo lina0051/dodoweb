@@ -1,0 +1,59 @@
+{
+  "status": "pass",
+  "scope": "about-new autonomous gallery",
+  "results": [
+    {
+      "width": 1440,
+      "initial": {
+        "x": -42.7765,
+        "scroll": 769,
+        "height": 639,
+        "sticky": "relative",
+        "count": 8,
+        "duplicates": 4,
+        "overflow": false
+      },
+      "flowing": {
+        "x": -55.7923,
+        "scroll": 769
+      },
+      "loop": {
+        "seamError": 0.03173828125,
+        "step": 2380.703125,
+        "matching": true
+      },
+      "scrollIndependent": true,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "initial": {
+        "x": -23.915,
+        "scroll": 687,
+        "height": 473,
+        "sticky": "relative",
+        "count": 8,
+        "duplicates": 4,
+        "overflow": false
+      },
+      "flowing": {
+        "x": -31.0898,
+        "scroll": 687
+      },
+      "loop": {
+        "seamError": 0.0205078125,
+        "step": 1311.96875,
+        "matching": true
+      },
+      "scrollIndependent": true,
+      "errors": []
+    }
+  ],
+  "reduced": {
+    "cards": 4,
+    "animations": 0,
+    "overflow": "auto",
+    "static": true
+  },
+  "original": "scroll"
+}

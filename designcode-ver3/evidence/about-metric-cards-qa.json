@@ -1,0 +1,198 @@
+{
+  "status": "pass",
+  "scope": "Key Figures subtitle, cards, neutral count-up values",
+  "results": [
+    {
+      "width": 1440,
+      "copy": "축적된 경험과 전문성을 바탕으로일하는 공간의 완성도를 높입니다.",
+      "cards": [
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)",
+            "rgb(10, 10, 10)"
+          ]
+        },
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)",
+            "rgb(10, 10, 10)"
+          ]
+        },
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)"
+          ]
+        }
+      ],
+      "overflow": false,
+      "clipping": false,
+      "values": [
+        "14",
+        "250"
+      ],
+      "gap": "16px"
+    },
+    {
+      "width": 1100,
+      "copy": "축적된 경험과 전문성을 바탕으로일하는 공간의 완성도를 높입니다.",
+      "cards": [
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)",
+            "rgb(10, 10, 10)"
+          ]
+        },
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)",
+            "rgb(10, 10, 10)"
+          ]
+        },
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)"
+          ]
+        }
+      ],
+      "overflow": false,
+      "clipping": false,
+      "values": [
+        "14",
+        "250"
+      ],
+      "gap": "16px"
+    },
+    {
+      "width": 1024,
+      "copy": "축적된 경험과 전문성을 바탕으로일하는 공간의 완성도를 높입니다.",
+      "cards": [
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)",
+            "rgb(10, 10, 10)"
+          ]
+        },
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)",
+            "rgb(10, 10, 10)"
+          ]
+        },
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)"
+          ]
+        }
+      ],
+      "overflow": false,
+      "clipping": false,
+      "values": [
+        "14",
+        "250"
+      ],
+      "gap": "16px"
+    },
+    {
+      "width": 390,
+      "copy": "축적된 경험과 전문성을 바탕으로일하는 공간의 완성도를 높입니다.",
+      "cards": [
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)",
+            "rgb(10, 10, 10)"
+          ]
+        },
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)",
+            "rgb(10, 10, 10)"
+          ]
+        },
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)"
+          ]
+        }
+      ],
+      "overflow": false,
+      "clipping": false,
+      "values": [
+        "14",
+        "250"
+      ],
+      "gap": "16px"
+    },
+    {
+      "width": 320,
+      "copy": "축적된 경험과 전문성을 바탕으로일하는 공간의 완성도를 높입니다.",
+      "cards": [
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)",
+            "rgb(10, 10, 10)"
+          ]
+        },
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)",
+            "rgb(10, 10, 10)"
+          ]
+        },
+        {
+          "background": "rgb(241, 239, 236)",
+          "border": "0px",
+          "colors": [
+            "rgb(10, 10, 10)"
+          ]
+        }
+      ],
+      "overflow": false,
+      "clipping": false,
+      "values": [
+        "14",
+        "250"
+      ],
+      "gap": "16px"
+    }
+  ],
+  "motion": [
+    {
+      "width": 1440,
+      "countUp14": true,
+      "countUp250": true
+    },
+    {
+      "width": 390,
+      "countUp14": true,
+      "countUp250": true
+    }
+  ]
+}

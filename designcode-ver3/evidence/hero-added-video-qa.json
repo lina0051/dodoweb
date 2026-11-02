@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "video": {
+    "width": 1920,
+    "height": 1076,
+    "duration": 5.041667,
+    "muted": true,
+    "loop": true,
+    "inline": true
+  },
+  "checks": [
+    "automatic advance and active video playback",
+    "inactive videos paused",
+    "image slides pause both videos",
+    "keyboard navigation and wraparound",
+    "reduced motion",
+    "four viewport widths without overflow"
+  ],
+  "errors": [],
+  "failed": []
+}

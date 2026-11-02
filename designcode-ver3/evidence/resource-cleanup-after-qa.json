@@ -1,0 +1,110 @@
+{
+  "phase": "after",
+  "passed": true,
+  "checks": [
+    {
+      "file": "index.html",
+      "width": 1440,
+      "images": 104,
+      "passed": true
+    },
+    {
+      "file": "work.html",
+      "width": 1440,
+      "images": 34,
+      "passed": true
+    },
+    {
+      "file": "process.html",
+      "width": 1440,
+      "images": 10,
+      "passed": true
+    },
+    {
+      "file": "contact.html",
+      "width": 1440,
+      "images": 1,
+      "passed": true
+    },
+    {
+      "file": "about.html",
+      "width": 1440,
+      "images": 5,
+      "passed": true
+    },
+    {
+      "file": "about-alt.html",
+      "width": 1440,
+      "images": 8,
+      "passed": true
+    },
+    {
+      "file": "about-new.html",
+      "width": 1440,
+      "images": 6,
+      "passed": true
+    },
+    {
+      "file": "project-detail.html",
+      "width": 1440,
+      "images": 15,
+      "passed": true
+    },
+    {
+      "file": "index.html",
+      "width": 390,
+      "images": 104,
+      "passed": true
+    },
+    {
+      "file": "work.html",
+      "width": 390,
+      "images": 34,
+      "passed": true
+    },
+    {
+      "file": "process.html",
+      "width": 390,
+      "images": 10,
+      "passed": true
+    },
+    {
+      "file": "contact.html",
+      "width": 390,
+      "images": 1,
+      "passed": true
+    },
+    {
+      "file": "about.html",
+      "width": 390,
+      "images": 5,
+      "passed": true
+    },
+    {
+      "file": "about-alt.html",
+      "width": 390,
+      "images": 8,
+      "passed": true
+    },
+    {
+      "file": "about-new.html",
+      "width": 390,
+      "images": 6,
+      "passed": true
+    },
+    {
+      "file": "project-detail.html",
+      "width": 390,
+      "images": 15,
+      "passed": true
+    },
+    {
+      "mode": "file",
+      "passed": true
+    },
+    {
+      "mode": "http-failure",
+      "passed": true
+    }
+  ]
+}

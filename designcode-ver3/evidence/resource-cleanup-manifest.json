@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-22T14:12:38",
+  "removedMediaFiles": 40,
+  "removedMetadataFiles": 3,
+  "bytesRemoved": 67397099,
+  "recoveryDirectory": "/Users/lina/.Trash/design-code-unused-20261022-141238",
+  "scope": "Only unreferenced project assets; archived pages, design-system and evidence preserved.",
+  "removedFiles": [
+    {
+      "path": "assets/brand/logo.png",
+      "bytes": 6693,
+      "sha256": "c17b5077f770dac1a3193d8a2c397ac2471ecab14e95e8709dff4152b0abe65f"
+    },
+    {
+      "path": "assets/hero/blue-lounge.jpg",
+      "bytes": 602416,
+      "sha256": "8a34adcc21ab67a08fc4e4c21bdf4f6e2c25a6a61b66770176662b716902d4e7"
+    },
+    {
+      "path": "assets/hero/kakao-healthcare.jpg",
+      "bytes": 925197,
+      "sha256": "8956f331f570b0d4cf0f94bf7c37356f3303ad2be91e2207960f87220f233201"
+    },
+    {
+      "path": "assets/hero/novonesis.jpg",
+      "bytes": 936947,
+      "sha256": "30f3390fab7250c47e4966b36eed79614a303dac881487719dcbd88bd77aa0c4"
+    },
+    {
+      "path": "assets/hero/open-office.jpg",
+      "bytes": 876333,
+      "sha256": "cb0007632a43a79bee866fad6ffc622ab9eba50f45344577f6079234cb79af0b"
+    },
+    {
+      "path": "assets/hero/studio-bside.jpg",
+      "bytes": 1270654,
+      "sha256": "b55730485ad2568c70c97c14eb6c33ecf44311c30dce4e8b355d510ad9886ce0"
+    },
+    {
+      "path": "assets/process/01.png",
+      "bytes": 330440,
+      "sha256": "bc37857f01ae81c8c14d6c9cbf621adc10a979f2c9d7e23fc006fe304557fcb1"
+    },
+    {
+      "path": "assets/process/02.png",
+      "bytes": 215933,
+      "sha256": "20b5293e49cc13413b04610caf3a6b55a80a4c6d8712abc03a200e77546261a3"
+    },
+    {
+      "path": "assets/process/03.png",
+      "bytes": 381059,
+      "sha256": "accc7ad9f1adb5e742af909c1668bfabe2a4f2ad1ce4206220d001da0a2f1e4a"
+    },
+    {
+      "path": "assets/process/04.png",
+      "bytes": 228785,
+      "sha256": "2fd6f83d50ee3d32e53fa5736f188da8beba7417f8caeedfd78128932b90ab36"
+    },
+    {
+      "path": "assets/process/05.png",
+      "bytes": 201167,
+      "sha256": "1a09ac50377d381b08d1d6d8030df992c38911190da7a89d83b2b608e09940ce"
+    },
+    {
+      "path": "assets/process/06.png",
+      "bytes": 235556,
+      "sha256": "274e7fb52c996b4a95b9feacb551654ea3fab7fd77ab5fbf794dbab2aaedfbc1"
+    },
+    {
+      "path": "assets/process/07.png",
+      "bytes": 370538,
+      "sha256": "69f42fcdf896e22f6d966126b9cba6b743f357e8d3df04f132a57aba8b68ed2a"
+    },
+    {
+      "path": "assets/process/08.png",
+      "bytes": 336685,
+      "sha256": "c0965543760a1835cc44ecf6e0b8fc5c46e9b654779757de09703eb71ef405fb"
+    },
+    {
+      "path": "assets/process/09.png",
+      "bytes": 294142,
+      "sha256": "82e9b10fbfc52536c2c7c0ad0a3b94afaa17c26ec466050580ac2acff7c97b78"
+    },
+    {
+      "path": "assets/process/05-layout-confirmed-fine-line.png",
+      "bytes": 377120,
+      "sha256": "e20d43b82b796756c6cdbca6327958e014008ba11097502b6fd46fca32e7bc52"
+    },
+    {
+      "path": "assets/process/08-chair-catalogue-material-samples.png",
+      "bytes": 896880,
+      "sha256": "1708ef34e5b4d1f194f7645b2a9761fa82ed241946b821b602bf7c8829856dfa"
+    },
+    {
+      "path": "assets/process/09-completed-office-simple-isometric.png",
+      "bytes": 785665,
+      "sha256": "d9c701d05101d04d23bfb007effe3061c5f874497558b1d639fa539a1bfe70f2"
+    },
+    {
+      "path": "assets/projects/axion.jpg",
+      "bytes": 78673,
+      "sha256": "82ee4c67bcfe3cbf597bc1a34cb6ce7386928bcba84f6ab0a511f29c33b33f89"
+    },
+    {
+      "path": "assets/projects/btree.jpg",
+      "bytes": 102797,
+      "sha256": "6146c001744492a6fc08874ba6a77e13acf416bd626c170c5950988042cf13ff"
+    },
+    {
+      "path": "assets/projects/sample-media.jpg",
+      "bytes": 6271881,
+      "sha256": "bae31ab4bfe731806158ad2812c6296d68c47854368a4d80be95bfea47f1bf4e"
+    },
+    {
+      "path": "assets/projects/sample-service.jpg",
+      "bytes": 5973128,
+      "sha256": "eb082a3c4bcd507ec23f12f972a53814926037aac3f027e4c4681123d3037e47"
+    },
+    {
+      "path": "assets/projects/sample-tech.jpg",
+      "bytes": 5858773,
+      "sha256": "cd829b95251b50d0d2743d869e5de16cb2f4dd127b3704efc5884ced4e17eae5"
+    },
+    {
+      "path": "assets/projects/novonesis.jpg",
+      "bytes": 5973128,
+      "sha256": "eb082a3c4bcd507ec23f12f972a53814926037aac3f027e4c4681123d3037e47"
+    },
+    {
+      "path": "assets/projects/home/kakao-healthcare.jpg",
+      "bytes": 424036,
+      "sha256": "0382a61f88f07edf5a888f6d0836201aa5c46295a682654a41a4cae1a3f61807"
+    },
+    {
+      "path": "assets/projects/home/medispan.jpg",
+      "bytes": 702123,
+      "sha256": "2b5041f7f5cdcb80b2d883f8de2a85efb94d79c45e0f3e290cd5a10a9c1ee67c"
+    },
+    {
+      "path": "assets/projects/home/novonesis.jpg",
+      "bytes": 479236,
+      "sha256": "e69236399b0d44659c9c488a4bef5eec9541884d3804fdec1ded62399a9cbfe5"
+    },
+    {
+      "path": "assets/projects/home/polaris-sewon.jpg",
+      "bytes": 511582,
+      "sha256": "a48cc8a553923fab092e698adffda7c326de774c295643e3955b0eccf9a251f6"
+    },
+    {
+      "path": "assets/projects/home/studiobside.jpg",
+      "bytes": 767735,
+      "sha256": "20c2d90a4c4eb68d73fa9ee200de43a3c2c4bd26692bf511b577f2f2179fe71a"
+    },
+    {
+      "path": "assets/projects/home/supercreative.jpg",
+      "bytes": 457646,
+      "sha256": "80640cb088d31f412157fd8a3fc07bb63cd58d323d6d2614df518aaa7b8d4c97"
+    },
+    {
+      "path": "assets/video/designcode-hero-line-to-space-HQ.webm",
+      "bytes": 1053050,
+      "sha256": "92e6638861c24d50114b6ae5b546812c5bc08d8d025af5eaa2a05c9d22772c68"
+    },
+    {
+      "path": "assets/video/designcode-hero-paint-final.webm",
+      "bytes": 163424,
+      "sha256": "39a7752e154e781941c9234e7f0cd93b5bc0493eba7c6cb5f8c1127df6653a4e"
+    },
+    {
+      "path": "assets/video/designcode-hero-paint-real.webm",
+      "bytes": 132618,
+      "sha256": "0fa1a7dc918d68f41cc3b08286a43ccd87e1f18550472c73cd7eb437d07d8c5e"
+    },
+    {
+      "path": "assets/video/designcode-hero-paint-thin.webm",
+      "bytes": 132600,
+      "sha256": "8426bbeb869e0f6cdc3ea03e78b609c99fc637de432cdd43f2de667527366919"
+    },
+    {
+      "path": "assets/video/designcode-hero.webm",
+      "bytes": 182181,
+      "sha256": "7d88bd32284e552cb4a7ecebc0a36efdf938a2eee123a9c55adcb23a6e55f813"
+    },
+    {
+      "path": "assets/video/hero-original.mp4",
+      "bytes": 566332,
+      "sha256": "707b6381cd1ad70d5b7d196814ef22b20b52877d34f81485a161c91aab229c30"
+    },
+    {
+      "path": "assets/video/magnific-highkey-studio-1080p.mp4",
+      "bytes": 1609869,
+      "sha256": "8cde7e6498f2312e9d9fd7b3579f612311b3e406efaff5015f978de3010dfc67"
+    },
+    {
+      "path": "assets/video/magnific-premium-arch-1080p.mp4",
+      "bytes": 2358469,
+      "sha256": "f00bf101ee923ae637f7a22602ddd2dc6ac691569b2a6cda4749f2c4674d9415"
+    },
+    {
+      "path": "assets/video/office-sofa-1280x720.mp4",
+      "bytes": 7146925,
+      "sha256": "7d2703c72b59f9409e56d4e09fa27de2ad8fec05fccf667ce76056dda02c6608"
+    },
+    {
+      "path": "assets/video/office-sofa-1920x1080.mp4",
+      "bytes": 17152047,
+      "sha256": "40a575e726b2baae3068bf7855c2c9c0beba124d2f254cbc99d4fa2c7f76665b"
+    },
+    {
+      "path": "assets/.DS_Store",
+      "bytes": 12292,
+      "sha256": "4a101dc584395ba471af21a267a7b6520a9987acfc8aef7abf5e6f14483cf4a4"
+    },
+    {
+      "path": "assets/process/.DS_Store",
+      "bytes": 8196,
+      "sha256": "6bc9bd9fadf73b40c95e43a53915ab91b4da899c677ec8140682d8c9dd1bcad0"
+    },
+    {
+      "path": "assets/process/unified/.DS_Store",
+      "bytes": 6148,
+      "sha256": "b761fe0464fac9ffd48f851b7876d14860a16fc55c29722d92717fd886a9a410"
+    }
+  ]
+}

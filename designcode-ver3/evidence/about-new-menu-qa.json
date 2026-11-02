@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "pages": [
+    "index.html",
+    "about.html",
+    "about-new.html",
+    "about-alt.html",
+    "work.html",
+    "process.html",
+    "contact.html",
+    "project-detail.html"
+  ],
+  "fitWidths": [
+    1440,
+    1024,
+    1000,
+    900,
+    800,
+    769
+  ],
+  "desktopLink": true,
+  "mobileMenu": true,
+  "fileFallback": true
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "width": 1440,
+    "reducedMotion": "no-preference",
+    "status": "passed",
+    "projects": 139
+  },
+  {
+    "width": 1440,
+    "reducedMotion": "reduce",
+    "status": "passed",
+    "projects": 139
+  },
+  {
+    "width": 390,
+    "reducedMotion": "no-preference",
+    "status": "passed",
+    "projects": 139
+  },
+  {
+    "width": 390,
+    "reducedMotion": "reduce",
+    "status": "passed",
+    "projects": 139
+  }
+]

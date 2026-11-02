@@ -1,0 +1,14 @@
+{
+  "verdict": "pass",
+  "review": "manual desktop/mobile screenshot review; visual-verdict skill unavailable",
+  "checks": [
+    "Process page title spacing matches Work: top padding 140px desktop/96px mobile, title block bottom margin 48px/24px, title-to-copy margin 24px/16px.",
+    "320, 390, 768, 769, 1024, 1180, 1181, 1440, 1920px verified with no page errors, image errors or horizontal overflow.",
+    "All 3 phases and 9 stages retained; original desktop/tablet/mobile grid remains 4/2/1 columns.",
+    "git diff --check passed."
+  ],
+  "evidence": [
+    "evidence/process-spacing-balanced-1440.png",
+    "evidence/process-spacing-balanced-390.png"
+  ]
+}

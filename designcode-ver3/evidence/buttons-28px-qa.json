@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "route": "index.html",
+      "width": 390,
+      "fontSize": 24
+    },
+    {
+      "route": "contact.html",
+      "width": 390,
+      "fontSize": 24
+    },
+    {
+      "route": "work.html",
+      "width": 390,
+      "fontSize": 24
+    },
+    {
+      "route": "index.html",
+      "width": 1440,
+      "fontSize": 28
+    },
+    {
+      "route": "contact.html",
+      "width": 1440,
+      "fontSize": 28
+    },
+    {
+      "route": "work.html",
+      "width": 1440,
+      "fontSize": 28
+    }
+  ],
+  "errors": []
+}

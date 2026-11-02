@@ -1,0 +1,17 @@
+{
+  "reviewedAt": "2026-10-01T07:47:08Z",
+  "result": "pass",
+  "method": "Chrome desktop and responsive viewport inspection with live DOM measurements",
+  "checks": [
+    "All three phases and nine stages render in the intended order",
+    "All nine local process illustrations load without fallback state",
+    "Refreshed source files 04.png and 08.png match the served assets and retain the 1254 by 1254 transparent PNG format",
+    "Refreshed source files 05.png and 06.png match the served assets and retain the 1254 by 1254 transparent PNG format",
+    "Responsive layout resolves to one column at 390px, two columns at 769px, and four columns at 1181px and 1440px",
+    "No horizontal overflow at the inspected breakpoints",
+    "Mobile navigation settles to visible with aria-expanded=true and closes with Escape",
+    "Desktop header navigation remains legible before and after scrolling",
+    "No browser console errors were observed"
+  ],
+  "knownGap": "The repository Playwright package is not currently installed, so the existing automated process test was not rerun in this session; its previous passing report remains in evidence/process-qa.json."
+}

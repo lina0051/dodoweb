@@ -1,0 +1,22 @@
+{
+  "desktop": {
+    "width": 1440,
+    "historyPaddingTop": "0px",
+    "faqPaddingTop": "0px",
+    "historyGap": 200,
+    "faqGap": 200,
+    "historyHeadingY": 2486.671875,
+    "faqHeadingY": 5642.71875,
+    "stylesheet": "http://127.0.0.1:54642/home.css?v=20261007-section-spacing-v1"
+  },
+  "mobile": {
+    "width": 390,
+    "historyPaddingTop": "80px",
+    "faqPaddingTop": "80px",
+    "historyGap": 80,
+    "faqGap": 80,
+    "historyHeadingY": 1832.6875,
+    "faqHeadingY": 4609.59375,
+    "stylesheet": "http://127.0.0.1:54642/home.css?v=20261007-section-spacing-v1"
+  }
+}

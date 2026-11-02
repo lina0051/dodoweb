@@ -1,0 +1,16 @@
+{
+  "score": 95,
+  "verdict": "pass",
+  "category_match": true,
+  "differences": [
+    "참고 이미지의 굵은 제목 대신 기존 디자인 시스템의 .btit 굵기 300을 적용함.",
+    "공통 헤더의 현재 회사소개 메뉴명·로고·버튼 디자인을 유지함."
+  ],
+  "suggestions": [],
+  "reasoning": "사용자 제공 사진을 흑백·블러 처리한 전체 화면 배경, 어두운 오버레이, 좌측 CO + DE 문구와 주황색 짧은 선을 구현했다. PC·모바일에서 가독성과 여백을 확인했으며 지정한 첫 섹션만 제공한다.",
+  "evidence": [
+    "evidence/about-new-hero-1440.png",
+    "evidence/about-new-hero-390.png",
+    "evidence/about-new-hero-qa.json"
+  ]
+}

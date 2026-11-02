@@ -1,0 +1,42 @@
+[
+  {
+    "width": 1440,
+    "deviceScaleFactor": 1,
+    "status": "passed",
+    "alpha": {
+      "transparent": 105070,
+      "soft": 2997,
+      "solid": 4032
+    }
+  },
+  {
+    "width": 390,
+    "deviceScaleFactor": 1,
+    "status": "passed",
+    "alpha": {
+      "transparent": 105042,
+      "soft": 3000,
+      "solid": 4026
+    }
+  },
+  {
+    "width": 1440,
+    "deviceScaleFactor": 2,
+    "status": "passed",
+    "alpha": {
+      "transparent": 105042,
+      "soft": 3000,
+      "solid": 4026
+    }
+  },
+  {
+    "width": 390,
+    "deviceScaleFactor": 2,
+    "status": "passed",
+    "alpha": {
+      "transparent": 105042,
+      "soft": 3000,
+      "solid": 4026
+    }
+  }
+]

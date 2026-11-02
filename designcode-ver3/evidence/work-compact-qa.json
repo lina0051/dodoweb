@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "changes": [
+    "Desktop and tablet project grid: 3 columns. Mobile: 2 columns.",
+    "Work-specific compact top padding and title/filter spacing. Existing card typography retained."
+  ],
+  "photoStart": [
+    {
+      "width": 1440,
+      "before": 518,
+      "after": 378,
+      "improvement": 140
+    },
+    {
+      "width": 1920,
+      "before": 645,
+      "after": 415,
+      "improvement": 230
+    },
+    {
+      "width": 390,
+      "before": 392,
+      "after": 348,
+      "improvement": 44
+    }
+  ],
+  "checks": [
+    "320, 390, 768, 769, 1024, 1200, 1201, 1440, 1920px: expected columns, no horizontal overflow, clipped filter buttons or card text.",
+    "Title clears the fixed header; first photo clears the filters.",
+    "All nine filters return expected counts; keyboard selection works.",
+    "Hover overlay appears; sticky filters sit below fixed header.",
+    "node tests/home-motion-static.cjs and git diff --check passed."
+  ],
+  "knownVerificationGaps": [
+    "tests/header-static.cjs fails on an existing about.html stylesheet-version mismatch (expects work.css?v=20261007-header-logo-black-v1). about.html was not changed for this request.",
+    "Legacy tests/work.cjs contains outdated four-column, square-image and original-font expectations; current layout/filter behavior was verified directly in Playwright."
+  ],
+  "evidence": [
+    "evidence/work-compact-1440.png",
+    "evidence/work-compact-1920.png",
+    "evidence/work-compact-390.png"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "score": 96,
+  "verdict": "pass",
+  "category_match": true,
+  "differences": [],
+  "suggestions": [],
+  "reasoning": "Desktop screenshots of all five supplied photos and mobile captures show the requested photo order, a single fixed copy layer, readable white text, five progress bars, and unchanged navigation placement. Waiting for image decoding and rendered frames resolved the initial capture-only blank images. Six viewport widths and motion/navigation behavior passed the browser test.",
+  "evidence": [
+    "evidence/hero-client-banners-desktop.png",
+    "evidence/hero-client-banners-desktop-2.png",
+    "evidence/hero-client-banners-desktop-3.png",
+    "evidence/hero-client-banners-desktop-4.png",
+    "evidence/hero-client-banners-desktop-5.png",
+    "evidence/hero-client-banners-mobile.png",
+    "evidence/hero-client-banners-mobile-2.png",
+    "evidence/hero-client-banners-mobile-3.png",
+    "evidence/hero-client-banners-mobile-4.png",
+    "evidence/hero-client-banners-mobile-5.png"
+  ],
+  "validation_gaps": [
+    "The existing tests/home.cjs stopped before hero checks at an unrelated footer clip-path assertion (expected ellipse, computed none). The dedicated hero test passed independently.",
+    "Existing header/footer static tests assert older exact stylesheet query versions and fail on already changed subpages; those page styles were not edited for this hero request."
+  ]
+}

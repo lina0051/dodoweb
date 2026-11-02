@@ -1,0 +1,15 @@
+{
+  "score": 96,
+  "verdict": "pass",
+  "category_match": true,
+  "differences": [
+    "첫 섹션의 배경과 CO + DE 소개만 교체했다. 메뉴 외관을 그대로 유지하기 위해 기존 흰색 헤더 영역 아래에서 배경 섹션을 시작한다."
+  ],
+  "suggestions": [],
+  "reasoning": "기존 회사소개 전체를 복사하고 이후 모든 섹션·동작과 메뉴를 보존했다. PC·모바일 캡처에서 첫 섹션을 확인했으며 원본 대비 후속 섹션의 마크업과 스타일 일치 및 메뉴 파일 보존을 검증했다.",
+  "evidence": [
+    "evidence/about-copy-hero-1440.png",
+    "evidence/about-copy-hero-390.png",
+    "evidence/about-copy-qa.json"
+  ]
+}

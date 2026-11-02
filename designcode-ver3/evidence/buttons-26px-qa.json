@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "testedAt": "2026-10-20T06:19:05.927Z",
+  "checks": [
+    "index.html at 1440px: Korean CTAs, orange text/border/arrow on hover, preserved shape and background, restore on exit, no overflow",
+    "contact.html at 1440px: Korean CTAs, orange text/border/arrow on hover, preserved shape and background, restore on exit, no overflow",
+    "work.html at 1440px: Korean CTAs, orange text/border/arrow on hover, preserved shape and background, restore on exit, no overflow",
+    "index.html at 390px: Korean CTAs, orange text/border/arrow on hover, preserved shape and background, restore on exit, no overflow",
+    "contact.html at 390px: Korean CTAs, orange text/border/arrow on hover, preserved shape and background, restore on exit, no overflow",
+    "work.html at 390px: Korean CTAs, orange text/border/arrow on hover, preserved shape and background, restore on exit, no overflow",
+    "index.html at 1920px: Korean CTAs, orange text/border/arrow on hover, preserved shape and background, restore on exit, no overflow",
+    "contact.html at 1920px: Korean CTAs, orange text/border/arrow on hover, preserved shape and background, restore on exit, no overflow",
+    "work.html at 1920px: Korean CTAs, orange text/border/arrow on hover, preserved shape and background, restore on exit, no overflow"
+  ],
+  "fontSizeDesktopPx": 26,
+  "fontSizeMobilePx": 22,
+  "shapeAndHoverPreserved": true,
+  "errors": []
+}

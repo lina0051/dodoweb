@@ -1,0 +1,26 @@
+{
+  "status": "pass",
+  "scope": "about-new first-section description motion",
+  "results": [
+    {
+      "width": 1440,
+      "animated": true,
+      "opacity": "1",
+      "transform": "none",
+      "delay": "0.18s",
+      "bottomGap": 100
+    },
+    {
+      "width": 390,
+      "animated": true,
+      "opacity": "1",
+      "transform": "none",
+      "delay": "0.18s",
+      "bottomGap": 100
+    }
+  ],
+  "reduced": {
+    "opacity": "1",
+    "transform": "none"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "score": 95,
+  "verdict": "pass",
+  "category_match": true,
+  "differences": [],
+  "suggestions": [],
+  "reasoning": "Preserved the existing split desktop layout and stacked mobile form. Verified separate move-in and settlement dates, settlement-date guidance below its input, exclusive-area label with pyeong unit guidance, the Korean consultation CTA, and the supplied table order. The table includes the site address; retained it as the default interpretation of the conflicting reference.",
+  "reference": "/Users/lina/Desktop/스크린샷 2026-10-20 오후 1.50.51.png",
+  "screenshots": [
+    "evidence/contact-desktop-form.png",
+    "evidence/contact-desktop-button.png",
+    "evidence/contact-fields-mobile.png"
+  ],
+  "validation": "BASE_URL=http://127.0.0.1:60369/contact.html node tests/contact.cjs passed; five viewport widths, field order, independent date values, guidance labels, static CTA, shared title and mobile navigation.",
+  "assumption": "Reference prose says remove the address and use eight fields; its final table lists nine fields including the address. The final table is used pending any correction."
+}

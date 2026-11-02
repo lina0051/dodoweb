@@ -1,0 +1,870 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "width": 320,
+      "overflow": false,
+      "cards": [
+        {
+          "height": 432.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 378.1484375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 398.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 459.59375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 405.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 405.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 405.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 405.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 432.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "cards": [
+        {
+          "height": 432.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 378.1484375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 398.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 459.59375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 405.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 405.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 405.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 405.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 432.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "cards": [
+        {
+          "height": 432.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 378.1484375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 398.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 459.59375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 405.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 405.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 405.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 405.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 432.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 769,
+      "overflow": false,
+      "cards": [
+        {
+          "height": 427.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 427.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 86.296875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 374.1484375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 454.59375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 454.59375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 86.296875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 401.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 400.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 400.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 428.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "cards": [
+        {
+          "height": 427.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 427.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 86.296875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 374.1484375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 454.59375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 454.59375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 86.296875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 401.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 400.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 400.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 428.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 1180,
+      "overflow": false,
+      "cards": [
+        {
+          "height": 427.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 427.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 86.296875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 374.1484375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 454.59375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 454.59375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 86.296875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 401.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 400.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 400.296875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 428.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 1181,
+      "overflow": false,
+      "cards": [
+        {
+          "height": 427.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 427.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 86.296875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 427.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 66.1484375,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 474.7421875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 474.7421875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 106.4453125,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 474.7421875,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 106.4453125,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 427.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 59.1484375,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 427.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 59.1484375,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 427.4453125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 32,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "cards": [
+        {
+          "height": 435.4375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 36,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 435.4375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 90.296875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 435.4375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 70.1484375,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 462.5859375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 36,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 462.5859375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 90.296875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 462.5859375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 90.296875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 435.4375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 63.1484375,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 435.4375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 63.1484375,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 435.4375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 36,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "overflow": false,
+      "cards": [
+        {
+          "height": 469.703125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 48,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 469.703125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 108.46875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 469.703125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 108.46875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 499.9375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 48,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 499.9375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 108.46875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 499.9375,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 108.46875,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 469.703125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 78.234375,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 469.703125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 78.234375,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        },
+        {
+          "height": 469.703125,
+          "figureHeight": 192,
+          "numberGap": 12,
+          "copyGap": 24,
+          "bottomSpace": 48,
+          "verticalOrder": true,
+          "clipped": false,
+          "loaded": true
+        }
+      ]
+    }
+  ],
+  "errors": []
+}
