@@ -24,7 +24,9 @@
 
 연혁과 파트너는 자료 미수령 상태입니다. 제안 카피는 고객 검수 후 교체할 수 있습니다. 푸터 연락처는 기존 footer-preview 작업물에서 가져왔으며 이번 작업에서 외부 확인하지 않았습니다. 상담신청은 데이터 연결이나 제출 동작이 없는 정적 폼 마크업입니다.
 
-공통 헤더와 푸터 구조는 `node tests/header-static.cjs`, `node tests/footer-static.cjs`로 검증합니다. 두 번째 소개 페이지는 `node tests/about-alt-static.cjs`로 구조를 검증합니다. Playwright/Chrome 설치 환경에서는 `node tests/home.cjs`, `node tests/work.cjs`, `node tests/process.cjs`, `node tests/contact.cjs`로 화면 동작을 검증하며, 각 테스트는 `BASE_URL`로 경로를 변경할 수 있습니다. 아직 외부 배포하지 않은 로컬 구현입니다.
+공통 헤더와 푸터 구조는 `node tests/header-static.cjs`, `node tests/footer-static.cjs`로 검증합니다. 두 번째 소개 페이지는 `node tests/about-alt-static.cjs`로 구조를 검증합니다. Playwright/Chrome 설치 환경에서는 `node tests/home.cjs`, `node tests/work.cjs`, `node tests/process.cjs`, `node tests/contact.cjs`로 화면 동작을 검증하며, 각 테스트는 `BASE_URL`로 경로를 변경할 수 있습니다. 2026-11-02 `designcode-ver3` 프로젝트로 Vercel에 배포했습니다: https://designcode-ver3.vercel.app/
+
+Vercel의 공개 주소에서 18개 페이지·기기·호환성 검사와 회사소개 갤러리 동작을 검증했습니다. PC·모바일에서 히어로 오버레이 35% → 35% → 80%, CO+DE 굵기 600, 인터넷 안내 문구 12px·`#888` 적용을 확인했습니다. 이 폴더의 `.vercel/project.json`은 `designcode-ver3`에 연결돼 있으며, 이후 배포는 `npx vercel deploy --prod --yes`로 실행합니다. 문서·테스트·검증 자료와 로컬 환경 파일은 공개 배포에서 제외합니다.
 
 2026-10-22 리소스 정리: 미사용 미디어 40개와 `.DS_Store` 3개(67,397,099바이트, 약 64.3MiB)를 휴지통으로 옮겼습니다. 정확한 경로·해시·복구 위치는 `evidence/resource-cleanup-manifest.json`에 기록했습니다. 기존 소개 페이지, 디자인 시스템, 검증 자료와 원본 출처 기록은 보존했습니다. 메인의 미사용 샘플 데이터와 `projects.js` 로드를 제거하고, 반복 DOM 조회를 줄였습니다.
 

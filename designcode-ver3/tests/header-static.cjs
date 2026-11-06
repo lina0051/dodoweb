@@ -30,7 +30,7 @@ assert.equal((sharedMarkup.match(/<header class="site-header"/g) || []).length, 
 assert.match(sharedMarkup, /<video class="site-logo-motion logo-motion"[^>]*width="640" height="188"[^>]*data-hold-time="4\.4"/, 'shared header must retain the original motion logo contract');
 assert.match(sharedMarkup, /assets\/brand\/code-wordmark-black\.webm/, 'shared logo must use the precolored alpha video');
 assert.doesNotMatch(sharedMarkup, /<filter|feComponentTransfer/, 'logo must not threshold video edges in the browser');
-assert.doesNotMatch(sharedMarkup, /site-logo-static|<img class="site-logo"/, 'shared header must not branch to a page-specific static logo');
+assert.match(sharedMarkup, /class="site-logo-still" src="assets\/brand\/code-wordmark-still\.svg"/, 'all pages must share a vector resting logo');
 assert.doesNotMatch(sharedMarkup, /data-nav-page="about"/, 'the archived about page must not appear in the shared menu');
 assert.match(sharedMarkup, /data-nav-page="about-new" href="about-new\.html">회사소개<\/a>/, 'company introduction must link to the new page without a NEW label');
 assert.doesNotMatch(sharedMarkup, /site-nav-new|>NEW</, 'shared menus must not include a NEW label');

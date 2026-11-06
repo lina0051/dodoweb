@@ -70,7 +70,7 @@ html { scroll-behavior: smooth; scroll-padding-top: 110px; }
  .home-projects .work-item .info .tags { font-size: 15px; }
 }
 .home-projects .work-item-link { display: block; color: inherit; }
-.home-projects .work-item .thumb { position: relative; aspect-ratio: 4 / 3; border: 0; background: #0a0a0a; }
+.home-projects .work-item .thumb { position: relative; aspect-ratio: 16 / 10; border: 0; background: #0a0a0a; }
 .home-projects .work-item .thumb img { transition: opacity .35s ease, transform .6s cubic-bezier(.22,1,.36,1); }
 .home-projects .project-hover { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: flex-end; gap: 8px; padding: clamp(18px,1.563vw,30px); color: #fff; background: rgba(0,0,0,.18); opacity: 0; transform: translateY(8px); transition: opacity .35s ease, transform .35s ease; pointer-events: none; }
 .home-projects .project-hover-title { font-size: 15px; font-weight: 550; line-height: 1.2; }

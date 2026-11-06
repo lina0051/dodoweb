@@ -62,6 +62,8 @@
     "source": "brand/code-wordmark-loop.webm",
     "derived": "brand/code-wordmark-black.webm",
     "updatedAt": "2026-11-02",
-    "processing": "FFmpeg libvpx-vp9 lossless RGBA conversion: RGB=0; alpha=source alpha * (1 - 0.9 * clamp((mean RGB - 80) / 100, 0, 1)). Preserves native 640x188, 30fps, duration, and original motion; avoids browser luminance threshold filtering."
+    "processing": "FFmpeg libvpx-vp9 lossless RGBA conversion: RGB=0; alpha=source alpha * (1 - 0.9 * clamp((mean RGB - 80) / 100, 0, 1)). Preserves native 640x188, 30fps, duration, and original motion; avoids browser luminance threshold filtering.",
+    "restingVector": "brand/code-wordmark-still.svg",
+    "restingVectorNote": "2026-11-06: vector reconstruction of the source hold frame circle and line geometry, preserving solid black and 10% black layers; displayed before playback, on pause after 4.4 seconds, or on playback failure."
   }
 }

@@ -38,6 +38,10 @@
 }
 .site-brand { position: relative; z-index: 2; display: block; flex: none; line-height: 0; }
 .site-logo-motion { display: block; width: auto; height: 56px; max-width: none; aspect-ratio: 640 / 188; object-fit: contain; filter: none; opacity: 1; }
+.site-logo-motion { visibility: hidden; }
+.site-logo-still { position: absolute; inset: 0; display: block; width: 100%; height: 100%; }
+.site-brand.is-logo-playing .site-logo-motion { visibility: visible; }
+.site-brand.is-logo-playing .site-logo-still { visibility: hidden; }
 .site-nav { display: flex; align-items: center; gap: 40px; margin-left: auto; }
 .site-nav-item { display: inline-flex; align-items: center; min-height: 48px; white-space: nowrap; font-size: 20px; font-weight: 500; line-height: 1; }
 .site-nav a { transition: opacity .35s ease; }
@@ -88,7 +92,7 @@
 }
 .work-page .work-thumb-link { display: block; color: inherit; cursor: pointer; }
 .work-page .work-thumb-link:focus-visible { outline: 2px solid currentColor; outline-offset: 5px; }
-.work-page .work-item .thumb { position: relative; aspect-ratio: 4 / 3; border: 0; background: #0a0a0a; }
+.work-page .work-item .thumb { position: relative; aspect-ratio: 16 / 10; border: 0; background: #0a0a0a; }
 .work-page .work-item .thumb img { transition: opacity .35s ease, transform .6s cubic-bezier(.22, 1, .36, 1); }
 .work-page .project-hover { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: flex-end; gap: 8px; padding: clamp(18px, 1.563vw, 30px); color: #fff; background: rgba(0, 0, 0, .5); opacity: 0; transform: translateY(8px); transition: opacity .35s ease, transform .35s ease; pointer-events: none; }
 .work-page .project-hover-title { font-size: 15px; font-weight: 550; line-height: 1.2; }
@@ -159,7 +163,7 @@
   .site-nav-item { min-height: 0; font-size: clamp(36px, 8vw, 58px); line-height: 1.15; }
   .site-nav-cta { width: min(100%, 320px); margin-top: 15px; background: var(--primary); color: #fff; }
   body.site-menu-open { overflow: hidden; }
-  body.site-menu-open .site-logo-motion { filter: brightness(0) invert(1); opacity: .78; }
+  body.site-menu-open :is(.site-logo-motion, .site-logo-still) { filter: brightness(0) invert(1); opacity: .78; }
   body.site-menu-open .site-nav { opacity: 1; visibility: visible; pointer-events: auto; transform: none; }
   body.site-menu-open .site-menu-toggle span { top: 26px; background: #fff; }
   body.site-menu-open .site-menu-toggle span:first-child { transform: rotate(45deg); }

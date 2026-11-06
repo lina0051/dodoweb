@@ -11,7 +11,7 @@ void (async () => {
       if (!fallbackMarkup) throw new Error("파일 미리보기용 헤더가 없습니다.");
       markup = fallbackMarkup;
     } else {
-      const response = await fetch("header.html?v=20261102-logo-smooth-v1");
+      const response = await fetch("header.html?v=20261106-logo-vector-v2");
       if (!response.ok) throw new Error(`공통 헤더를 불러오지 못했습니다. (${response.status})`);
       markup = await response.text();
     }
@@ -32,10 +32,16 @@ void (async () => {
   header.querySelector(`[data-nav-page="${currentPage}"]`)?.setAttribute("aria-current", "page");
 
   const logoVideo = header.querySelector(".logo-motion");
+  const logoBrand = header.querySelector(".site-brand");
+  const showStillLogo = () => logoBrand.classList.remove("is-logo-playing");
+  logoVideo.addEventListener("playing", () => logoBrand.classList.add("is-logo-playing"));
+  logoVideo.addEventListener("pause", showStillLogo);
+  logoVideo.addEventListener("ended", showStillLogo);
+  logoVideo.addEventListener("error", showStillLogo);
   const holdTime = Number(logoVideo.dataset.holdTime);
   const playLogoOnce = () => {
     logoVideo.currentTime = 0;
-    logoVideo.play().catch(() => {});
+    logoVideo.play().catch(showStillLogo);
   };
   logoVideo.addEventListener("timeupdate", () => {
     if (Number.isFinite(holdTime) && logoVideo.currentTime >= holdTime) logoVideo.pause();

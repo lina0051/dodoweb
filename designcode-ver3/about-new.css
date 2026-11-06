@@ -8,6 +8,7 @@
 }
 .about-new-body .about-page > .sub-wrap { padding-top: 0; padding-inline: var(--about-page-gutter); }
 .about-new-hero {
+  --about-hero-subtitle-size: 43px;
   position: relative;
   isolation: isolate;
   display: flex;
@@ -21,13 +22,21 @@
   color: #fff;
 }
 .about-new-hero__background { position: absolute; z-index: -2; inset: 0; background: #333; }
+.about-new-hero__background::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgb(150 190 230 / 5%);
+  mix-blend-mode: color;
+  pointer-events: none;
+}
 .about-new-hero__background img {
   display: block;
   width: 100%;
   height: 100%;
   object-fit: cover;
   object-position: 35% center;
-  filter: grayscale(.9) brightness(1.08) contrast(.85) blur(6px);
+  filter: grayscale(.6) brightness(1.08) contrast(.85) blur(3px);
   transform: scale(1.04);
 }
 .about-new-hero__content {
@@ -45,13 +54,13 @@
   pointer-events: none;
   background: linear-gradient(180deg, rgb(0 0 0 / 35%) 0%, rgb(0 0 0 / 35%) 50%, rgb(0 0 0 / 80%) 100%);
 }
-.about-new-hero .btit { margin: 0; font-family: "Montserrat CODE", var(--font-base); font-size: clamp(64px, calc(100vw * 145 / 1920), 145px); font-weight: 600 !important; line-height: 1; letter-spacing: 0; word-spacing: .02em; white-space: nowrap; }
-.about-new-hero .about-new-hero__subtitle { margin: var(--title-text-gap) 0 0; font-size: 40px; font-weight: 500; line-height: 1.35; letter-spacing: -.04em; }
-.about-new-hero .about-new-hero__description { margin: clamp(24px, 2.083vw, 40px) 0 0; color: #fff; font-size: 19px; font-weight: 500; line-height: 1.65; letter-spacing: -.03em; }
+/* Match visible glyph edges to the subtitle, compensating for Montserrat side bearings. */
+.about-new-hero .btit { margin: 0 0 0 calc(var(--about-hero-subtitle-size) * -.10948); font-family: "Montserrat CODE", var(--font-base); font-size: calc(var(--about-hero-subtitle-size) / .313266); font-weight: 600 !important; line-height: 1; letter-spacing: 0; word-spacing: .02em; white-space: nowrap; }
+.about-new-hero .about-new-hero__subtitle { margin: var(--title-text-gap) 0 0; font-size: var(--about-hero-subtitle-size); font-weight: 600; line-height: 1.35; letter-spacing: -.04em; white-space: nowrap; }
+.about-new-hero .about-new-hero__description { margin: clamp(24px, 2.083vw, 40px) 0 0; color: #fff; font-size: 19px; font-weight: 500; line-height: 1.65; letter-spacing: -.03em; text-shadow: 0 2px 8px rgb(0 0 0 / 60%), 0 0 24px rgb(0 0 0 / 60%); }
 @media (max-width: 768px) {
   .about-new-hero { min-height: 100vh; min-height: 100svh; padding: 160px var(--about-page-gutter) 96px; }
-  .about-new-hero .btit { font-size: clamp(44px, 14vw, 104px); }
-  .about-new-hero .about-new-hero__subtitle { max-width: 16em; font-size: 26px; }
+  .about-new-hero { --about-hero-subtitle-size: min(28px, calc((100vw - 2 * var(--about-page-gutter)) / 11.328125)); }
   .about-new-hero .about-new-hero__description { max-width: calc(100% - 64px); }
   .about-new-hero__linebreak { display: none; }
 }
