@@ -1,0 +1,35 @@
+/* Shared frame with two equal pricing-style trade cards. */
+.wholesale-shell { display: flex; flex-direction: column; min-width: 1440px; min-height: 100vh; }
+.wholesale-page { flex: 1; padding-top: var(--d-header-h); }
+.trade-section { padding: 0 0 64px; }
+.trade-options { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; width: 1400px; margin: 0 auto; }
+.trade-card { display: flex; flex-direction: column; box-sizing: border-box; overflow: hidden; border: 1px solid #e5e5e5; border-radius: 16px; background: #fff; }
+.trade-card__header { display: grid; grid-template-columns: minmax(0, 1fr) 80px; align-items: center; gap: 32px; box-sizing: border-box; min-height: 160px; padding: 24px 48px; background: var(--trade-header-background); }
+.trade-card__icon { display: flex; align-items: center; justify-content: center; width: 80px; height: 80px; border-radius: 50%; background: var(--trade-icon-background); color: var(--trade-icon-color); }
+.trade-card--wholesale { --trade-header-background: #efeeeb; --trade-icon-background: #f8f7f5; --trade-icon-color: #7b7267; }
+.trade-card--consignment { --trade-header-background: #eceef2; --trade-icon-background: #f7f8fa; --trade-icon-color: #68777e; }
+.trade-card__icon .phosphor-icon { width: 40px; height: 40px; fill: none; stroke-width: 1.5px; }
+.trade-card__body { display: flex; flex: 1; flex-direction: column; padding: 32px 48px 48px; border-top: 1px solid #e8e8e8; background: #fff; }
+.trade-card h2 { margin: 0; }
+.trade-card__description { margin: 12px 0 0; }
+.trade-steps { margin: 0 0 40px; padding: 0; list-style: none; }
+.trade-steps li { position: relative; display: grid; grid-template-columns: 28px minmax(0, 1fr); align-items: start; gap: 16px; }
+.trade-steps li:not(:last-child)::before { position: absolute; top: 34px; bottom: -18px; left: 13.5px; width: 1px; background: #e8e8e8; content: ""; }
+.trade-steps li + li { margin-top: 24px; }
+.trade-steps__number { display: flex; align-items: center; justify-content: center; width: 28px; height: 28px; border-radius: 50%; background: #f3f3f3; color: #666; font-size: 12px; line-height: 1; }
+.trade-steps h3 { margin: 2px 0 0; }
+.trade-steps p { margin: 6px 0 0; line-height: 1.6; }
+.trade-button { display: inline-flex; align-items: center; justify-content: center; gap: 12px; box-sizing: border-box; width: 100%; height: 48px; margin-top: auto; padding: 0 24px; border: 1px solid transparent; border-radius: 4px; background: #292929; color: #fff; font-size: 16px; font-weight: 500; line-height: 1; white-space: nowrap; text-decoration: none; }
+.trade-button .phosphor-icon { flex: 0 0 14px; width: 14px; height: 14px; fill: currentColor; }
+.trade-button:hover { border-color: #000; background: #000; color: #fff; }
+.trade-button:focus-visible { outline: 2px solid #111; outline-offset: 6px; }
+
+/* Pre-order terms share the page grid in three equal cards. */
+.order-guide { width: 1400px; margin: 0 auto; padding: 16px 0 80px; }
+.order-guide__title { margin: 0 0 24px; }
+.order-guide__grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
+.order-guide__card { display: grid; grid-template-columns: 64px minmax(0, 1fr); align-items: start; gap: 20px; padding: 32px; border-radius: 12px; background: #f7f7f7; }
+.order-guide__card h3 { margin: 0 0 12px; font-size: 20px; }
+.order-guide__card p { margin: 0; line-height: 1.5; letter-spacing: -0.02em; }
+.order-guide__icon { display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; border-radius: 50%; background: #ebebeb; color: #555; }
+.order-guide__icon svg { display: block; width: 32px; height: 32px; fill: none; stroke-width: 1.3px; }

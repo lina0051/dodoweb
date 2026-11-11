@@ -1,0 +1,83 @@
+{
+  "retrievedAt": "2026-11-10",
+  "assets": [
+    {
+      "id": "yamadaken",
+      "name": "YAMADAKEN",
+      "koreanName": "야마다켄",
+      "brandIdentity": "山研工業株式会社 / Yamaken (project spelling YAMADAKEN)",
+      "sourcePage": "https://yamaken.shop-pro.jp/",
+      "imageUrl": "https://img20.shop-pro.jp/PA01323/167/PA01323167.png?cmsp_timestamp=20260501114439",
+      "localPath": "assets/brands/yamadaken.png",
+      "evidence": [
+        "Local .omx/artifacts/bestseller-images/products.json identifies 야마다켄 스마트볼 샐러드 스피너.",
+        "Official https://www.yamaken-kogyo.com/product/cooking/baribari/ lists スマートボール salad spinner JAN4533009014991 and corporate footer Yamaken.",
+        "Official corporate site links its direct online shop at yamaken.shop-pro.jp; downloaded header logo is Yamaken shop wordmark with salad-spinner symbol."
+      ],
+      "ambiguity": "Supplied brand page has introduction pending with no official link. YAMADAKEN is project spelling, manufacturer official spelling Yamaken. The downloaded authentic asset is official direct-shop logo rather than a standalone corporate mark. Current corporate header uses live text only. Not 山田工業所.",
+      "sha256": "88d8374c0fa831ed45f01b481ec31de61708a18ea218dc9247d10ff5e337b36f"
+    },
+    {
+      "id": "tsubame",
+      "name": "TSUBAME",
+      "koreanName": "츠바메",
+      "brandIdentity": null,
+      "sourcePage": "https://dadazzang-wholesale-edit.wintry-lemon-8728.chatgpt.site/imweb/store/brands/#tsubame",
+      "imageUrl": null,
+      "localPath": null,
+      "evidence": [
+        "User-supplied brand page #tsubame says 브랜드 소개 준비 중 and links only to product listing.",
+        "That product listing contains six sample products for SHIMOMURA, AMBAI, KAICO and selected tools, no TSUBAME product identity.",
+        "Existing local hero-brand-copy artifact marks TSUBAME provisional; no existing hero slide/image.",
+        "Original Dadazzang Brand Shop desktop page requires login, preventing direct manufacturer verification."
+      ],
+      "ambiguity": "Unresolved: could mean a company, Japanese regional production mark or another label. No logo downloaded to avoid falsely identifying TSUBAME with Made in TSUBAME certification, Tsubame Shinko, or Korean retailer tsubame.co.kr."
+    },
+    {
+      "id": "todai",
+      "name": "TODAI",
+      "koreanName": "토다이",
+      "brandIdentity": "株式会社トーダイ",
+      "sourcePage": "https://www.todai-tsubame.com/",
+      "imageUrl": "https://static.wixstatic.com/media/a53f7e_d303dd5980184691a227e10bfa620705~mv2.jpg",
+      "localPath": "assets/brands/todai.jpg",
+      "evidence": [
+        "User-supplied brand page links official Todai corporate.com and co.jp company/cutlery sites.",
+        "Corporate.com homepage header uses this exact original Wix-hosted JPG asset as logo; downloaded untransformed original628×84.",
+        "Legacy corporate co.jp uses same blue Todai/株式会社トーダイ/HIGH QUALITY COLLECTION mark."
+      ],
+      "ambiguity": null,
+      "sha256": "c0ffb4b4ff36462d9f37eda45db4f85698bc4b4679271b35f6e025582873481f"
+    },
+    {
+      "id": "inomata",
+      "name": "INOMATA",
+      "koreanName": "이노마타",
+      "brandIdentity": "イノマタ化学株式会社",
+      "sourcePage": "https://www.inomata-k.co.jp/",
+      "imageUrl": "https://www.inomata-k.co.jp/wp-content/themes/inomata/img/common/logo.svg",
+      "localPath": "assets/brands/inomata.svg",
+      "evidence": [
+        "User-supplied brand page links this official homepage/company page.",
+        "Official home header image alt=イノマタ化学株式会社 uses downloaded logo.svg."
+      ],
+      "ambiguity": null,
+      "sha256": "0b82a0cd8d5faf0865761fb96f86e9e95e3185b1f1615076c1088c308fd864b5"
+    },
+    {
+      "id": "nakaya",
+      "name": "NAKAYA",
+      "koreanName": "나카야",
+      "brandIdentity": "ナカヤ化学産業株式会社",
+      "sourcePage": "https://www.nakaya-kagaku.co.jp/",
+      "imageUrl": "https://www.nakaya-kagaku.co.jp/wp-content/themes/nakaya_kagaku/images/logo.svg",
+      "localPath": "assets/brands/nakaya.svg",
+      "evidence": [
+        "User-supplied brand page links official NAKAYA homepage/company overview.",
+        "Official homepage header uses downloaded logo.svg alt=NAKAYA,70×90."
+      ],
+      "ambiguity": null,
+      "sha256": "e67a5e7fb70d3cfa5c46710508b60d111455dc4b3822e55ccbb068317f32b832"
+    }
+  ]
+}

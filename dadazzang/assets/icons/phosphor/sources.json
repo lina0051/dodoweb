@@ -1,0 +1,180 @@
+{
+  "library": "Phosphor Icons",
+  "repository": "https://github.com/phosphor-icons/core",
+  "commit": "2b75f3ad12b420c9504ef05df8d2564a28f8500e",
+  "icons": [
+    {
+      "name": "list",
+      "weight": "regular",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/regular/list.svg",
+      "sha256": "fb1851842c74b40a3f42ce3d6ae0e67ede556b624218e79c0f4ead7d9ceec51f"
+    },
+    {
+      "name": "magnifying-glass",
+      "weight": "regular",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/regular/magnifying-glass.svg",
+      "sha256": "f9fa2561978a9a3291e8ae0ebfcb651104f5069fade8f84871627bca68889cde"
+    },
+    {
+      "name": "user",
+      "weight": "regular",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/regular/user.svg",
+      "sha256": "787434f7fef95f20e137d309d3c6b8b471548c55c9dfc137ae10625d70959d11"
+    },
+    {
+      "name": "handbag",
+      "weight": "regular",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/regular/handbag.svg",
+      "sha256": "c43ee9c92a6d084cbee3362629b64468275dade0cabc0f6c0d4ce3b4496940a6"
+    },
+    {
+      "name": "arrow-up-right",
+      "weight": "regular",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/regular/arrow-up-right.svg",
+      "sha256": "44db5257b360ec04863eb6daaa41f220c8b714d23fb81403517d0a30acfda9f4"
+    },
+    {
+      "name": "arrow-up",
+      "weight": "regular",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/regular/arrow-up.svg",
+      "sha256": "361aa9f9c52a759bf598faf6ed38ccd426f949f541d662c65b5b5d868fa76980"
+    },
+    {
+      "name": "squares-four",
+      "weight": "regular",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/regular/squares-four.svg",
+      "sha256": "f70d6b20e08e028ab5b1714077681910a2431092cf7a23b82366ddaec554ab87"
+    },
+    {
+      "name": "tag",
+      "weight": "regular",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/regular/tag.svg",
+      "sha256": "56633631b2e56436c33010c432f5da46533d2cfcae9773e694ee90ad43d96d69"
+    },
+    {
+      "name": "handshake",
+      "weight": "regular",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/regular/handshake.svg",
+      "sha256": "620a2394b8ea5a146bc73997872e7a6479cda2c452ea3dba56fba0b1181dd341"
+    },
+    {
+      "name": "package",
+      "weight": "regular",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/regular/package.svg",
+      "sha256": "b190e7e8f5c6e68be08e9fca1310d0f2c341aa7f1384aa99457206fab755e1f6"
+    },
+    {
+      "name": "headset",
+      "weight": "regular",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/regular/headset.svg",
+      "sha256": "7f2efeda2bd797c8112ca8502582cd4df82da9aef0953540805debbc337c63a3"
+    },
+    {
+      "name": "squares-four",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/light/squares-four-light.svg",
+      "sha256": "ee7c387692cd3d2d6029dd3dc1f94a7bc7502e00ecc3a85e73daefd9fd382629"
+    },
+    {
+      "name": "tag",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/light/tag-light.svg",
+      "sha256": "962e8da3ffb037103d6e613d8b160eb12c1402730994d4154106f1d39854c32f"
+    },
+    {
+      "name": "handshake",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/light/handshake-light.svg",
+      "sha256": "51cbfa9d5444557281fee09e8221749f399a9f2cb387b3f20a4f6ad4d1a02de1"
+    },
+    {
+      "name": "package",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/light/package-light.svg",
+      "sha256": "7189e10ddad68525acf560e68cfb273b809cc67e651557f6b2bfeb76695769e1"
+    },
+    {
+      "name": "user-sound",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/light/user-sound-light.svg",
+      "sha256": "866911f678995e0e575b058e5152016192051de11416bf5783c26be8636b2024"
+    },
+    {
+      "name": "shopping-bag-open",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/light/shopping-bag-open-light.svg",
+      "sha256": "9cee69ee3f2db453abe11b5d353abc63f5c3d1ffd0c7c23de199499dcf5c216b"
+    },
+    {
+      "name": "clipboard-text",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/light/clipboard-text-light.svg",
+      "sha256": "ba672e04dca5659ec3be7b831fd759fa072e89175796ee526a1e3d5bf48080e6"
+    },
+    {
+      "name": "headset",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/light/headset-light.svg",
+      "sha256": "4fcc4d8ab450cf0c623e98420a9b8e3e4a6f81c80cbe2c8e040ce0cfc26178c5"
+    },
+    {
+      "name": "tote",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/light/tote-light.svg",
+      "sha256": "831fb7b0e0cc6481df156d0dda35d736ab11a823cd209b3626b3534eeddd9793"
+    },
+    {
+      "name": "book-open",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/light/book-open-light.svg",
+      "sha256": "b7b13a145b236cc573434ce57a6e9a55157fe9583865eccc9ef0726fff5c4895"
+    },
+    {
+      "name": "cooking-pot",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/light/cooking-pot-light.svg",
+      "sha256": "d1bd39005cb037f889901e6007227b08d0b7dad16006f604a0be85c58b46863e"
+    },
+    {
+      "name": "tote",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/raw/light/tote-light.svg",
+      "sha256": "98b2e1079256dff17c99edf44d8aad42df19df3091a7559a2ca0263a2f394485",
+      "adaptation": "outline.svg: original geometry; stroke width inherited from CSS; non-scaling-stroke on outlined shapes."
+    },
+    {
+      "name": "cooking-pot",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/raw/light/cooking-pot-light.svg",
+      "sha256": "f279913321e207aad40f2a3fc670058c993a2601bee211cf5afa70d70f50cf3f",
+      "adaptation": "outline.svg: original geometry; stroke width inherited from CSS; non-scaling-stroke on outlined shapes."
+    },
+    {
+      "name": "clipboard-text",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/raw/light/clipboard-text-light.svg",
+      "sha256": "2b6c5593dd71c666715e0853d2be82601681bd3f3bffd441e23368c8f8670e4f",
+      "adaptation": "outline.svg: original geometry; stroke width inherited from CSS; non-scaling-stroke on outlined shapes."
+    },
+    {
+      "name": "package",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/raw/light/package-light.svg",
+      "sha256": "b63860f7e964d760634f8e019c91fd6f77bf4248203d3e31c8e210b487fd6c6c",
+      "adaptation": "outline.svg: original geometry; stroke width inherited from CSS; non-scaling-stroke on outlined shapes."
+    },
+    {
+      "name": "headset",
+      "weight": "light",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/raw/light/headset-light.svg",
+      "sha256": "5860123f53b2fc07efefc4cda24e202d88f591230f5db655a1669ace73488730",
+      "adaptation": "outline.svg: original geometry; stroke width inherited from CSS; non-scaling-stroke on outlined shapes."
+    },
+    {
+      "name": "caret-right",
+      "weight": "regular",
+      "source": "https://raw.githubusercontent.com/phosphor-icons/core/2b75f3ad12b420c9504ef05df8d2564a28f8500e/assets/regular/caret-right.svg",
+      "sha256": "e6dec01e074807965b7f3146b976a9b5e82c31d9c2c88aeb52e77cc2ab16c1d7"
+    }
+  ]
+}

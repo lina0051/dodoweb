@@ -1,0 +1,6 @@
+.DS_Store
+.omx/
+outputs/
+node_modules/
+.env
+.env.*

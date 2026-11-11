@@ -1,0 +1,70 @@
+{
+  "retrievedAt": "2026-11-10",
+  "brands": [
+    {
+      "brand": "SANADA",
+      "koreanLabel": "사나다",
+      "officialName": "サナダ精工株式会社 / サナダグループ",
+      "sourcePage": "https://sanada-group.jp/",
+      "imageUrl": "https://sanada-group.jp/dcms_media/image/common/footer_ligo.jpg",
+      "localPath": "assets/brands/sanada.jpg",
+      "authenticityEvidence": "Official Sanada Group website footer uses this original image with alt サナダグループ; the same site identifies サナダ精工株式会社 as its household products business.",
+      "notes": "Original unmodified 90×89 JPG. Multicolor square mark with small Sanada group wordmark and baked white background; best kept at native size or below. Higher-resolution standalone original not located.",
+      "dimensions": {
+        "width": 90,
+        "height": 89
+      }
+    },
+    {
+      "brand": "NAGAO",
+      "koreanLabel": "나가오",
+      "officialName": "有限会社ナガオ",
+      "sourcePage": "https://www.n-nagao.co.jp/",
+      "imageUrl": "https://www.n-nagao.co.jp/wp-content/themes/base/images/logo.png",
+      "localPath": "assets/brands/nagao.png",
+      "authenticityEvidence": "Official Tsubame kitchen/cutlery manufacturer site uses this image as both header and footer logo; Organization structured data also points to an equivalent logo.",
+      "notes": "Original unmodified transparent PNG, horizontal wordmark. Includes the official small supporting text.",
+      "dimensions": {
+        "width": 433,
+        "height": 71
+      }
+    },
+    {
+      "brand": "AKEBONO",
+      "koreanLabel": "아케보노",
+      "officialName": "株式会社曙産業",
+      "sourcePage": "https://www.akebono-sa.co.jp/",
+      "imageUrl": "https://www.akebono-sa.co.jp/html/template/akebono/img/top/footer_logo_kon.png",
+      "localPath": "assets/brands/akebono.png",
+      "authenticityEvidence": "Official Tsubame plastic household goods manufacturer footer displays this logo with alt 曙産業. Official company information is at /help/about.",
+      "notes": "Original unmodified transparent PNG, navy mark and wordmark; navy footer variation chosen for white background.",
+      "dimensions": {
+        "width": 400,
+        "height": 130
+      }
+    },
+    {
+      "brand": "KOKUBO",
+      "koreanLabel": "코쿠보",
+      "officialName": "株式会社小久保工業所",
+      "sourcePage": "https://kokubo.co.jp/",
+      "imageUrl": "https://kokubo.co.jp/asset/images/common/logo.svg",
+      "localPath": "assets/brands/kokubo.svg",
+      "authenticityEvidence": "Official household and lifestyle products manufacturer header uses this SVG with alt 小久保工業所.",
+      "notes": "Original unmodified scalable SVG, red #cf121b logo and supporting Japanese company name. Transparent background.",
+      "viewBox": "0 0 289.9867 79.08682"
+    },
+    {
+      "brand": "ECHO",
+      "koreanLabel": "에코금속",
+      "officialName": "エコー金属株式会社",
+      "sourcePage": "https://echo-k.co.jp/",
+      "imageUrl": "https://echo-k.co.jp/#logo-horizontal",
+      "localPath": "assets/brands/echo.svg",
+      "authenticityEvidence": "Official Tsubame kitchen/household tools company homepage embeds symbol id=logo-horizontal and uses it in its footer; company page /company/ identifies エコー金属株式会社.",
+      "notes": "Official original inline SVG symbols extracted without changing paths or geometry and wrapped in a standalone SVG. All original symbols retained so nested symbol references resolve. Horizontal 480×75 variant, currentColor defaults black on transparent background. imageUrl denotes the source-page fragment, not a standalone HTTP image endpoint.",
+      "viewBox": "0 0 480 75",
+      "sourceType": "official-inline-svg"
+    }
+  ]
+}

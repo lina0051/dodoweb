@@ -1,0 +1,30 @@
+/* Footer uses the existing monochrome palette, typography and desktop content width. */
+/* Define visible section spacing directly, without inherited gap compensation. */
+.home-content { padding-bottom: 100px; }
+.home-sections { gap: 0; }
+.home-sections > [data-product-section] { margin-top: 160px; }
+.home-sections > .quick-menu + [data-product-section] { margin-top: 0; }
+.site-footer { width: 100%; min-width: 1440px; border-top: 1px solid #e5e5e5; background: #fff; color: #222; }
+.site-footer__inner { width: 1400px; margin: 0 auto; }
+.site-footer__nav-band { border-bottom: 1px solid #eee; }
+.site-footer__navigation { display: flex; align-items: center; justify-content: space-between; min-height: 72px; }
+.site-footer__links { display: flex; align-items: center; gap: 28px; }
+.site-footer__links a { display: inline-flex; align-items: center; min-height: 44px; font-size: 14px; font-weight: 500; }
+.site-footer__links .site-footer__privacy { font-weight: 700; }
+.site-footer__main { display: grid; grid-template-columns: 1.65fr 1fr 1fr; gap: 80px; padding: 40px 0 36px; }
+.site-footer__logo { display: inline-block; }
+.site-footer__logo img { display: block; width: 180px; height: auto; }
+.site-footer__description { margin: 16px 0 20px; font-size: 13px; line-height: 1.6; color: #555; }
+.site-footer__company-info { display: flex; flex-direction: column; gap: 5px; font-size: 13px; line-height: 1.7; color: #666; }
+.site-footer__company-info p { margin: 0; }
+.site-footer__company-info address { margin: 0; font-style: normal; }
+.site-footer__company-info span + span { margin-left: 16px; }
+.site-footer__heading { margin: 0 0 16px; font-size: 16px; font-weight: 600; line-height: 24px; }
+.site-footer__phone { display: inline-block; margin: 0 0 14px; font-size: 28px; font-weight: 600; line-height: 1.2; letter-spacing: -.6px; }
+.site-footer__details { display: flex; flex-direction: column; gap: 5px; color: #555; font-size: 13px; line-height: 1.7; }
+.site-footer__details p { margin: 0; }
+.site-footer__bank { margin: 0 0 6px; font-size: 14px; line-height: 1.6; }
+.site-footer__account { margin: 0 0 12px; font-size: 23px; font-weight: 500; line-height: 1.4; letter-spacing: -.4px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.site-footer__business-note { margin: 24px 0 0; font-size: 13px; line-height: 1.8; color: #666; }
+.site-footer a:hover { color: #111; text-decoration: underline; text-underline-offset: 4px; }
+.site-footer :is(a, button):focus-visible { outline: 2px solid #222; outline-offset: 4px; }

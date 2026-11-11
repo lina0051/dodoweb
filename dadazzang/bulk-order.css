@@ -1,0 +1,52 @@
+/* Shared frame; field columns are a CSS enhancement to the Imweb-form layout. */
+.bulk-order-shell { display: flex; flex-direction: column; min-width: 1440px; min-height: 100vh; }
+.bulk-order-page { flex: 1; padding: var(--d-header-h) 0 100px; }
+.bulk-order-layout { display: grid; grid-template-columns: 400px 880px; gap: 120px; align-items: start; width: 1400px; margin: 60px auto 0; color: #1f1f1f; }
+.bulk-guide { position: sticky; top: calc(var(--d-header-h) + 60px); }
+.site-header--compact ~ .bulk-order-page .bulk-guide { top: 124px; }
+.bulk-guide h1, .bulk-guide p, .bulk-form p { margin: 0; }
+.bulk-guide .text-body { line-height: 1.6; }
+.bulk-guide .bulk-guide__intro { margin: 24px 0 16px; }
+.bulk-guide__links { display: flex; gap: 6px; margin-top: 24px; }
+.bulk-guide a { color: #1f1f1f; text-decoration: none; }
+.bulk-guide__links a { display: inline-flex; align-items: center; justify-content: center; gap: 12px; box-sizing: border-box; height: 40px; padding: 0 16px; border: 1px solid #d8d8d8; border-radius: 4px; background: #fff; color: #1f1f1f; font-size: 14px; font-weight: 500; line-height: 1; white-space: nowrap; text-decoration: none; }
+.bulk-guide__links a .phosphor-icon { width: 14px; height: 14px; fill: currentColor; }
+.bulk-guide__links a:hover { border-color: #000; background: #000; color: #fff; }
+.bulk-contact { margin-top: 56px; }
+.bulk-contact__row { padding: 20px 0; border-top: 1px solid #bdbdbd; }
+.bulk-contact__row:last-of-type { border-bottom: 1px solid #bdbdbd; }
+.bulk-contact__row > span { display: block; margin-bottom: 10px; color: #757575; font-size: 14px; line-height: 1.5; }
+.bulk-contact__row a { display: flex; justify-content: space-between; align-items: center; min-height: 24px; font-size: 16px; line-height: 1.5; }
+.bulk-contact__row a:hover { text-decoration: underline; text-underline-offset: 4px; }
+.bulk-contact .text-body { margin-top: 16px; font-size: 14px; }
+.bulk-form { min-width: 0; }
+.bulk-form .bulk-form__required-note { margin-bottom: 24px; color: #757575; font-size: 14px; line-height: 1.5; text-align: right; }
+.bulk-form__section { min-width: 0; margin: 0; padding: 0; border: 0; }
+.bulk-form__section + .bulk-form__section { margin-top: 28px; }
+.bulk-form__section legend { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.bulk-form__fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; }
+.bulk-field { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.bulk-field--wide { grid-column: 1 / -1; }
+.bulk-field label { color: #1f1f1f; font-size: 16px; font-weight: 500; line-height: 1.5; }
+.bulk-field__optional { margin-left: 6px; color: #757575; font-size: 14px; font-weight: 400; }
+.bulk-field input, .bulk-field select, .bulk-field textarea { box-sizing: border-box; width: 100%; min-width: 0; height: 56px; padding: 14px 16px; border: 1px solid #e5e5e5; border-radius: 4px; background: #f6f6f6; color: #1f1f1f; font: inherit; font-size: 16px; line-height: 1.5; }
+.bulk-field input::placeholder, .bulk-field textarea::placeholder { color: #757575; opacity: 1; }
+.bulk-field select { padding-right: 32px; }
+.bulk-field textarea { height: 180px; min-height: 180px; resize: vertical; }
+.bulk-field input[type="file"] { height: auto; min-height: 56px; padding: 12px; font-size: 14px; }
+.bulk-field input::file-selector-button { margin-right: 14px; padding: 6px 12px; border: 1px solid #e5e5e5; border-radius: 3px; background: #fff; color: #1f1f1f; font: inherit; cursor: pointer; }
+.bulk-form .bulk-field__help { color: #757575; font-size: 14px; line-height: 1.6; }
+.bulk-privacy { margin: 32px 0 24px; padding: 20px 0; border-block: 1px solid #ddd; font-size: 14px; line-height: 1.7; }
+.bulk-privacy__check { display: flex; align-items: center; gap: 10px; min-height: 32px; font-size: 16px; cursor: pointer; }
+.bulk-privacy__check input { flex-shrink: 0; width: 18px; height: 18px; margin: 0; accent-color: #1f1f1f; }
+.bulk-privacy__required { margin-left: 8px; color: #757575; font-size: 14px; }
+.bulk-privacy details { margin: 8px 0 0 28px; color: #757575; }
+.bulk-privacy summary { width: fit-content; padding: 4px 0; text-decoration: underline; text-underline-offset: 4px; cursor: pointer; }
+.bulk-privacy details p { margin-top: 12px; padding: 16px; border-radius: 4px; background: #f6f6f6; }
+.bulk-form__submit { display: flex; justify-content: center; align-items: center; gap: 24px; width: fit-content; min-width: 220px; min-height: 48px; margin-left: auto; padding: 12px 24px; border: 1px solid #1f1f1f; border-radius: 4px; background: #1f1f1f; color: #fff; font: inherit; font-size: 16px; font-weight: 500; cursor: pointer; }
+.bulk-form__submit svg { flex-shrink: 0; fill: currentColor; }
+.bulk-form__submit:hover { background: #1f1f1f; border-color: #1f1f1f; color: #fff; }
+.bulk-form .bulk-form__preview { margin-top: 14px; color: #757575; font-size: 14px; line-height: 1.6; text-align: right; }
+.bulk-form .bulk-form__status { margin-top: 20px; padding: 20px; background: #f6f6f6; border-radius: 4px; font-size: 16px; line-height: 1.7; }
+.bulk-order-layout :is(a, input, select, textarea, button, summary):focus-visible { outline: 2px solid #1f1f1f; outline-offset: 3px; }
+.bulk-guide__links a:focus-visible { outline: 2px solid #111; outline-offset: 6px; }

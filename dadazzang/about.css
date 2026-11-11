@@ -1,0 +1,19 @@
+/* About content follows the typography, neutral palette and spacing in brands.css. */
+.about-shell { display: flex; flex-direction: column; min-width: 1440px; min-height: 100vh; }
+.about-page { flex: 1; padding-top: var(--d-header-h); }
+.about-page > .business-banners { width: 1400px; margin: 100px auto; }
+.about-page .business-banners__link { display: inline-block; text-decoration: none; }
+.about-top-banner { width: 1400px; margin: 0 auto; }
+.about-top-banner img { display: block; width: 100%; height: auto; border-radius: 8px; }
+.about-story,
+.about-brands { display: grid; grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr); align-items: start; gap: 80px; width: 1400px; margin: 0 auto; padding: 80px 0; border-bottom: 1px solid #e5e5e5; }
+.about-story__title,
+.about-brands__heading h2 { margin: 0; color: #1f1f1f; font-size: 32px; font-weight: 500; line-height: 1.4; word-break: keep-all; }
+.about-story__text p,
+.about-brands__description p { margin: 0; color: #777; font-size: 16px; line-height: 1.9; word-break: keep-all; }
+.about-story__text p + p,
+.about-brands__description p + p { margin-top: 14px; }
+.about-brands__link { display: inline-flex; align-items: center; justify-content: center; gap: 12px; box-sizing: border-box; height: 40px; margin-top: 30px; padding: 0 16px; border: 1px solid #d8d8d8; border-radius: 4px; background: #fff; color: #1f1f1f; font-size: 14px; font-weight: 500; line-height: 1; white-space: nowrap; text-decoration: none; }
+.about-brands__link .phosphor-icon { width: 14px; height: 14px; fill: currentColor; }
+.about-brands__link:hover { border-color: #000; background: #000; color: #fff; }
+.about-brands__link:focus-visible { outline: 2px solid #111; outline-offset: 6px; }

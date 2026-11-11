@@ -1,0 +1,4811 @@
+{
+  "source": "https://www.kolonmall.com/",
+  "capturedAt": "2026-11-02T05:54:11.991Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "resources": [
+    {
+      "url": "https://www.kolonmall.com/_next/static/css/afd867087db78c77.css",
+      "file": "assets/d29cb39a54b6fa06.css",
+      "kind": "asset",
+      "status": "ok",
+      "type": "text/css",
+      "bytes": 37159
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/css/7f47b9549bf34fb2.css",
+      "file": "assets/2af37246d3e21846.css",
+      "kind": "asset",
+      "status": "ok",
+      "type": "text/css",
+      "bytes": 3551
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/css/5b0aec922ac779dc.css",
+      "file": "assets/1dc9a8facec9c52d.css",
+      "kind": "asset",
+      "status": "ok",
+      "type": "text/css",
+      "bytes": 23673
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/css/07a098635536dd3e.css",
+      "file": "assets/0fb3ba0d84625040.css",
+      "kind": "asset",
+      "status": "ok",
+      "type": "text/css",
+      "bytes": 6550
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/css/fd5146b3b6ebd441.css",
+      "file": "assets/792d84f63e770edb.css",
+      "kind": "asset",
+      "status": "ok",
+      "type": "text/css",
+      "bytes": 34907
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/css/1198fd90b6022375.css",
+      "file": "assets/c8d457cdf7274fc6.css",
+      "kind": "asset",
+      "status": "ok",
+      "type": "text/css",
+      "bytes": 5131
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/css/9bc1ffd3896e0178.css",
+      "file": "assets/ecf666629461786c.css",
+      "kind": "asset",
+      "status": "ok",
+      "type": "text/css",
+      "bytes": 5142
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/css/13a7aa8b5e9c64f9.css",
+      "file": "assets/e40be781e82f3b87.css",
+      "kind": "asset",
+      "status": "ok",
+      "type": "text/css",
+      "bytes": 117
+    },
+    {
+      "url": "https://www.kolonmall.com/api/logo/favicon.ico",
+      "file": "assets/d10ba453560fb7fb.ico",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/x-icon",
+      "bytes": 4068
+    },
+    {
+      "url": "https://www.kolonmall.com/styles.css?v=14",
+      "file": "assets/ea1dfa97bf497879.css",
+      "kind": "asset",
+      "status": "ok",
+      "type": "text/css; charset=UTF-8",
+      "bytes": 363253
+    },
+    {
+      "url": "https://images3.kolonmall.com/static/bx/menu/olo_menu_community.png",
+      "file": "assets/e1be81b801bd2936.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 826
+    },
+    {
+      "url": "https://images3.kolonmall.com/static/bx/menu/olo_menu_oloview.png",
+      "file": "assets/43fbe14dceca6d55.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 911
+    },
+    {
+      "url": "https://images3.kolonmall.com/static/bx/menu/olo_menu_olofunding.png",
+      "file": "assets/c106332cd29cb39b.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 1033
+    },
+    {
+      "url": "https://images3.kolonmall.com/static/bx/menu/olo_menu_oloopenrun.png",
+      "file": "assets/9fd9324f16a0fab7.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 1127
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload//toastPopup/2b272580-e656-4059-b36a-cb46cda48090/0b8b6648-c279-48d6-82a9-7b58fa146fe0.jpg",
+      "file": "assets/9c9dbadf45c8ae8d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 45704
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload//toastPopup/9e0d7bc2-d6db-42ad-ad85-c7e1adc73f2d/7391c741-3863-4ee5-8276-e77ea0b9c2d6.jpg",
+      "file": "assets/6880c430e5857ff5.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 38735
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/banner/03ebb639-3356-49c8-9a92-8e4eeb585653/d32caefe-a007-493f-b86d-f350de5e4b73.png",
+      "file": "assets/195f9ea2b1849a9c.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 13254
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/9b34f36a-0a29-40e8-aef0-9f674375403c/91eb149b-59fe-4e4a-8e0f-2396f9ea4295.jpg",
+      "file": "assets/1e233da7df2bfe07.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 65538
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/dbbb9976-84f2-472c-80c9-97f0b4de689e/6ece6d66-cb1d-44f6-83a8-275b54bd92b7.jpg",
+      "file": "assets/629425e7d5e21105.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 199021
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/aa57ae1c-ac19-489d-af23-469362f91fc2/dcb6d26a-f182-4cc0-80bc-4fa00dfd5011.jpg",
+      "file": "assets/2691d919cb2af959.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 82579
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/654dc95a-2283-485d-83fb-5b80e902446c/bcf1c8d5-69d6-493f-9f79-14009f3cce9a.jpg",
+      "file": "assets/33f67110d23d5d2b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 76816
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/b4aa1723-d068-4aa0-b9ae-f2b56a08eac5/b8eafab5-27ea-457a-b9b2-1076601cb36b.jpg",
+      "file": "assets/d4778cde74da6ee3.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 143760
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/a506b992-958d-42a9-8642-afdac99724c7/7e655334-d6a7-418a-8932-b522cf4595a5.jpg",
+      "file": "assets/3020686653e9a7d2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 147886
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/5c846ddf-078d-43ef-a41c-6c1d029e4b10/eda951c8-fc4b-4558-ae5c-a0e89207516b.jpg",
+      "file": "assets/1a2219831d95106a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 198178
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/84b46cd8-6177-4ee2-ab5a-16bac6c372e0/96e0a54b-6737-4076-a862-345c14f08e30.jpg",
+      "file": "assets/06be2f5892d3c68b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 217593
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/47a5f8ee-d697-4ae6-bbb4-26abca035c6b/d23418c3-1e67-4014-8afc-223811fe1e51.jpg",
+      "file": "assets/433662c348c612fa.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 212685
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/dd6b8786-c22c-45ca-804d-0560b1f432ea/65036418-8059-4c9c-84e4-4278724f97ec.jpeg",
+      "file": "assets/77bb286ae990b5b3.jpeg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 89334
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/banner/1c3af29e-d9ee-4134-949a-8d642a109a16/f2ca3e66-236d-441b-9df3-7dbae78f2d21.jpg",
+      "file": "assets/02de21769a6eb89e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 192130
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/2de8cbde-a49f-4b54-a890-4dd0cba28752/a18214b2-846b-40ae-b798-1e07f09343a2.jpg",
+      "file": "assets/a8a8a1915ac3be39.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 227757
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/4274a724-161e-4d2a-bfeb-2e4142b20657/0dd6d4c2-bf9c-4d77-ae1c-5beb3a86b837.jpg",
+      "file": "assets/8f5992df608b5c4e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 204147
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/f31b71dc-e162-46a8-8676-8f36bb5eea2f/344a0011-fd95-4c78-9610-056d7f8670f2.jpg",
+      "file": "assets/b8b8169c70d9431a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 62980
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/f39ab78a-fc8d-4916-aa7e-6df14bbe0cb9/4e3987ed-5ba6-4614-95cd-6d136eebe34c.png",
+      "file": "assets/ee5f31d9bb7b18f9.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 293104
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/5c28829a-7947-4ddc-ba8b-fb80ba51d158/a505ad4c-844e-4ab0-930f-f6e71204542f.jpg",
+      "file": "assets/39cd9090fa555570.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 88968
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/8976f17f-ecbc-446d-af62-ff58c44400a9/f8e3f829-10e6-4c08-bd2b-24600a487f13.jpg",
+      "file": "assets/4c94742cbda7b630.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 173920
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/ed0f3fa0-52b7-46d2-8310-243ada9f6c68/76b9ea15-2a95-4739-931b-bab9aac1ec11.jpg",
+      "file": "assets/2f9ad5a29dc57fb3.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 98726
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/93f15b20-2c48-4b39-bcdb-37e156a3a162/c57589d5-d205-43b5-b0aa-11784b15a0e6.jpg",
+      "file": "assets/74c511a04c484198.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 93271
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/18846665-511c-45f8-bff2-fcb544035f2e/d86cc62a-41d4-424c-8c53-40aad72c3000.jpg",
+      "file": "assets/b9b58b9d360ca470.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 156136
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/34a0482d-46b5-420b-97eb-f18dd5427009/6475a4e8-f9bd-4911-83a0-eede9307815b.jpg",
+      "file": "assets/5507b4a207c3875b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 155705
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/6866bae4-224c-4e7d-b91b-e359210339cd/dcbcc702-4932-4ae1-8daf-6648cf3f84ba.jpg",
+      "file": "assets/911ab93d62897cfe.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 133023
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/ea479afe-24f4-4f05-89d7-57820b001834/c26d368c-7f8b-4b26-b422-d71829899031.jpg",
+      "file": "assets/2285cfa278a514cd.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 142240
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/24cdb477-597b-402e-a6e7-f24131da3740/a4975ceb-134b-4192-bd35-7468ac997269.jpg",
+      "file": "assets/3b25da339bf67a51.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 96483
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/e30cbf00-7d23-4026-863e-f6e0a7867d93/122842b6-46e4-42de-98d5-e89524ce721f.jpg",
+      "file": "assets/bcc467205d380edd.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 254746
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/ed33dfb2-0460-42d0-8fcb-9cd52d6b6dac/bd455104-28c0-4fcc-99e9-4acc1dcc352f.jpg",
+      "file": "assets/f189d0da01e59a83.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 222607
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/5cd0b2ac-0c4a-4bfc-a148-8cf3c474e9c3/9734098c-31a7-4303-97da-38fe3fbab808.jpg",
+      "file": "assets/0fb3fc21af8ac780.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 94010
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/banner/de05ca9b-82c9-4668-8d2b-1c59f90d8b4c/7674f0af-3453-4da5-9058-df1ef7e0db4b.jpg",
+      "file": "assets/760655e08a697730.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 190800
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/34a0482d-46b5-420b-97eb-f18dd5427009/98548719-6392-4ca7-89ec-c99a2f35eb92.jpg",
+      "file": "assets/6a47109545aa7061.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 103341
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/b1b23fd1-bb78-4d72-8f28-bdc4d437a39e/c774ebd5-d432-4595-bd01-1af2d0833e9d.jpg",
+      "file": "assets/804acd2622b71a80.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 7817
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/b1b23fd1-bb78-4d72-8f28-bdc4d437a39e/b4631ae6-47c8-4c57-938d-f282460a0ea4.jpg",
+      "file": "assets/ed1b3036b09a0b48.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 26416
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/b1b23fd1-bb78-4d72-8f28-bdc4d437a39e/8e88602e-1c57-42f6-8c16-4c57e27b89a2.jpg",
+      "file": "assets/943e0bc54c22208b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 20848
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/b1b23fd1-bb78-4d72-8f28-bdc4d437a39e/a484b7dc-eb00-4ba4-8f52-a92373ff7420.jpg",
+      "file": "assets/5db75e5256c30893.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 20854
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/b1b23fd1-bb78-4d72-8f28-bdc4d437a39e/243658b4-0187-4df0-acb2-ee71872db5b3.jpg",
+      "file": "assets/15ddfcd0f74608b8.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 9991
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/b1b23fd1-bb78-4d72-8f28-bdc4d437a39e/ebfed4b9-9cc0-4e3d-9217-f1d53caf4e31.jpg",
+      "file": "assets/8f8681a2a08beae4.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13000
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/b1b23fd1-bb78-4d72-8f28-bdc4d437a39e/d0ee1cbb-5a73-45f7-b17c-82801b494eca.jpg",
+      "file": "assets/9a7243c137b603af.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 15479
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/b1b23fd1-bb78-4d72-8f28-bdc4d437a39e/447e7667-f815-4e96-bbcb-6b069b4b2adc.jpg",
+      "file": "assets/c346b9817acc5615.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 26896
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/a0b8e07e-8321-4d63-9c32-5a6f06f46259/5d397daa-58fa-4398-98f4-0c6457034c00.png",
+      "file": "assets/24478c44fdb800b1.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 14920
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/a0b8e07e-8321-4d63-9c32-5a6f06f46259/9e0bf891-b8c5-4ca6-8047-31d42fb96654.png",
+      "file": "assets/65d47dc62c4e2949.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 10923
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/a0b8e07e-8321-4d63-9c32-5a6f06f46259/0926eca9-e741-410e-83b1-bdc8de5ed957.png",
+      "file": "assets/63f3f5fa9a799b79.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 15633
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/a0b8e07e-8321-4d63-9c32-5a6f06f46259/29cd4143-5b98-4047-ba51-b46bfff7c7e8.png",
+      "file": "assets/4c7b8507831a6397.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 11201
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/a0b8e07e-8321-4d63-9c32-5a6f06f46259/fbcd4643-c90b-49e8-a52e-bdf049e60386.png",
+      "file": "assets/e1419706a6ff1d34.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 17339
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/a0b8e07e-8321-4d63-9c32-5a6f06f46259/6edc21c4-7ba0-4d2a-87f7-167c0a2fae72.png",
+      "file": "assets/d1bc853ea90c1de3.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 15406
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/shortcut/a0b8e07e-8321-4d63-9c32-5a6f06f46259/d3eb7cfa-63d4-4ede-8776-2de26e001502.png",
+      "file": "assets/a215a7f24ab30739.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 8846
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/613915f2-5c3e-44ba-9afa-2b3ef56d2d5f/7abdf1f3-2e27-43c1-8355-b3979638e012.jpg",
+      "file": "assets/cb7222622855b30f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 28306
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/f7bc153a-9c37-427e-ae6a-2069238bb040/ec8fcc2f-a995-451f-9ab3-c5e71c319df2.png",
+      "file": "assets/ac46b72159d87e87.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 132089
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/e9e304fa-8d3d-4f31-b5e0-d3f90d47bd4c/1c1c2a55-fd56-4f30-9cda-04991599b251.jpg",
+      "file": "assets/2b4cfedb5c011a39.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 36437
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/ca8994c4-8dd6-456f-8eeb-e90b1813a900/88529646-e88b-4ffc-88bb-c7769e26595c.jpg",
+      "file": "assets/3718745a9631c110.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 45357
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/36bafcc4-ec54-4380-87d7-5418bb86e33a/13941c2b-69fd-406a-81f0-82ade8dcf477.jpg",
+      "file": "assets/0cd5db67d05a2517.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 27843
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/f5f19b51-e9e3-4e7a-a5bc-eb0378973e86/680e3a27-e94f-483e-9071-d771b518920d.jpg",
+      "file": "assets/5a9a9a3047dda619.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 27209
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/cb98b9d7-4bda-4acd-ae72-a7e3b7867538/5757b9cf-b6ed-424a-9f40-e5a6b3c58aca.jpg",
+      "file": "assets/b2c801203d93b6b3.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 10076
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/def17f17-658c-4dad-8f3b-42cb7c409934/1fda9c84-a6df-495a-85ca-2d5f00465c1d.jpg",
+      "file": "assets/789a72c671963184.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 254677
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/d5be96d7-c936-4889-b560-47345755e5a7/e1f11039-679d-45fb-8d89-353ae3b62e27.webp",
+      "file": "assets/7339e9a650d95d3d.webp",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/webp",
+      "bytes": 41996
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/ecfdac56-8020-4a59-b870-72986885ceb0/6f37277d-3c80-4471-aa42-59362a0d8d78.jpg",
+      "file": "assets/5d964edb3cce2619.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 25919
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/36f97eaf-02be-4aff-86e8-5826d9ecf1ca/01523081-cfa1-408f-8623-0150c1acae69.jpg",
+      "file": "assets/19047fa27e20fd2d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 785468
+    },
+    {
+      "url": "https://images.kolonmall.com/upload/brand/a23173bf-613d-45f5-abcf-8aa050cf70f5/e463649a-816d-42b8-b893-6a5858e5c139.jpg",
+      "file": "assets/0a5c432a951949d2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 289959
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/3cf063b8-836b-4a09-8176-cf64f1b2c3ce/88e40a88-c921-4964-8d4f-4028cc945402.jpg",
+      "file": "assets/385c96cb17581e87.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 27600
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/f136a916-dc72-4a63-8212-f9842fe6484d/74dd9246-1cee-4f59-b098-7fdffe655abd.jpg",
+      "file": "assets/383e6ab8e4e24380.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 39336
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/477c79c4-fe79-4b68-b123-3fef2a143bcc/e18742bf-bb2a-49d8-be50-5a8de01ada9b.jpg",
+      "file": "assets/6dde2bb2c58ab696.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 30331
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/480e2534-7a0d-41cc-9939-a0d837ff3c7a/d643f559-385b-4799-8d2f-8d59089c7065.jpg",
+      "file": "assets/52e669d213b1e235.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 33012
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/1a8a72d2-0e7b-4c2e-85a0-3b33a5b362bd/295e3140-2726-4b0a-b627-701c843aade1.jpg",
+      "file": "assets/690ebf919f60d6c2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 33261
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/74238ed8-11f2-40cd-8c76-3a59034eb3cb/52928ac9-c420-4bba-85dc-1512438c1bdf.jpg",
+      "file": "assets/a23fd3b592f59cf5.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 21701
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/brand/044e8afe-b9ee-4f8a-ab7b-ffb81f194544/be0efafc-b10d-4ee5-ba77-030f2866cb1a.png",
+      "file": "assets/d684fa83d8b44110.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 339077
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/4cf6878b-864f-4448-bdc4-f47d35a3ef3a/0bc14db1-9ba7-4ac2-b18b-304eeb34e24e.jpg",
+      "file": "assets/53c2443eac258a24.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 46696
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/LS33/DG4DA26510BLK_LS33.jpg",
+      "file": "assets/15d3fa5bd9e10dc2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 43600
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/RO/DG4DA26510BLK_RO.jpg",
+      "file": "assets/69fba0f8fba7feaf.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13283
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/LS30/DG3CW26512BLK_LS30.jpg",
+      "file": "assets/c9559b40239e903a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 52195
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/RO/DG3CW26512BLK_RO.jpg",
+      "file": "assets/5e04f398dc757bfc.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 9118
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/LS29/DG4DA26524BRN_LS29.jpg",
+      "file": "assets/bc2d3c43e9f237bf.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 23981
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/RO/DG4DA26524BRN_RO.jpg",
+      "file": "assets/439867cedcb9ca43.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13423
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/LS33/DG3CW26520BLK_LS33.jpg",
+      "file": "assets/49dc38ccda013f36.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 27572
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/RO/DG3CW26520BLK_RO.jpg",
+      "file": "assets/b831abbd3ec85858.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 9629
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/LS28/DG3BW26504BLK_LS28.jpg",
+      "file": "assets/9ba5639c8703ac28.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 23620
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/RO/DG3BW26504BLK_RO.jpg",
+      "file": "assets/ecd9b7036b0404ac.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 8933
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/LS1/DG3CW26505BLK_LS1.jpg",
+      "file": "assets/a34ccffd0b18b401.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 7543
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/RO/DG3CW26505BLK_RO.jpg",
+      "file": "assets/2e1cb589967e1571.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 8437
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/HC/2026/LS1/ASUCW26911NYX_LS1.jpg",
+      "file": "assets/884285cfbb8c07f8.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 14959
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/TS/2025/LS1/TMUAW25751BKX_LS1.jpg",
+      "file": "assets/59aa1a4a1c393342.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 10167
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/TS/2025/RO/TMUAW25751BKX_RO.jpg",
+      "file": "assets/6a9aa869f7f0ef1c.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 10167
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/HC/2026/LS1/ASUCW26921BKX_LS1.jpg",
+      "file": "assets/22fd3a3867a000ce.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 12443
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/FE3AX26800BLK_LS1.jpg",
+      "file": "assets/72a3871f6171f3bb.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 7726
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/FE3AX26800BLK_RO.jpg",
+      "file": "assets/4324b2f261695f71.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 36667
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/HC/2026/LS1/AZUCW26210NYX_LS1.jpg",
+      "file": "assets/6491c3817758bdec.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 38446
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/HC/2026/RO/AZUCW26210NYX_RO.jpg",
+      "file": "assets/116946dd381e62c3.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 37731
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002645/2026/LS1/K1787813195143035GY01_LS1.jpg",
+      "file": "assets/cde1a02fabfe8137.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 19832
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TLJJW26561BLK_LS1.jpg",
+      "file": "assets/ca873267ddc80281.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 12721
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TLJJW26561BLK_RO.jpg",
+      "file": "assets/d884daa8d8b5b5b4.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 34890
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003671/2024/LS1/K1707188710679086NA01_LS1.jpg",
+      "file": "assets/05b43c7c0c1fc303.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "application/octet-stream",
+      "bytes": 15987
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TVJDW26582BLK_LS1.jpg",
+      "file": "assets/1e5a2b3b25ba52a4.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 17882
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TVJDW26582BLK_RO.jpg",
+      "file": "assets/28e41c8eb7aaeb01.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 53538
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002838/2023/LS1/K1699233841341051GY01_LS1.jpg",
+      "file": "assets/6af919baabf77ccc.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "application/octet-stream",
+      "bytes": 18226
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002645/2026/LS1/K1787813195143035GY02_LS1.jpg",
+      "file": "assets/255ae294a5851523.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 19076
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003375_B221215092543/2025/LS1/K1760359872735037BK01_LS1.jpg",
+      "file": "assets/8c08e3b7175d6305.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 35210
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003375/2020/LS1/K1671598914450056GY01_LS1.jpg",
+      "file": "assets/224348a893a7ca7b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "application/octet-stream",
+      "bytes": 16905
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003375_B221215092543/2024/LS1/K1730863977830070BK01_LS1.jpg",
+      "file": "assets/384dd86b75ff6164.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 37158
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS12/TVJDW26512BLK_LS12.jpg",
+      "file": "assets/9e9f1a2582a0bf42.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 15786
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TVJDW26512BLK_RO.jpg",
+      "file": "assets/3a300df71dbeb5c9.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 45684
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002472/2026/LS1/K1789288624653017GY01_LS1.jpg",
+      "file": "assets/15f950d13a89c970.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 22668
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/HC/2026/LS1/AZUCW26200BKX_LS1.jpg",
+      "file": "assets/387aa7a8c0baf93d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 40595
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/HC/2026/RO/AZUCW26200BKX_RO.jpg",
+      "file": "assets/15d7319b9522e966.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 34948
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/LS1/DW1DA26503BLK_LS1.jpg",
+      "file": "assets/7f4d38f26f9f9b60.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 6721
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/RO/DW1DA26503BLK_RO.jpg",
+      "file": "assets/1ff0792379f64718.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 265053
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003375_B221215092543/2025/LS1/K1760359872735037GY01_LS1.jpg",
+      "file": "assets/7cdeed6577262081.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 47465
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/TS/2026/LS1/TMUAW26757CHX_LS1.jpg",
+      "file": "assets/5337fa4a59399124.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 16862
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/TS/2026/RO/TMUAW26757CHX_RO.jpg",
+      "file": "assets/66392a2ec647b1d6.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 16862
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004446_B260729144240/2026/LS1/K1788415838715099BK01_LS1.jpg",
+      "file": "assets/b4c2c8b8e0a613bc.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 28093
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2024/LS1/QEHFX24101BLK_LS1.jpg",
+      "file": "assets/d9678d395ce80ac2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 9286
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2024/RO/QEHFX24101BLK_RO.jpg",
+      "file": "assets/ef3e5749e5f8e750.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 21249
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003375_B221215092543/2024/LS1/K1730863977830070KH01_LS1.jpg",
+      "file": "assets/25ab1c0db2ac501e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 45305
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SE/2026/LS22/SAUCW26811BKX_LS22.jpg",
+      "file": "assets/986b55adc61ecc76.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 21490
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003375/2026/LS1/K1787894801135095BK01_LS1.jpg",
+      "file": "assets/63176ae18548f1e8.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 45409
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/TS/2024/LS1/TMPDX24401BUX_LS1.jpg",
+      "file": "assets/7f65cd144bcc2580.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 15149
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/TS/2024/RO/TMPDX24401BUX_RO.jpg",
+      "file": "assets/a7a50d00cdf8a43a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 479630
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SE/2026/LS22/SAUAW26521BKX_LS22.jpg",
+      "file": "assets/7b7278b1c6b599d2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 21819
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003375_B221215092543/2025/LS1/K1760359872735037KH01_LS1.jpg",
+      "file": "assets/5955c85b38a3bfa6.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 48870
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2025/LS1/TVJDW25512BLK_LS1.jpg",
+      "file": "assets/a836588b907de0fa.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 15001
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2025/RO/TVJDW25512BLK_RO.jpg",
+      "file": "assets/e97fb39b2c0c3298.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 35468
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003375/2026/LS1/K1791872736077013NA01_LS1.jpg",
+      "file": "assets/956d518c55ad431b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 34346
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS20/TLJDW26631BLK_LS20.jpg",
+      "file": "assets/56cce9fbdc703010.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 21835
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TLJDW26631BLK_RO.jpg",
+      "file": "assets/d66c2fa0064f6731.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 219676
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TVJDW26582CRE_LS1.jpg",
+      "file": "assets/cd31b66a86014c3b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 14646
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TVJDW26582CRE_RO.jpg",
+      "file": "assets/915da93ce45edf2d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 42611
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003375/2020/LS1/K1671598914450056BK01_LS1.jpg",
+      "file": "assets/b1dbfe542299fc71.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "application/octet-stream",
+      "bytes": 14938
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/TS/2026/LS1/TMTAX26705BKX_LS1.jpg",
+      "file": "assets/99508c45b256c6c1.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 8682
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/TS/2026/RO/TMTAX26705BKX_RO.jpg",
+      "file": "assets/9efb6d931a0f9f3b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 8682
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2025/LS1/TVJDW25502BLK_LS1.jpg",
+      "file": "assets/1a30fac6fc4f3c9e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 14954
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2025/RO/TVJDW25502BLK_RO.jpg",
+      "file": "assets/3f7eb9021815c10f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 39610
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/7e3709af-e53f-489b-b27a-149da7c38678/01b4d6da-e8f5-4e7b-a0a1-8e91ae4bf548.jpg",
+      "file": "assets/be565e2f0afb69a4.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 149764
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10001657/2026/AT1/K1787303232172062IV01_AT1.jpg",
+      "file": "assets/4b431ec65ae854ba.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 53001
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10001657/2026/AT1/K1789868796316082NA01_AT1.jpg",
+      "file": "assets/990df2d10277d203.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 27128
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10001657/2026/AT1/K1791531889884087BR01_AT1.jpg",
+      "file": "assets/331241cc4a47743f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 58216
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/2abd8dd0-e1a5-4dc1-9172-ccd77967c92a/95f18c39-ffb7-4bb0-8fea-1e27fa1f451e.jpg",
+      "file": "assets/39113a0cfc10ecee.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 153416
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2025/AT1/K1762946238123008RE01_AT1.jpg",
+      "file": "assets/a77553cb7f8a4fc9.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 46173
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2025/AT1/K1758544796687096BR01_AT1.jpg",
+      "file": "assets/388da89ddb98059f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 67342
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/AT1/K1790666060193051BK01_AT1.jpg",
+      "file": "assets/b6eec9f6ba4417ae.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 32698
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/d78db714-6e66-4b67-962b-941d945e46f1/5128d8f5-4346-4a52-86c7-4f142ad1308a.jpg",
+      "file": "assets/9d5bb24f52ad24cf.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 100859
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003040/2026/AT1/K1776137011819031BK01_AT1.jpg",
+      "file": "assets/c437962b5cb816de.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 34463
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003040/2024/AT1/K1775714917328084IV01_AT1.jpg",
+      "file": "assets/f0777ca55de6bbe9.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 29415
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003040/2024/AT1/K1775713047389023BR01_AT1.jpg",
+      "file": "assets/93b3f555954f8ba6.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 31356
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/5b2be695-9d75-4895-9805-e8ef98080e46/2a35b13e-c14c-4cb9-be13-251947432ce9.jpg",
+      "file": "assets/5119528ef5a827a0.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 72641
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004303/2026/AT1/K1788687117794072WN01_AT1.jpg",
+      "file": "assets/992f6cbb6fd2a116.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 56071
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004303/2026/AT1/K1788680788096077BK01_AT1.jpg",
+      "file": "assets/126a51aecb963cb1.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 33536
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004303/2025/AT1/K1787932820883044PK01_AT1.jpg",
+      "file": "assets/7704026828b41d0d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 42307
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/acb89f5b-13d8-47aa-a089-7af1210d7542/1e81c4e6-f37c-4691-b15e-be97e587dbea.jpg",
+      "file": "assets/88a1b4a39ac48493.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 112241
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003420/2025/AT1/K1762749820622095NO01_AT1.jpg",
+      "file": "assets/cca6b86995b86527.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 22189
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003420/2025/AT1/K1758159544697041NO01_AT1.jpg",
+      "file": "assets/9571a9a39952b809.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 38523
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003420/2025/AT1/K1756096322849040NO01_AT1.jpg",
+      "file": "assets/731dc1b8466d20c1.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 28492
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/fc425d4a-1a67-4cec-b46c-b5ae80d223a2/f24a2198-be0d-4f3e-8893-f3928a938277.jpg",
+      "file": "assets/264ba79fae141f28.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 102253
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004372/2026/AT1/K1791434750021089NO01_AT1.jpg",
+      "file": "assets/aef8be54ccd635d5.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 40581
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004372/2026/AT1/K1791434761238041NO01_AT1.jpg",
+      "file": "assets/2155891d850c1978.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 35641
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004372/2026/AT1/K1791434765026033NO01_AT1.jpg",
+      "file": "assets/78a740679f4f3c25.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 33912
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/afb6f01a-481e-4064-9a4e-8d4eee1daf54/59cdf721-1c9a-471b-90cd-804895b0b7a2.jpg",
+      "file": "assets/212a713bb00263e5.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 105523
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004110/2024/AT1/K1737447791021003KH01_AT1.jpg",
+      "file": "assets/09b7f3de0d90c864.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 34260
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004110/2024/AT1/K1737447744724036GY01_AT1.jpg",
+      "file": "assets/b1ad5c5f5c5faf06.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 23976
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004110/2024/AT1/K1737446390348079BR01_AT1.jpg",
+      "file": "assets/eb0e7ae869a03e2e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 54877
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/content/8c1634f8-e0ff-4beb-828b-0ff3a983f5b0/9f149eb5-94df-49b5-bd13-5ebab86499bc.jpg",
+      "file": "assets/44f2bdeb76050359.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 144086
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002719/2026/AT1/K1790758824127048RE01_AT1.jpg",
+      "file": "assets/10aabd871f6ed190.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 35763
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002719/2025/AT1/K1790819876030050BL01_AT1.jpg",
+      "file": "assets/c9860fe4acee11b6.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 23644
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002719/2025/AT1/K1790841493136022GR01_AT1.jpg",
+      "file": "assets/63d8e1b8ab1a6ff0.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 23138
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/JA/2026/LS1/W2AAX26005BLU_LS1.jpg",
+      "file": "assets/2229939f4cff4b64.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 20318
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003375_B221215092659/2026/LS1/K1790126011354023GY01_LS1.jpg",
+      "file": "assets/ce8ba8df1a90c0bc.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 27846
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/HX/2026/LS1/OGLAX26141WHX_LS1.jpg",
+      "file": "assets/3b2d9818deaa0794.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 6942
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CR/2026/LS31/RCBSX26647RED_LS31.jpg",
+      "file": "assets/7cfad37e7e598d11.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 32364
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CR/2026/RO/RCBSX26647RED_RO.jpg",
+      "file": "assets/ab0456bfe096a656.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 8161
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CW/2026/LS5/C9WAW26811BKX_LS5.jpg",
+      "file": "assets/6c49137c0e2f4bec.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 10447
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/GB/2026/LS1/G4TAW26002BKX_LS1.jpg",
+      "file": "assets/1e362b96eba44e6b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 9723
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003762/2026/LS1/K1790576929723078BK01_LS1.jpg",
+      "file": "assets/3c740a4bba0cdf12.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 12082
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/JA/2026/LS1/W34AW26001BKX_LS1.jpg",
+      "file": "assets/606c71c1b8db7efe.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 7353
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/JA/2026/LS2/F1TAW26013CRE_LS2.jpg",
+      "file": "assets/47ff4bb5a7ff523c.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 15126
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/JA/2026/LS1/W34AM26202TAU_LS1.jpg",
+      "file": "assets/02995661e3b521e4.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13222
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/JA/2026/LS1/F1UAW26105CHA_LS1.jpg",
+      "file": "assets/c60ddcf1c673b23b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 47441
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/JA/2026/LS1/W34AX26113BKX_LS1.jpg",
+      "file": "assets/887cfb911d119210.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 9780
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/JA/2026/LS1/W34AX26003GRX_LS1.jpg",
+      "file": "assets/e5278ceff66a6303.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 14128
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/JWJDW26311BLK_LS1.jpg",
+      "file": "assets/8c7d558d627c2672.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 24136
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/JWJDW26311BLK_RO.jpg",
+      "file": "assets/392ca0c84e4e9694.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 75045
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TVJDW26616BLK_LS1.jpg",
+      "file": "assets/4b33afd54fb8e130.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 12372
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TVJDW26616BLK_RO.jpg",
+      "file": "assets/c5ec6f32dc5fc01d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 31250
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS21/TLJDW26531BLU_LS21.jpg",
+      "file": "assets/324723500ffce6c2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 30301
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TLJDW26531BLU_RO.jpg",
+      "file": "assets/f3bc7cb01694573b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 350532
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TLTBW26651GRY_LS1.jpg",
+      "file": "assets/0e022253c0683499.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 14734
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TLTBW26651GRY_RO.jpg",
+      "file": "assets/ae53967abb067f3d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 84520
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/JWPNW26241BLK_LS1.jpg",
+      "file": "assets/13274dc4ef489358.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 9956
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/JKJFW26322GRI_LS1.jpg",
+      "file": "assets/42821f5fa807c1ba.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 16103
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/JKJFW26322GRI_RO.jpg",
+      "file": "assets/d5e0e20558ec981f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 54820
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TVPOW26532CAM_LS1.jpg",
+      "file": "assets/c4eb36ba8447430e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 17253
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TVPOW26532CAM_RO.jpg",
+      "file": "assets/b059aa4c8760bda4.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 79740
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/JWJDW26311BOC_LS1.jpg",
+      "file": "assets/082b5be9893c2a18.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 28212
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/JWJDW26311BOC_RO.jpg",
+      "file": "assets/7e97895daedfee7d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 82187
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/JWJDW26281BLK_LS1.jpg",
+      "file": "assets/2aa8cc4520ad8f4d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13712
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/JWJDW26281BLK_RO.jpg",
+      "file": "assets/ca19821c26ddc295.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 32600
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/V3JWX26322LBE_LS1.jpg",
+      "file": "assets/b2791eea233d0e6e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13947
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/V3JWX26322LBE_RO.jpg",
+      "file": "assets/3f187667d87da995.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 36691
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TLJDW26531GRY_LS1.jpg",
+      "file": "assets/a765e664e3de0756.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 21827
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TLJDW26531GRY_RO.jpg",
+      "file": "assets/efb9b95c4c2425a0.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 69654
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TLJDW26561BLK_LS1.jpg",
+      "file": "assets/3950df0c4cd7c952.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13691
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TLJDW26561BLK_RO.jpg",
+      "file": "assets/b1db6f0117649fb7.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 33468
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/JKPNW26242BLK_LS1.jpg",
+      "file": "assets/24c03ca21b940abe.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 9891
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/JKPNW26242BLK_RO.jpg",
+      "file": "assets/cac7aa3459f5b739.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 27404
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TLPNW26661CGY_LS1.jpg",
+      "file": "assets/f55f16e718bd105f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 11058
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TLPNW26661CGY_RO.jpg",
+      "file": "assets/a452a3b1411353cb.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 31463
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS14/TVJDW26512LBE_LS14.jpg",
+      "file": "assets/6dfbe11d8d51df7e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 44011
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TVJDW26512LBE_RO.jpg",
+      "file": "assets/d4a10078108a7681.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 170930
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TLPNW26651MGY_LS1.jpg",
+      "file": "assets/92fac83dac11e580.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 12577
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TLPNW26651MGY_RO.jpg",
+      "file": "assets/45e6f5a4990c22d9.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 41527
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TVJDW26622BLK_LS1.jpg",
+      "file": "assets/4f3dda9d76dee1bf.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13962
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TVJDW26622BLK_RO.jpg",
+      "file": "assets/41b0f12507bdecc9.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 37868
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TLJDW26617CIN_LS1.jpg",
+      "file": "assets/b935d894d06d024c.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 15302
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TLJDW26617CIN_RO.jpg",
+      "file": "assets/b2f6adc8772bda7a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 40216
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/JKTBW26322GRI_LS1.jpg",
+      "file": "assets/1bbf0659ae227d43.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 14319
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/JKTBW26322GRI_RO.jpg",
+      "file": "assets/9c29595efbb8162a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 57462
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TLTBW26651IND_LS1.jpg",
+      "file": "assets/5fe0393c89041f65.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13011
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TLTBW26651IND_RO.jpg",
+      "file": "assets/bddf61bd6b2ccd7b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 60478
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TVJDW26616CRE_LS1.jpg",
+      "file": "assets/5752f1e4fe4696e2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 11834
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TVJDW26616CRE_RO.jpg",
+      "file": "assets/74fb8061294d3ebe.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 32305
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/JKTBW26332PGY_LS1.jpg",
+      "file": "assets/55387677bd46cbbf.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 17429
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/JKTBW26332PGY_RO.jpg",
+      "file": "assets/08a0b2772b845819.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 73490
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TVJDW26674BLK_LS1.jpg",
+      "file": "assets/75c1bfa2ec61a456.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13591
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TVJDW26674BLK_RO.jpg",
+      "file": "assets/ececfcc876fdccfd.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 37897
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/JKJFW26322BOC_LS1.jpg",
+      "file": "assets/3065c71ed5eedebd.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 21052
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/JKJFW26322BOC_RO.jpg",
+      "file": "assets/c1a497b6c0722a48.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 82075
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/JKJJX26022BLK_LS1.jpg",
+      "file": "assets/ee70aa17b4763870.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 12040
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/JKJJX26022BLK_RO.jpg",
+      "file": "assets/3291b8e0b87e6307.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 32539
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TVTBW26642BLK_LS1.jpg",
+      "file": "assets/05b6d92dd42b679e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 10843
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TVTBW26642BLK_RO.jpg",
+      "file": "assets/8440b9bf7296178b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 36415
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TLPNW26661GRI_LS1.jpg",
+      "file": "assets/d9e63412a30e7be2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 10196
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TLPNW26661GRI_RO.jpg",
+      "file": "assets/c76060ef3c3f77e2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 28063
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS1/TLPNW26531MGY_LS1.jpg",
+      "file": "assets/057d4437ba9db3b9.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 10606
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/TLPNW26531MGY_RO.jpg",
+      "file": "assets/0df37d781e8ed2cc.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 35117
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/LS21/JKJDW26302PGY_LS21.jpg",
+      "file": "assets/9a3cfc9eee5330dd.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 44705
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2026/RO/JKJDW26302PGY_RO.jpg",
+      "file": "assets/be223e132fcd498f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 202178
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10001657/2023/LS1/K1696396520444028NO01_LS1.jpg",
+      "file": "assets/bd1ecbdf458edcb1.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "application/octet-stream",
+      "bytes": 32692
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2025/LS1/TLTBW25501LML_LS1.jpg",
+      "file": "assets/e8c141efc5f495cd.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 12176
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2025/RO/TLTBW25501LML_RO.jpg",
+      "file": "assets/267028c9e0904243.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 55708
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2025/LS1/JWTBW25261LML_LS1.jpg",
+      "file": "assets/314021eeb95d5145.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 16198
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2025/RO/JWTBW25261LML_RO.jpg",
+      "file": "assets/1606771096903c1f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 70432
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2025/LS1/JWJDW25621BLK_LS1.jpg",
+      "file": "assets/671a7a826b0269e9.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 12932
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2025/RO/JWJDW25621BLK_RO.jpg",
+      "file": "assets/86de4489efdff10d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 32554
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2025/LS1/QEHFX25351BLK_LS1.jpg",
+      "file": "assets/45a0d7fcab54025d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 9926
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2025/RO/QEHFX25351BLK_RO.jpg",
+      "file": "assets/82e0b7948a11fed4.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 28590
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/LC/2026/LS5/LYTAW26300BKX_LS5.jpg",
+      "file": "assets/97c4ad949538ba73.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 11073
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SE/2026/LS1/SVUCW26201BKX_LS1.jpg",
+      "file": "assets/0acc160c264e50ba.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 14745
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004433/2026/LS1/K1793246986052028KH01_LS1.jpg",
+      "file": "assets/c69c19c64f9642ea.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 19855
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003091/2026/LS1/WWUAW26902IVX_LS1.jpg",
+      "file": "assets/bae38329229ad602.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 13090
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SE/2026/LS1/SVWAW26701BKX_LS1.jpg",
+      "file": "assets/1c27513e04aa66d5.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 18943
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SE/2026/LS1/SVUCW26251GYX_LS1.jpg",
+      "file": "assets/00e9a7bf9ab65fe1.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 17350
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004458/2026/LS1/K1793254107009099GY01_LS1.jpg",
+      "file": "assets/3f12a100b60343c9.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 34638
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CM/2026/LS1/MYUAW26103BEX_LS1.jpg",
+      "file": "assets/d53104bfb5c00e62.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 18052
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SE/2026/LS1/SVUAW26101BKX_LS1.jpg",
+      "file": "assets/464a5d8c1a517da5.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 14927
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CO/2026/LS1/ZIUAW26001NYX_LS1.jpg",
+      "file": "assets/9969c736b32bcd79.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 23370
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CO/2026/RO/ZIUAW26001NYX_RO.jpg",
+      "file": "assets/8d6ca100a5959fa7.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 220740
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003614/2026/LS1/K1793151111983090GR01_LS1.jpg",
+      "file": "assets/81b7a45c3c975a5d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 14043
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/60005464/2026/LS1/K1793235605519006BR01_LS1.jpg",
+      "file": "assets/a2d7dca9acbcd5e6.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 21099
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SE/2026/LS1/SOSFW26051BEL_LS1.jpg",
+      "file": "assets/b27ea90e3a103b72.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 25210
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SE/2026/LS1/SOPNW26001CHD_LS1.jpg",
+      "file": "assets/88506ce99c369473.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 15374
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/LC/2026/LS5/LFOAW26410BRX_LS5.jpg",
+      "file": "assets/593bf4fff8787e54.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 14340
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004458/2026/LS1/K1793335441161089WH01_LS1.jpg",
+      "file": "assets/38cc8a3c645fd874.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 27068
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002879/2024/LS1/K1792719907681008NO01_LS1.jpg",
+      "file": "assets/076700fa74a6a9ce.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 25499
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003815/2026/LS1/K1793335362524073BK01_LS1.jpg",
+      "file": "assets/6b709787e7ab9750.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 31681
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004024/2025/LS1/K1793164053379032NA01_LS1.jpg",
+      "file": "assets/338b710008ab1e5d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 24485
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004458/2026/LS1/K1793250371444011RE01_LS1.jpg",
+      "file": "assets/dfe08cdb1aebc495.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 25255
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/JA/2026/LS1/F1UAW26008OLI_LS1.jpg",
+      "file": "assets/d4ea6364c04c37df.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 34041
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/HX/2026/LS1/OGREW26231BKX_LS1.jpg",
+      "file": "assets/50cd0c297f72cc90.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 10694
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002719/2025/LS1/K1793268351673039NO01_LS1.jpg",
+      "file": "assets/e7791028535ced86.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 11323
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003268/2026/LS1/K1792487153984040NA01_LS1.jpg",
+      "file": "assets/30b55c0e6a2eac77.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 12752
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004287/2026/LS1/K1792133444461025NO01_LS1.jpg",
+      "file": "assets/118b00301a52b7ab.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 36201
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/60007747/2026/LS1/K1793325782908050BE01_LS1.jpg",
+      "file": "assets/acb21923c924a15a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 9127
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003455/2026/LS1/K1792637893556072BK01_LS1.jpg",
+      "file": "assets/142aa577161ab1f0.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 7801
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003640/2026/LS1/K1793154615303032BE01_LS1.jpg",
+      "file": "assets/38c00ca55c252177.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 19613
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003420/2026/LS1/K1792637888539068NO01_LS1.jpg",
+      "file": "assets/1ba2c1e49a3415ac.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 10324
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004272/2026/LS1/K1793256930208069NO01_LS1.jpg",
+      "file": "assets/2965b091a5e23660.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 19739
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004432/2026/LS1/K1793072349854085NO01_LS1.jpg",
+      "file": "assets/4d796894f0674ffb.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 24602
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/NT/2026/LS1/N54AW26002BKX_LS1.jpg",
+      "file": "assets/7cd3cbb70a0c3c07.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 10860
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/LS1/DSHAW26502BLK_LS1.jpg",
+      "file": "assets/da04ea453c33dcc7.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13109
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2026/RO/DSHAW26502BLK_RO.jpg",
+      "file": "assets/6740ec7a9088e94e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 11632
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004340/2026/LS1/K1793255984451003BR01_LS1.jpg",
+      "file": "assets/b867eaa3df3534a0.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 28351
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002386/2026/LS1/K1793253229020100BK01_LS1.jpg",
+      "file": "assets/3b05ca590b6b6b0a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 10011
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004495/2026/LS1/K1793264158683041NO01_LS1.jpg",
+      "file": "assets/e742e5ed9d8f6a18.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 16639
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002467/2023/LS1/K1792485891049090BL01_LS1.jpg",
+      "file": "assets/17d77b895bcf2b40.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 17000
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003848/2026/LS1/K1793338505408072BE01_LS1.jpg",
+      "file": "assets/9915840ec288a203.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 45276
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004064/2026/LS1/K1792989550747055NO01_LS1.jpg",
+      "file": "assets/4f0e381849d6db24.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 15114
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004432/2026/LS1/K1793086031475042NO01_LS1.jpg",
+      "file": "assets/69e3a9319c4184a3.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 36500
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002739/2026/LS1/K1793317797194046BK01_LS1.jpg",
+      "file": "assets/529d4a0739252f1c.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 18116
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002994/2026/LS1/K1790910755969043BK01_LS1.jpg",
+      "file": "assets/891a77886856fe62.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 8555
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004441/2026/LS1/K1793176349604100BK01_LS1.jpg",
+      "file": "assets/a22495c5fe585f31.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 7178
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/60007747/2026/LS1/K1793231940760002BL01_LS1.jpg",
+      "file": "assets/f445013058642fb8.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 17113
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/60007747/2026/LS1/K1793248988294064WN01_LS1.jpg",
+      "file": "assets/ec934a1f3e16f990.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 18832
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004432/2026/LS1/K1793000486678063NO01_LS1.jpg",
+      "file": "assets/1afeee2ec5f6d960.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 20913
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003683/2026/LS1/K1793321515393097NO01_LS1.jpg",
+      "file": "assets/a5f222fa691c8c6d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 11548
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003971/2026/LS1/K1793233492628099BR01_LS1.jpg",
+      "file": "assets/57fedeb7ba1a6f61.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 51729
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002928/2025/LS1/K1793062361379062BK01_LS1.jpg",
+      "file": "assets/3ed86b7aa596b5c5.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 3891
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004432/2026/LS1/K1793085917903014NO02_LS1.jpg",
+      "file": "assets/668b33397c850351.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 16312
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004257/2026/LS1/K1793167703548079NA01_LS1.jpg",
+      "file": "assets/17f53ec7e6146f12.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 15945
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003665/2026/LS1/K1793274882878044YE01_LS1.jpg",
+      "file": "assets/5f06d939d1f44e1c.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 20090
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SE/2026/LS1/SACAW26201GYX_LS1.jpg",
+      "file": "assets/46a2e9373c152137.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 16846
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003091/2026/LS1/WWUAW26902BKX_LS1.jpg",
+      "file": "assets/a3f7635c883ae14c.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 12332
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SE/2026/LS1/SVUCW26202KHX_LS1.jpg",
+      "file": "assets/3755f67435bfc3be.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 18093
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004433/2026/LS1/K1793241519034096BR01_LS1.jpg",
+      "file": "assets/27f856547e650c5a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 41110
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SE/2026/LS1/SVUCW26151KHX_LS1.jpg",
+      "file": "assets/9d1d0fd403742e5b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 14798
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004458/2026/LS1/K1793254095351035BE01_LS1.jpg",
+      "file": "assets/ae812b2189845842.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 31880
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CM/2026/LS1/MRCBW26402GRY_LS1.jpg",
+      "file": "assets/40912c21d67b6137.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 18275
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CO/2026/LS1/ZKY1A26001BRX_LS1.jpg",
+      "file": "assets/bfe1c71e24f0a1ec.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 33163
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CO/2026/RO/ZKY1A26001BRX_RO.jpg",
+      "file": "assets/83c2d77af9f1960a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 946357
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CO/2026/LS1/ZKRAW26001BEX_LS1.jpg",
+      "file": "assets/d39cdf666006d697.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 10374
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CO/2026/RO/ZKRAW26001BEX_RO.jpg",
+      "file": "assets/a1a477c62906b722.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 240618
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CO/2025/LS1/ZKLAA25006BKX_LS1.jpg",
+      "file": "assets/7910530d471801ab.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 7119
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CO/2026/LS1/ZKEBS26001BKX_LS1.jpg",
+      "file": "assets/88d759fb4805fadb.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 5936
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CO/2025/LS1/ZKBTA25004CAM_LS1.jpg",
+      "file": "assets/d05fab798f917bbf.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 9524
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CO/2025/LS1/ZKBSA25004GYD_LS1.jpg",
+      "file": "assets/9c8c104047f7222a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 11946
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004432/2026/LS1/K1791269350144062NO05_LS1.jpg",
+      "file": "assets/7f66c407d6f869ff.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 25502
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004432/2026/LS1/K1791270414677087NO02_LS1.jpg",
+      "file": "assets/39a6c4e5372d3e25.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 18751
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004432/2026/LS1/K1791270414677087NO01_LS1.jpg",
+      "file": "assets/2e555c6e2037e736.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 18406
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004489/2024/LS1/K1792456809649026BK01_LS1.jpg",
+      "file": "assets/6f4a5bd09ebac17b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 5495
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004489/2025/LS1/K1792456821326073WH01_LS1.jpg",
+      "file": "assets/8d9494b375591b4f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 7163
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004489/2025/LS1/K1792456822272043BE01_LS1.jpg",
+      "file": "assets/8a237aca8d48f48c.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 7130
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003774/2026/LS1/K1791944663996061WH01_LS1.jpg",
+      "file": "assets/b81304964712805c.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 14813
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003774/2026/LS1/K1791944696923056PU01_LS1.jpg",
+      "file": "assets/a3fb7a3385a20143.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 13142
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003774/2026/LS1/K1791944668652060CM01_LS1.jpg",
+      "file": "assets/91ad570b1577a1e5.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 12788
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004483/2026/LS1/K1791439612113058BK01_LS1.jpg",
+      "file": "assets/0f45bcca50133c54.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 49164
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004483/2025/LS1/K1792124073614002OR01_LS1.jpg",
+      "file": "assets/3269f03a5a0a190c.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 30819
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004483/2025/LS1/K1792125240843046BE01_LS1.jpg",
+      "file": "assets/4093bd27b76f4963.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 36930
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004454/2026/LS1/K1791810321458041PK01_LS1.jpg",
+      "file": "assets/77cbf4c7c8003dbf.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 12567
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004454/2026/LS1/K1791820600061075IV01_LS1.jpg",
+      "file": "assets/fe1fc95e74d4ec3b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 12313
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004454/2026/LS1/K1791810905479039PK01_LS1.jpg",
+      "file": "assets/992355e1c573cc33.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 15419
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004479/2026/LS1/K1791794415737038NO01_LS1.jpg",
+      "file": "assets/d7e6e25239e1229f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 8108
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004479/2026/LS1/K1791791909529040NO01_LS1.jpg",
+      "file": "assets/91096c159eff8d03.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 46848
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004479/2026/LS1/K1791792657088001NO01_LS1.jpg",
+      "file": "assets/6d9cfb5642191c13.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 15425
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002763/2026/LS1/K1791341626931016NO01_LS1.jpg",
+      "file": "assets/38d1bb8250c6ba36.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 4894
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002763/2026/LS1/K1791341631732073NO01_LS1.jpg",
+      "file": "assets/792ca40ded7e6db1.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 5110
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002763/2026/LS1/K1791341595133099NO01_LS1.jpg",
+      "file": "assets/61216c09fec2f8a5.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 9730
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004495/2026/LS1/K1793264061216030NO01_LS1.jpg",
+      "file": "assets/55e5b0c590a382a4.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 18926
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004495/2026/LS1/K1793264058837013NO01_LS1.jpg",
+      "file": "assets/0eccab04c3e733dd.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 13874
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004024/2023/LS1/K1793059955183075NO01_LS1.jpg",
+      "file": "assets/ec144bda1faee24d.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 21859
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004024/2023/LS1/K1793059955183075NO02_LS1.jpg",
+      "file": "assets/8fcf0bbd105c5773.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 21859
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004024/2023/LS1/K1793059955183075NO06_LS1.jpg",
+      "file": "assets/a2202821b9c72bd5.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 21859
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/JA/2026/LS1/W1JAW26113BLU_LS1.jpg",
+      "file": "assets/6d40a1fb1f2c3146.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 18448
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/JA/2026/LS1/W2AAW26101KHA_LS1.jpg",
+      "file": "assets/561d46466bdb58ad.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 12152
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067871162098WH01_LS1.jpg",
+      "file": "assets/f53e4124706745cd.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 3625
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067871162098GY01_LS1.jpg",
+      "file": "assets/a2279af64d16bc03.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 6233
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067871162098BK01_LS1.jpg",
+      "file": "assets/1b89f314d80dae61.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 5115
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067826506066IV01_LS1.jpg",
+      "file": "assets/2145c337ecc3063e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 22138
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067826506066BR01_LS1.jpg",
+      "file": "assets/bbdbc7c47d150e51.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 19300
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067809559053IV01_LS1.jpg",
+      "file": "assets/183836118d85b963.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 18300
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067809559053BK01_LS1.jpg",
+      "file": "assets/8942d34f61e437b8.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 16392
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067793622061KH01_LS1.jpg",
+      "file": "assets/43df1730ca7c86cf.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 19068
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067793622061BK01_LS1.jpg",
+      "file": "assets/d79a5d1d8c9a7da2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 13396
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067775566096NA01_LS1.jpg",
+      "file": "assets/bbae930eba9a33e9.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 20311
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067775566096GY01_LS1.jpg",
+      "file": "assets/370775f0050e8c32.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 25265
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067742036098YE01_LS1.jpg",
+      "file": "assets/36fd34909faf64e7.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 22199
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067742036098GY01_LS1.jpg",
+      "file": "assets/dcc0b7a10a4ad35f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 23646
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067723706079KH01_LS1.jpg",
+      "file": "assets/11d7020873fa962a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 20829
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067723706079GY01_LS1.jpg",
+      "file": "assets/c78dec5b5c1b4585.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 19782
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067708695072GY01_LS1.jpg",
+      "file": "assets/93d46c8bc78976be.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 17826
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067708695072BK01_LS1.jpg",
+      "file": "assets/d0973e163e586ce6.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 14699
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067689934001KH01_LS1.jpg",
+      "file": "assets/5803f4fe7f809ba2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 22986
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067689934001BK01_LS1.jpg",
+      "file": "assets/98bc4de991783108.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 15969
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067670922011KH01_LS1.jpg",
+      "file": "assets/ca89105c559534ae.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 23832
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067670922011BK01_LS1.jpg",
+      "file": "assets/1e25f7ec075cdeba.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 20739
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067650197080GY01_LS1.jpg",
+      "file": "assets/97b8571288dce946.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 20109
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067650197080BR01_LS1.jpg",
+      "file": "assets/7f10f83150970c05.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 22108
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067650197080BE01_LS1.jpg",
+      "file": "assets/f60068ae2334caf8.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 22549
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067021015029IV01_LS1.jpg",
+      "file": "assets/ff24eb5ed6cddd95.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 23271
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1793067021015029BK01_LS1.jpg",
+      "file": "assets/705e83f37029c0b0.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 21271
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1792465345007034IV01_LS1.jpg",
+      "file": "assets/7987585ff3e486d7.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 15460
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1792465345007034GY01_LS1.jpg",
+      "file": "assets/326e0efda95a9087.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 19033
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1792465345007034BK01_LS1.jpg",
+      "file": "assets/9dd5dfa27ebc8de2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 16693
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002958/2026/LS1/K1792465326859097WN01_LS1.jpg",
+      "file": "assets/637ae18c00ea2791.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 18821
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/HC/2026/LS1/AYPAW26701GYD_LS1.jpg",
+      "file": "assets/e273c1f04e431401.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 11572
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/SB/2025/LS1/DE3BW25513BRN_LS1.jpg",
+      "file": "assets/f15299d011f34865.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 24238
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/LC/2025/LS5/7ALAX25410BUL_LS5.jpg",
+      "file": "assets/30b7d1a5e1b25af2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 5770
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CR/2026/LS1/RCBSX26143BRD_LS1.jpg",
+      "file": "assets/f4d9b5f36fdcbfeb.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 8608
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/CR/2026/RO/RCBSX26143BRD_RO.jpg",
+      "file": "assets/6e742f3341964903.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 74135
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/G4/2026/LS1/GTBTX26517BKX_LS1.jpg",
+      "file": "assets/f1b31142b4e5fc85.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 11508
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/G4/2026/RO/GTBTX26517BKX_RO.jpg",
+      "file": "assets/30e0884073992550.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13639
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/TS/2026/LS19/TMTAX26412WHX_LS19.jpg",
+      "file": "assets/d2f5b3b891f20230.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 19723
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/TS/2026/RO/TMTAX26412WHX_RO.jpg",
+      "file": "assets/8179a4bf22c4b97f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 87452
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/LS20/RYBAX25802BKX_LS20.jpg",
+      "file": "assets/9694dcdf2cfea1c2.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 27332
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/RO/RYBAX25802BKX_RO.jpg",
+      "file": "assets/730b59a91b749733.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 9215
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/LS20/RQJAS25504BEX_LS20.jpg",
+      "file": "assets/aa7c902539836486.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 15773
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/RO/RQJAS25504BEX_RO.jpg",
+      "file": "assets/ab78941555ee658f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13601
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/LS20/R0JAX25205BRX_LS20.jpg",
+      "file": "assets/4b0ccc24c050d208.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 24722
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/RO/R0JAX25205BRX_RO.jpg",
+      "file": "assets/d26e900efb27b6fd.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 12819
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/LS20/R0WAX25231IVX_LS20.jpg",
+      "file": "assets/0813c8c5e1e3029c.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 27882
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/RO/R0WAX25231IVX_RO.jpg",
+      "file": "assets/aa8caefcd0e4d1b3.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 8731
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/LS20/R0WAX25231BKX_LS20.jpg",
+      "file": "assets/ea76ab62e08c503a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 26635
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/RO/R0WAX25231BKX_RO.jpg",
+      "file": "assets/75364c4563b90e96.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 11539
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/LS20/R0VAA25220BEX_LS20.jpg",
+      "file": "assets/b71603d8ca06faf9.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 30911
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/RO/R0VAA25220BEX_RO.jpg",
+      "file": "assets/c183a21fc5b7338c.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 14883
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/LS20/R0DAA25240BRX_LS20.jpg",
+      "file": "assets/dcc58eda338ffa28.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 25010
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/RO/R0DAA25240BRX_RO.jpg",
+      "file": "assets/16a42bbd9706539f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 11590
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/LS20/R0KAA25234NYX_LS20.jpg",
+      "file": "assets/285de45fe743173a.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 25381
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/RO/R0KAA25234NYX_RO.jpg",
+      "file": "assets/62f455c08cd5278b.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 10428
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/LS1/RQTAX25520BKX_LS1.jpg",
+      "file": "assets/5613d24acf80e48e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 7815
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/LS24/RQUAW25510BKX_LS24.jpg",
+      "file": "assets/d1b7875640b2d8b6.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 22237
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/RO/RQUAW25510BKX_RO.jpg",
+      "file": "assets/e4e9a0fe51b85ac6.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 10994
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/LS25/RQUAW25510KHX_LS25.jpg",
+      "file": "assets/fa93855766f8cadb.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 26210
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/RO/RQUAW25510KHX_RO.jpg",
+      "file": "assets/e903e32f10bf0b78.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 13886
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/LS23/RQKAW25535KHX_LS23.jpg",
+      "file": "assets/8b408f2cbd7c0eb9.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 24246
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/RC/2025/RO/RQKAW25535KHX_RO.jpg",
+      "file": "assets/32256d87f735797f.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 9420
+    },
+    {
+      "url": "https://images3.kolonmall.com/upload/220411a2-9031-4536-8a4a-c28bd1fb2140/best_circlebnr_all.jpg",
+      "file": "assets/dee0e293241490c9.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 2037
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/present-category-woman.83e163d4.png",
+      "file": "assets/385ad240a3ea3817.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 12217
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/present-category-man.79c35134.png",
+      "file": "assets/d62baa3302d4655a.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 12326
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/present-category-sports.f0423cc1.png",
+      "file": "assets/20c14f40f8dcf89d.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 10737
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004459/2024/LS1/K1790915911770054NO01_LS1.jpg",
+      "file": "assets/6531ba21b8bbb097.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 20058
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003768/2021/LS1/K1786411070005037NO01_LS1.jpg",
+      "file": "assets/75cd03c73da97640.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 10228
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003540/2023/LS1/K1697438847717063GY01_LS1.jpg",
+      "file": "assets/51faf20c44710cf3.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "application/octet-stream",
+      "bytes": 19751
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002719/2023/LS1/K1791435171226036YE01_LS1.jpg",
+      "file": "assets/b40f4670168458a1.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 9628
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002952/2024/LS1/K1789110797103007OR01_LS1.jpg",
+      "file": "assets/5e8815f11e241909.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 32364
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002021/2021/LS1/K1774400220536096WH01_LS1.jpg",
+      "file": "assets/71c4e8963d3d4088.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 3825
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004406/2023/LS1/K1778825174052062NO01_LS1.jpg",
+      "file": "assets/cb48325656eb89be.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 15674
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10004257/2026/LS1/K1792630594693081BE02_LS1.jpg",
+      "file": "assets/c6ae956145f9693e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 26908
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002186/2026/LS1/K1787818608097022IV01_LS1.jpg",
+      "file": "assets/25111e66332dd2ac.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 7662
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003546/2026/LS1/K1787211640538080GY01_LS1.jpg",
+      "file": "assets/de111f5ba324a008.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 29865
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002475/2026/LS1/K1777282072256055IV01_LS1.jpg",
+      "file": "assets/9e764209dd45506e.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 32221
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2024/LS1/QELAX24501KHA_LS1.jpg",
+      "file": "assets/7272bce6a0c7a7aa.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 8169
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/KS/2024/RO/QELAX24501KHA_RO.jpg",
+      "file": "assets/af5f2df7f5ccc265.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpeg",
+      "bytes": 40798
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10002763/2025/LS1/K1790904685309053NO01_LS1.jpg",
+      "file": "assets/3c84868d9a26b192.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 7120
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003853/2026/LS1/K1792116249362035BR01_LS1.jpg",
+      "file": "assets/b30aeaed99b1fdc1.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 14310
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/60004917/2026/LS1/K1779872428113017SV01_LS1.jpg",
+      "file": "assets/5a537432720722e8.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 7735
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003420/2024/LS1/K1731377818656026NO01_LS1.jpg",
+      "file": "assets/b70d783849f03093.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 11669
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/60002381/2026/LS1/K1791354678545087BK01_LS1.jpg",
+      "file": "assets/7adc996a9241a8f0.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/jpg",
+      "bytes": 16669
+    },
+    {
+      "url": "https://images.kolonmall.com/Prod_Img/10003655/2023/LS1/K1694507321312004PK01_LS1.jpg",
+      "file": "assets/b53133bf34d31bac.jpg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "application/octet-stream",
+      "bytes": 22521
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/ISMS-P.aecf65d4.png",
+      "file": "assets/a270a821749ca00a.png",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/png",
+      "bytes": 5157
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/0713152ef719b67b-s.p.ttf",
+      "file": "assets/081f8964e3013573.ttf",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 101312
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/352c8e191b014582-s.p.woff2",
+      "file": "assets/88cdb54d2bae7992.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 267096
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/4fe3303396ef94f8-s.p.woff2",
+      "file": "assets/53e065843eaf8a74.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 270784
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/563db01456352094-s.p.ttf",
+      "file": "assets/2a31bc02bc961811.ttf",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 99364
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/7219c48e37faf350-s.p.woff2",
+      "file": "assets/0aeabeed3472508b.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 35280
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/96fccbf3b7e705fb-s.p.woff2",
+      "file": "assets/a6cf15a54c0de1c2.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 21464
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/adc9a91168547ff5-s.p.woff2",
+      "file": "assets/133e924b7dd2b8a7.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 10944
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/bd9b9909c3a641ff-s.p.woff2",
+      "file": "assets/f029fae7735f82f8.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 21412
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/c02c6fc9f7ac1ab4-s.p.woff2",
+      "file": "assets/a4ec7b677b7a3389.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 17860
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/cedc0d4e6b719cc0-s.p.woff2",
+      "file": "assets/39dd4ad4695f5a39.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 15988
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/ce54de3ae3650484-s.p.woff2",
+      "file": "assets/a96ead6e495b0411.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 268324
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/d67e7444ea377c05-s.p.woff2",
+      "file": "assets/cea1c3c7dbb38b88.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 268752
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/df5e9b5a3155a1ff-s.p.woff2",
+      "file": "assets/9d53cb527e037dce.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 271796
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/f731967eb2862d9b-s.p.woff2",
+      "file": "assets/0d442ef11acf6b01.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 21656
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/f74adef29c6b0dde-s.p.ttf",
+      "file": "assets/9800452bc57dc2bc.ttf",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 97312
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/webpack-66278df1a1d84e86.js",
+      "file": "original-js/3cb7a8c0f6278413.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 8588
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/46d378e8-d17dd7f18a75c2bf.js",
+      "file": "original-js/4f9200e7c05ca269.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 172837
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/main-app-bc5f49953d7be66c.js",
+      "file": "original-js/1cc8bd13b359204c.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 471
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/2313-a2c5a6038cf1379b.js",
+      "file": "original-js/76e58046c31c1113.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 124712
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/e65f8e92-e80b5108b5f49783.js",
+      "file": "original-js/1259781e52eabf18.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 413480
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/84312-dc184f213802692c.js",
+      "file": "original-js/9b3e2e1dc96c2c3b.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 93194
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/58295-608d97ae0c8dbb5e.js",
+      "file": "original-js/d945e047dfeaf32e.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 7131
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/48350-956582b144b8475a.js",
+      "file": "original-js/7e7230fe78b544bd.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 19709
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/f2087659-8efaefdae8086b5a.js",
+      "file": "original-js/8b4d507166a75aca.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 76651
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/65312-a908ed341e0ccbe2.js",
+      "file": "original-js/f6e11ffde47c29da.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 5993
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/53541-ab52ade2bd33d8d4.js",
+      "file": "original-js/2303e9b0520f2df5.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 23243
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/18645-899b76ecef60094f.js",
+      "file": "original-js/251cc29ca197096e.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 42787
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/63613-1caaeb3c8f5dec85.js",
+      "file": "original-js/c6fcdebbc9b326ae.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 39292
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/69911-524f210b0dfc9ee0.js",
+      "file": "original-js/6e655f5b235b1a44.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 9957
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/55533-c76868a393dc0c1b.js",
+      "file": "original-js/b7e98fdef6dd5ce5.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 14255
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/97171-bf375bccb227962f.js",
+      "file": "original-js/859f9bb7dfe7c982.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 6684
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/38306-ea29976f10836b90.js",
+      "file": "original-js/3c5c72305c63c810.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 129940
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/46346-2c1ff5a3308d2cb6.js",
+      "file": "original-js/0ee651d070b6691a.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 16082
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/8954-7b4fe681516b8222.js",
+      "file": "original-js/7be4fd276e4fac6e.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 8656
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/43750-c10db2236a6d6e15.js",
+      "file": "original-js/22ca576ce4030b43.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 10385
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/88546-79d5277390aa9de5.js",
+      "file": "original-js/f74afbfa0d599231.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 22507
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/66968-2bde12ac666a957f.js",
+      "file": "original-js/7a2dea8e31fcebb0.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 15928
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/1143-7dc619253d350023.js",
+      "file": "original-js/f64bb25221029aa8.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 46197
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/45228-0241a53fda8c5044.js",
+      "file": "original-js/ff5b27b7f25c5885.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 11023
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/18473-29b1adf745a62718.js",
+      "file": "original-js/f4dd4fca4e24d045.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 14062
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/21778-cfd927784b74d7c3.js",
+      "file": "original-js/783dfd7a14345f21.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 23299
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/16822-dde1e037563089d2.js",
+      "file": "original-js/6a600a0ec71dc4b8.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 61969
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/35235-9565ccba8ca8734b.js",
+      "file": "original-js/05d8c8d4b35d4696.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 67627
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/79821-44096615b29fae62.js",
+      "file": "original-js/566a0b7843f37d90.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 10017
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/64558-dbf092cd20503b5b.js",
+      "file": "original-js/41343fe5c2d07796.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 31612
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/70448-06047993b6360c55.js",
+      "file": "original-js/8d839301addb9e84.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 25264
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/35647-3c7ad132c2c0fe62.js",
+      "file": "original-js/df206b3960aec5d9.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 18630
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/91929-915efa79e3d471c5.js",
+      "file": "original-js/82d681ae1eed3fb2.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 44782
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/87946-9406d74bcd5bb98d.js",
+      "file": "original-js/3f627a83f7ed78c1.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 42799
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/36470-57b0fa2f0449cc7d.js",
+      "file": "original-js/7363e75703c57b90.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 37824
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/85280-53f40df457e1172b.js",
+      "file": "original-js/d1e29e7712d5acdb.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 51721
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/23274-54a52707bb6c4193.js",
+      "file": "original-js/8b481e37bf1c63df.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 67540
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/54936-002c4cd01a314aa9.js",
+      "file": "original-js/13127e103674e41b.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 42522
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/23149-7e1535cc8918fa91.js",
+      "file": "original-js/af78353ebc416c7d.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 36337
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/12446-2b21dba6315bfb00.js",
+      "file": "original-js/8194afd40ad3102f.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 35034
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/37646-1624d55cb5ae0cbc.js",
+      "file": "original-js/eb46d965d0305767.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 33501
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/36146-afde6fb55b6440eb.js",
+      "file": "original-js/aeb0c9df22b49445.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 24392
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/18750-a2f1c86d1b153755.js",
+      "file": "original-js/5892701e01b822b6.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 24868
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/89860-112565118bf94867.js",
+      "file": "original-js/026cdf18f07416a1.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 22181
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/68049-01b2697707a7c9e1.js",
+      "file": "original-js/728d5aa90f568447.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 51140
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/89992-9be779cdae5c7bfd.js",
+      "file": "original-js/10c9fefceed49272.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 38095
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/1746-f0d96d02f4f29ee1.js",
+      "file": "original-js/08c3274c3e914877.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 26738
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/51034-cef1493003115a13.js",
+      "file": "original-js/da0e6de6e0a0f139.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 31215
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/71985-aa9775b7bffeba75.js",
+      "file": "original-js/b01a8148b29e7f3c.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 32536
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/60479-9ef6a4795d8abc5c.js",
+      "file": "original-js/4fa14d87fa5d1911.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 20884
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/40550-62aebaefa0dadc12.js",
+      "file": "original-js/864db3eb9c067426.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 39479
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/83732-c98e85f96dd0b635.js",
+      "file": "original-js/23de9d494c538b56.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 50567
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/42113-4eb8cced3f31ef1a.js",
+      "file": "original-js/56f390a5b788d77a.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 45474
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/61106-dcbca1ca8bcbfacd.js",
+      "file": "original-js/044e668e7226abab.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 50906
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/38085-f467847c39708416.js",
+      "file": "original-js/a7077b0ecc9959c5.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 19815
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/80634-540c725d9eccce6b.js",
+      "file": "original-js/d2ec0f6b1f730346.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 48991
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/72116-1a673c00b27e1172.js",
+      "file": "original-js/1bb27a762479077a.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 42829
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/71164-9b0cc5df3c61bc4f.js",
+      "file": "original-js/23ed0efa66749663.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 25144
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/56308-f8d55a27d39b4558.js",
+      "file": "original-js/cb32137bb2be3a24.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 28595
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/5323-a3ac8c8eba265b2d.js",
+      "file": "original-js/0a891feaf5715116.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 35163
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/2664-597c6fdcd202af6b.js",
+      "file": "original-js/89683dd71c0a9b75.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 111500
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/95049-826e1a1c090e7b47.js",
+      "file": "original-js/8aa06098e6d5c09c.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 96615
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/27771-e25db0f7e843ce86.js",
+      "file": "original-js/4294effdc9422d88.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 25825
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/40321-c353841b04e343fa.js",
+      "file": "original-js/47ee10e129a349fb.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 16923
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/4503-0b2de960a283b4c7.js",
+      "file": "original-js/5f7e7e1ad46d4d28.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 15726
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/51772-5bef6cb819d93dfa.js",
+      "file": "original-js/de92978fe53a4f37.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 586608
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/54337-87c3150af39e424f.js",
+      "file": "original-js/2867a0bca787f4fb.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 26177
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/50989-540ec93b93e01a96.js",
+      "file": "original-js/71e81c9438124c36.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 16053
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/73129-03d5f9642b2de045.js",
+      "file": "original-js/600f46082e95d3d7.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 23137
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/86386-0f72abca7e3e53b9.js",
+      "file": "original-js/78822d916783ea61.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 27359
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/37994-098a51541e8fcee1.js",
+      "file": "original-js/e4479711e5f37656.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 38186
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/33879-1364b474bd91b5c6.js",
+      "file": "original-js/a936dfbdc2a35e29.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 4016
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/50675-b503c497fa75078b.js",
+      "file": "original-js/c7fc4459f641bb8c.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 43063
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/56915-cc2ac37b953d04fa.js",
+      "file": "original-js/33351e99ca1c9693.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 18315
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/56677-589f86ca58528c35.js",
+      "file": "original-js/afb71cdfad862f03.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 25946
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/(main)/page-188b8b38fda6f3d2.js",
+      "file": "original-js/b7de2db9b2649b5e.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 74173
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/38334-09712ed413ab3347.js",
+      "file": "original-js/ab11c44218817cc0.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 7715
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/71350-fff25fb2752a5380.js",
+      "file": "original-js/1b5a07a1a46a4d63.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 19134
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/96378-927973057b22a73d.js",
+      "file": "original-js/96ecbcfabd1a28b9.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 25799
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/86141-1d1841e857d47530.js",
+      "file": "original-js/c4472f32e1b1320c.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 22796
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/63694-6362732d29f1eee9.js",
+      "file": "original-js/d7021a8df65e93b7.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 20276
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/error-e08daafee6aea043.js",
+      "file": "original-js/9bafc044a07552af.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 3587
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/44930-665a12d183764dd3.js",
+      "file": "original-js/e84ab3c55315234b.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 48065
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/(main)/layout-f98d695f72bbc5bc.js",
+      "file": "original-js/34ce03686d4e0888.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 36991
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/55043-3fd908450de73193.js",
+      "file": "original-js/5670bf090b8c2b14.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 20076
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/80585-16edcd57230fb6ed.js",
+      "file": "original-js/d94dc8ff6133bf18.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 243970
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/24936-b75d137df168a604.js",
+      "file": "original-js/0394cda39fd23e78.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 19765
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/not-found-b74cb751cf31e7da.js",
+      "file": "original-js/6e6818d2350fc18a.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 3513
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/31722-57c0e1e7e7b5fa75.js",
+      "file": "original-js/021d779178d12ec8.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 192738
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/global-error-77120110f0209b34.js",
+      "file": "original-js/28e9454d49ef7d45.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 4407
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/layout-eba07cab502a0fc1.js",
+      "file": "original-js/cb1d2a6150fad4e5.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 223025
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/not-found-06c0bbf773cac087.js",
+      "file": "original-js/c43e3ced68be2a03.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 2955
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/6233.90c9fed0f4e65d7e.js",
+      "file": "original-js/974ee2273371206f.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 41608
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/72486.3e551a8392f296f0.js",
+      "file": "original-js/d506be539b7c8355.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 3961
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/10373-4b4e1527e222d43b.js",
+      "file": "original-js/d1227f95767bc7b5.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 21046
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/61922-e1adff8be869a799.js",
+      "file": "original-js/3292d9c39221b4e8.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 431222
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/9238-a76ecdaa168a2556.js",
+      "file": "original-js/0b63ebbf0f0f434e.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 29118
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/53970-021a69c53cd41f31.js",
+      "file": "original-js/df4ec8e4cd7f7267.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 61633
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/View/Special/%5Bid%5D/page-213546acafb52b46.js",
+      "file": "original-js/91c2323fc8742f6e.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 33734
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/View/Special/%5Bid%5D/layout-a632e16ef4420c96.js",
+      "file": "original-js/6f42c33248f5d531.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 753
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/3918-b479d41c5b89510b.js",
+      "file": "original-js/1be02c697bc9cca5.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 34433
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/20817-7d5bf0e3f0645939.js",
+      "file": "original-js/b70a78b0c09f86cc.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 23544
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/53246-63fe4d0afef3f653.js",
+      "file": "original-js/ee53c82b37293396.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 56373
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/Like/page-9b0cc2344d78506a.js",
+      "file": "original-js/cf871b29d2416efe.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 112000
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/65072-34c4685f81da54ac.js",
+      "file": "original-js/08e6c7e6a14e254f.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 83246
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/63478-e95bb6e5111302ae.js",
+      "file": "original-js/5ef486bf5d7c0fb4.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 26954
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/8671-b32e603cca44ef4d.js",
+      "file": "original-js/87c363753e3b4348.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 38007
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/33690-8e057b51ca9e581e.js",
+      "file": "original-js/b76f3ee6a2ab4078.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 31028
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/52077-9d9afc193044aae1.js",
+      "file": "original-js/606e19bac6031d50.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 19211
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/Like/layout-ae778fb7629605e9.js",
+      "file": "original-js/a01b7aa71b4d09f2.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 9091
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/Login/page-f30fa16a0320bc23.js",
+      "file": "original-js/ed132886ce6a9560.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 82219
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/(main)/Sales/page-8530ec0df66bf5e4.js",
+      "file": "original-js/914e0cd63008c95e.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 84796
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/35018-40288ce2c0979b5b.js",
+      "file": "original-js/c4d1f6d234236c0a.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 28021
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/(main)/View/%5BpanelKey%5D/page-d466f77ca7002d61.js",
+      "file": "original-js/93db466a4dc5384b.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 29145
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/72991-20126c5c0e73ed77.js",
+      "file": "original-js/5ba5fd4a83e090aa.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 94615
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/Brand/page-04b234c6aebdeea3.js",
+      "file": "original-js/170b59d5cb02c683.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 526
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/96423-fcdfaba66d8c92eb.js",
+      "file": "original-js/f03b5e3b5c16d6a6.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 26099
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/Brand/layout-57fda58872e8a129.js",
+      "file": "original-js/a51a7074445e0713.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 19456
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/58429-133d5b09d6d30587.js",
+      "file": "original-js/d2b3dbe21895d5df.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 16077
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/Event/(event-main)/page-8d2f4bfa1f100d6b.js",
+      "file": "original-js/a7e0dda5a9363357.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 58667
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/Event/(event-main)/layout-4762aecbfcfcbcb5.js",
+      "file": "original-js/3349735c583233d5.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 559
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/23788-db86394a59e7c2a4.js",
+      "file": "original-js/187138e33a37070e.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 16635
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/chunks/app/(pages)/Special/(main-layout)/page-458441b0b9675e1c.js",
+      "file": "original-js/1edbeb6af028e8d6.js",
+      "kind": "js",
+      "status": "ok",
+      "type": "application/javascript",
+      "bytes": 65895
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/ajax-loader.0b80f665.gif",
+      "file": "assets/858e05cb879e2641.gif",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/gif",
+      "bytes": 4178
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/slick.25572f22.eot",
+      "file": "assets/f27d2dd1698ba3d5.eot",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 2048
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/slick.25572f22.eot?#iefix",
+      "file": "assets/d876661525cd9e3b.eot",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 2048
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/slick.653a4cbb.woff",
+      "file": "assets/d146f11a52168e21.woff",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 1380
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/slick.6aa1ee46.ttf",
+      "file": "assets/e8477fd3ede5641e.ttf",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 1892
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/slick.f895cfdf.svg#slick",
+      "file": "assets/9ab1ee3ecaadb225.svg",
+      "kind": "asset",
+      "status": "ok",
+      "type": "image/svg+xml",
+      "bytes": 2152
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/3c0a36d4615ad53c-s.woff2",
+      "file": "assets/5b019153c3290e74.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 9112
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/b3097673cd409a21-s.woff2",
+      "file": "assets/98fc5df0f039a766.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 13976
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/2409d02eaee47cb9-s.woff2",
+      "file": "assets/2b80f68b4096a82c.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 11708
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/b72a6a678d511e3a-s.woff2",
+      "file": "assets/433ef84a0294c576.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 6300
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/a33a3f3323a75998-s.woff2",
+      "file": "assets/3b87c467dbb9c2f2.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 18944
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/2b3290bbd74b406c-s.woff2",
+      "file": "assets/437dff314ba9b0b5.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 9284
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/cd0b3e16a24dbb22-s.woff2",
+      "file": "assets/ea5eb39a89ca2349.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 8880
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/f7d7b00556744853-s.woff2",
+      "file": "assets/f3aa4b0fa3d1f423.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 4052
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/2efe9067d8d814c8-s.woff2",
+      "file": "assets/1e71ea49315f43d1.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 12324
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/6fd941fcd74fb497-s.woff2",
+      "file": "assets/0a886d50770e8213.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 23088
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/7cb025c0ffa46db8-s.woff2",
+      "file": "assets/c9c722e8d2a502f8.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 22040
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/06778afafef13b04-s.woff2",
+      "file": "assets/00aa61aa58f7fac3.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 9300
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/147a727ce01afd0a-s.woff2",
+      "file": "assets/e9878e21b8db0194.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 30304
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/7d9107ded88a231f-s.woff2",
+      "file": "assets/cca7b7286cf84717.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 7136
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/b8adf3b158fef3d6-s.woff2",
+      "file": "assets/6db81c621391612c.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 17928
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/b29f686ef4fc181e-s.woff2",
+      "file": "assets/d808a187d9ca0683.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 3932
+    },
+    {
+      "url": "https://www.kolonmall.com/_next/static/media/f3adae1ffa3393bc-s.woff2",
+      "file": "assets/5a2996bf32141d4c.woff2",
+      "kind": "asset",
+      "status": "ok",
+      "type": "binary/octet-stream",
+      "bytes": 7292
+    }
+  ],
+  "failures": []
+}

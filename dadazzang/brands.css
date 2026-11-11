@@ -1,0 +1,50 @@
+/* Brand introductions stay on one page, inside the shared desktop frame. */
+.brands-shell { display: flex; flex-direction: column; min-width: 1440px; min-height: 100vh; }
+.brands-page { flex: 1; width: 1400px; margin: 0 auto; padding: var(--d-header-h) 0 100px; color: #1f1f1f; }
+.brands-featured { display: grid; gap: 50px; }
+.brand-feature { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 0; align-items: center; scroll-margin-top: 100px; background: #f6f6f6; border-radius: 8px; overflow: hidden; }
+.brand-feature:nth-child(even) .brand-feature__visual { grid-column: 2; grid-row: 1; }
+.brand-feature:nth-child(even) .brand-feature__copy { grid-column: 1; grid-row: 1; }
+.brand-visual { position: relative; overflow: hidden; isolation: isolate; border-radius: 8px; background: #484848; }
+.brand-feature__visual { height: 520px; border-radius: 0; }
+.brand-visual__photo { display: block; width: 100%; height: 100%; object-fit: cover; }
+.brand-visual::after { content: ''; position: absolute; inset: 0; z-index: 1; background: rgba(0,0,0,.28); pointer-events: none; }
+.brand-visual__logo { position: absolute; z-index: 2; top: 50%; left: 50%; transform: translate(-50%, -50%); display: flex; justify-content: center; align-items: center; width: 72%; height: 120px; pointer-events: none; }
+/* Screen blending removes baked-in white fields after inversion, without altering logo files. */
+.brand-visual__logo img { display: block; max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; filter: grayscale(1) invert(1) brightness(2); mix-blend-mode: screen; }
+.brand-visual__logo { mix-blend-mode: screen; }
+.brand-visual__logo--todai img { filter: grayscale(1) contrast(4); }
+.brand-visual__logo--shimomura { width: 48.75%; }
+.brand-visual__logo--ambai img { width: 205px; }
+.brand-visual__logo--kaico img { width: 240px; max-height: 170px; }
+.brand-feature__copy { padding: 24px 80px; }
+.brand-feature__english { margin: 0 0 12px; color: #888; font-size: 14px; font-weight: 500; letter-spacing: 1.2px; }
+.brand-feature__name { margin: 0; font-size: 32px; font-weight: 700; line-height: 1.4; }
+.brand-feature__description { max-width: 510px; margin: 0; color: #777; font-size: 16px; line-height: 1.9; word-break: keep-all; }
+.brand-feature__description { margin-top: 22px; }
+.brand-feature__description p { margin: 0; }
+.brand-feature__description p + p { margin-top: 14px; }
+.brand-products-link { display: inline-flex; align-items: center; justify-content: center; gap: 12px; box-sizing: border-box; height: 40px; margin-top: 30px; padding: 0 16px; border: 1px solid #d8d8d8; border-radius: 4px; background: #fff; color: #1f1f1f; font-size: 14px; font-weight: 500; line-height: 1; white-space: nowrap; text-decoration: none; }
+.brand-products-link .phosphor-icon { width: 14px; height: 14px; fill: currentColor; }
+.brand-products-link:hover { border-color: #000; background: #000; color: #fff; }
+.brands-collection { margin-top: 160px; }
+.brands-collection__heading { margin: 0 0 40px; font-size: 26px; font-weight: 700; line-height: 1.4; }
+.brands-collection__grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 48px 24px; }
+.brand-card { scroll-margin-top: 100px; }
+.brand-card__visual { height: 300px; }
+.brand-card .brand-visual__logo { width: 60%; height: 80px; }
+.brand-card .brand-visual__logo img { max-height: 80px; max-width: 240px; }
+.brand-card .brand-visual__logo--yamadaken img { max-width: 270px; }
+.brand-card .brand-visual__logo--yoshikawa img { max-width: 180px; }
+.brand-card .brand-visual__logo--pearl-life img { max-height: 75px; }
+.brand-card .brand-visual__logo--akebono img { max-width: 180px; }
+.brand-card .brand-visual__logo--kokubo img { max-width: 180px; }
+.brand-card__name { margin: 20px 0 8px; font-size: 24px; font-weight: 600; line-height: 1.5; }
+.brand-card__description { margin: 0; color: #777; font-size: 14px; line-height: 1.8; word-break: keep-all; }
+.brand-card__description p { margin: 0; }
+.brand-card__description p + p { margin-top: 12px; }
+.brand-card .brand-products-link { margin-top: 18px; }
+.brand-visual__wordmark { color: #fff; font-size: 42px; font-weight: 700; letter-spacing: -1px; }
+.brand-visual--pending { background: #656565; }
+.brand-visual--pending::after { display: none; }
+.brand-products-link:focus-visible { outline: 2px solid #111; outline-offset: 6px; }

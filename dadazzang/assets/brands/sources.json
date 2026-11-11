@@ -1,0 +1,249 @@
+{
+  "retrievedAt": "2026-11-10",
+  "referencePage": "https://dadazzang-wholesale-edit.wintry-lemon-8728.chatgpt.site/imweb/store/brands/",
+  "brands": [
+    {
+      "brand": "SHIMOMURA",
+      "koreanLabel": "시모무라",
+      "sourcePage": "https://www.shimomura-kogyo.co.jp/",
+      "imageUrl": "https://www.shimomura-kogyo.co.jp/media/images/common/logo_jp_bk.svg",
+      "localPath": "assets/brands/shimomura.svg",
+      "evidence": "Official 下村工業株式会社 header logo; <img alt=\"下村工業株式会社\">. Official products include slicers and kitchen tools matching supplied products.",
+      "notes": "Unmodified original SVG, 260×45 viewBox; black Japanese company lettering with blue/green mark; transparent background. Korean spelling supplied by user product list.",
+      "id": "shimomura",
+      "name": "SHIMOMURA",
+      "koreanName": "시모무라",
+      "status": "verified-asset",
+      "sha256": "5d06028fb5f43ea9d7a9736c1fcaf6cb27b358888e039b49ec21499fb13f7524"
+    },
+    {
+      "brand": "AMBAI",
+      "koreanLabel": null,
+      "sourcePage": "https://www.cotogoto.jp/view/category/ambai",
+      "imageUrl": "https://gigaplus.makeshop.jp/cotogoto/site_data/cabinet/ambai/logo.png",
+      "localPath": "assets/brands/ambai.png",
+      "evidence": "Retailer cotogoto explicitly marks image alt=\"ambaiロゴ\". Logo visually matches the official Formlady brand image at https://formlady.co.jp/wp-content/uploads/2022/09/ambaitop.jpg linked by https://formlady.co.jp/products/ambai/. Official page confirms design: Koizumi Makoto.",
+      "notes": "Unmodified retailer-hosted original standalone logo. Official standalone asset not found; official brand composite confirms identity. 166×71 RGB PNG, white background and black lettering, modest whitespace. Avoid upscaling far beyond native size.",
+      "id": "ambai",
+      "name": "AMBAI",
+      "koreanName": "암바이",
+      "status": "verified-asset",
+      "sha256": "d83c283e90fecc630ea883a561ecfb089bbdbba2a1b121101c26c76893051158"
+    },
+    {
+      "brand": "KAICO",
+      "koreanLabel": null,
+      "sourcePage": "https://kaico.jp/",
+      "imageUrl": "https://kaico.jp/wp-content/uploads/2021/09/cropped-kaico-1.png",
+      "localPath": "assets/brands/kaico.png",
+      "evidence": "Official 国産 琺瑯 kaico website custom-logo header. Site and https://kaico.jp/kaico/ confirm enamel kitchenware and designer Koizumi Makoto.",
+      "notes": "Unmodified original transparent PNG, 248×170. Dark brown/near-black stylized logo; generous vertical transparent whitespace intrinsic to source.",
+      "id": "kaico",
+      "name": "KAICO",
+      "koreanName": "카이코",
+      "status": "verified-asset",
+      "sha256": "271c3124a46fba219f82d413e3fcf8d0e088e1a2f01fc3caad9c7045945fa5af"
+    },
+    {
+      "brand": "YOSHIKAWA",
+      "koreanLabel": null,
+      "sourcePage": "https://www.yoshikawa-lifestyle.com/",
+      "imageUrl": "https://www.yoshikawa-lifestyle.com/wp2021/wp-content/themes/html/img/logo.png",
+      "localPath": "assets/brands/yoshikawa.png",
+      "evidence": "Official kitchenware Lifestyle division header has alt=\"株式会社ヨシカワ ライフスタイル事業部\". Correct Niigata kitchenware company, not other similarly named firms.",
+      "notes": "Unmodified original transparent PNG, 248×69. Dark green Japanese company/division lettering, not English wordmark; authentic lifestyle division identity.",
+      "id": "yoshikawa",
+      "name": "YOSHIKAWA",
+      "koreanName": "요시카와",
+      "status": "verified-asset",
+      "sha256": "11f0ebb8a4f4c150c5b7da1ea72ce1dab04a8202b4ba88ce88c62172f3e99519"
+    },
+    {
+      "brand": "PEARL LIFE",
+      "koreanLabel": null,
+      "sourcePage": "https://www.p-life.co.jp/",
+      "imageUrl": "https://www.p-life.co.jp/img/PL_logo.png",
+      "localPath": "assets/brands/pearl-life.png",
+      "evidence": "Official パール金属株式会社 homepage links this PL_logo image to its PEARL LIFE housewares division. Official https://ch.p-life.co.jp/com_jigyou.html identifies PEARL LIFE / パールライフ and houseware business; official consumer kitchen site is https://www.p-life-house.jp/.",
+      "notes": "Unmodified original RGBA PNG, 89×100, red symbol and PEARL LIFE wordmark on white internal field with transparent outer pixels. Low native resolution; avoid large display.",
+      "id": "pearl-life",
+      "name": "PEARL LIFE",
+      "koreanName": "펄라이프",
+      "status": "verified-asset",
+      "sha256": "05b8ce88e749597cddc13b9248b322b95f4ce8e5a445b6af649e4191c798fc9d"
+    },
+    {
+      "id": "yamadaken",
+      "name": "YAMADAKEN",
+      "koreanName": "야마다켄",
+      "brandIdentity": "山研工業株式会社 / Yamaken (project spelling YAMADAKEN)",
+      "sourcePage": "https://yamaken.shop-pro.jp/",
+      "imageUrl": "https://img20.shop-pro.jp/PA01323/167/PA01323167.png?cmsp_timestamp=20260501114439",
+      "localPath": "assets/brands/yamadaken.png",
+      "evidence": [
+        "Local .omx/artifacts/bestseller-images/products.json identifies 야마다켄 스마트볼 샐러드 스피너.",
+        "Official https://www.yamaken-kogyo.com/product/cooking/baribari/ lists スマートボール salad spinner JAN4533009014991 and corporate footer Yamaken.",
+        "Official corporate site links its direct online shop at yamaken.shop-pro.jp; downloaded header logo is Yamaken shop wordmark with salad-spinner symbol."
+      ],
+      "ambiguity": "Supplied brand page has introduction pending with no official link. YAMADAKEN is project spelling, manufacturer official spelling Yamaken. The downloaded authentic asset is official direct-shop logo rather than a standalone corporate mark. Current corporate header uses live text only. Not 山田工業所.",
+      "sha256": "88d8374c0fa831ed45f01b481ec31de61708a18ea218dc9247d10ff5e337b36f",
+      "status": "verified-asset"
+    },
+    {
+      "id": "tsubame",
+      "name": "TSUBAME",
+      "koreanName": "츠바메",
+      "brandIdentity": null,
+      "sourcePage": "https://dadazzang-wholesale-edit.wintry-lemon-8728.chatgpt.site/imweb/store/brands/#tsubame",
+      "imageUrl": null,
+      "localPath": null,
+      "evidence": [
+        "User-supplied brand page #tsubame says 브랜드 소개 준비 중 and links only to product listing.",
+        "That product listing contains six sample products for SHIMOMURA, AMBAI, KAICO and selected tools, no TSUBAME product identity.",
+        "Existing local hero-brand-copy artifact marks TSUBAME provisional; no existing hero slide/image.",
+        "Original Dadazzang Brand Shop desktop page requires login, preventing direct manufacturer verification."
+      ],
+      "ambiguity": "Unresolved: could mean a company, Japanese regional production mark or another label. No logo downloaded to avoid falsely identifying TSUBAME with Made in TSUBAME certification, Tsubame Shinko, or Korean retailer tsubame.co.kr.",
+      "status": "identity-pending"
+    },
+    {
+      "id": "todai",
+      "name": "TODAI",
+      "koreanName": "토다이",
+      "brandIdentity": "株式会社トーダイ",
+      "sourcePage": "https://www.todai-tsubame.com/",
+      "imageUrl": "https://static.wixstatic.com/media/a53f7e_d303dd5980184691a227e10bfa620705~mv2.jpg",
+      "localPath": "assets/brands/todai.jpg",
+      "evidence": [
+        "User-supplied brand page links official Todai corporate.com and co.jp company/cutlery sites.",
+        "Corporate.com homepage header uses this exact original Wix-hosted JPG asset as logo; downloaded untransformed original628×84.",
+        "Legacy corporate co.jp uses same blue Todai/株式会社トーダイ/HIGH QUALITY COLLECTION mark."
+      ],
+      "ambiguity": null,
+      "sha256": "c0ffb4b4ff36462d9f37eda45db4f85698bc4b4679271b35f6e025582873481f",
+      "status": "verified-asset"
+    },
+    {
+      "id": "inomata",
+      "name": "INOMATA",
+      "koreanName": "이노마타",
+      "brandIdentity": "イノマタ化学株式会社",
+      "sourcePage": "https://www.inomata-k.co.jp/",
+      "imageUrl": "https://www.inomata-k.co.jp/wp-content/themes/inomata/img/common/logo.svg",
+      "localPath": "assets/brands/inomata.svg",
+      "evidence": [
+        "User-supplied brand page links this official homepage/company page.",
+        "Official home header image alt=イノマタ化学株式会社 uses downloaded logo.svg."
+      ],
+      "ambiguity": null,
+      "sha256": "0b82a0cd8d5faf0865761fb96f86e9e95e3185b1f1615076c1088c308fd864b5",
+      "status": "verified-asset"
+    },
+    {
+      "id": "nakaya",
+      "name": "NAKAYA",
+      "koreanName": "나카야",
+      "brandIdentity": "ナカヤ化学産業株式会社",
+      "sourcePage": "https://www.nakaya-kagaku.co.jp/",
+      "imageUrl": "https://www.nakaya-kagaku.co.jp/wp-content/themes/nakaya_kagaku/images/logo.svg",
+      "localPath": "assets/brands/nakaya.svg",
+      "evidence": [
+        "User-supplied brand page links official NAKAYA homepage/company overview.",
+        "Official homepage header uses downloaded logo.svg alt=NAKAYA,70×90."
+      ],
+      "ambiguity": null,
+      "sha256": "e67a5e7fb70d3cfa5c46710508b60d111455dc4b3822e55ccbb068317f32b832",
+      "status": "verified-asset"
+    },
+    {
+      "brand": "SANADA",
+      "koreanLabel": "사나다",
+      "officialName": "サナダ精工株式会社 / サナダグループ",
+      "sourcePage": "https://sanada-group.jp/",
+      "imageUrl": "https://sanada-group.jp/dcms_media/image/common/footer_ligo.jpg",
+      "localPath": "assets/brands/sanada.jpg",
+      "authenticityEvidence": "Official Sanada Group website footer uses this original image with alt サナダグループ; the same site identifies サナダ精工株式会社 as its household products business.",
+      "notes": "Original unmodified 90×89 JPG. Multicolor square mark with small Sanada group wordmark and baked white background; best kept at native size or below. Higher-resolution standalone original not located.",
+      "dimensions": {
+        "width": 90,
+        "height": 89
+      },
+      "id": "sanada",
+      "name": "SANADA",
+      "koreanName": "사나다",
+      "status": "verified-asset",
+      "sha256": "136fa2f19e145b0c187fa42dd8786fca915a219dbfaf82827d1af504be41968a"
+    },
+    {
+      "brand": "NAGAO",
+      "koreanLabel": "나가오",
+      "officialName": "有限会社ナガオ",
+      "sourcePage": "https://www.n-nagao.co.jp/",
+      "imageUrl": "https://www.n-nagao.co.jp/wp-content/themes/base/images/logo.png",
+      "localPath": "assets/brands/nagao.png",
+      "authenticityEvidence": "Official Tsubame kitchen/cutlery manufacturer site uses this image as both header and footer logo; Organization structured data also points to an equivalent logo.",
+      "notes": "Original unmodified transparent PNG, horizontal wordmark. Includes the official small supporting text.",
+      "dimensions": {
+        "width": 433,
+        "height": 71
+      },
+      "id": "nagao",
+      "name": "NAGAO",
+      "koreanName": "나가오",
+      "status": "verified-asset",
+      "sha256": "0d72a58e85dba106d1b31ea0c339a590fc09a332f1eeb86fc0ec8b7ff774d9f4"
+    },
+    {
+      "brand": "AKEBONO",
+      "koreanLabel": "아케보노",
+      "officialName": "株式会社曙産業",
+      "sourcePage": "https://www.akebono-sa.co.jp/",
+      "imageUrl": "https://www.akebono-sa.co.jp/html/template/akebono/img/top/footer_logo_kon.png",
+      "localPath": "assets/brands/akebono.png",
+      "authenticityEvidence": "Official Tsubame plastic household goods manufacturer footer displays this logo with alt 曙産業. Official company information is at /help/about.",
+      "notes": "Original unmodified transparent PNG, navy mark and wordmark; navy footer variation chosen for white background.",
+      "dimensions": {
+        "width": 400,
+        "height": 130
+      },
+      "id": "akebono",
+      "name": "AKEBONO",
+      "koreanName": "아케보노",
+      "status": "verified-asset",
+      "sha256": "d4b45705da466eb78e293c6de52d1117174b7cec8e5f1fb24cc129fce82a203a"
+    },
+    {
+      "brand": "KOKUBO",
+      "koreanLabel": "코쿠보",
+      "officialName": "株式会社小久保工業所",
+      "sourcePage": "https://kokubo.co.jp/",
+      "imageUrl": "https://kokubo.co.jp/asset/images/common/logo.svg",
+      "localPath": "assets/brands/kokubo.svg",
+      "authenticityEvidence": "Official household and lifestyle products manufacturer header uses this SVG with alt 小久保工業所.",
+      "notes": "Original unmodified scalable SVG, red #cf121b logo and supporting Japanese company name. Transparent background.",
+      "viewBox": "0 0 289.9867 79.08682",
+      "id": "kokubo",
+      "name": "KOKUBO",
+      "koreanName": "코쿠보",
+      "status": "verified-asset",
+      "sha256": "4a38ab22e846dbb03b6492f713616a0790bf3199982c91580e3204852b599268"
+    },
+    {
+      "brand": "ECHO",
+      "koreanLabel": "에코금속",
+      "officialName": "エコー金属株式会社",
+      "sourcePage": "https://echo-k.co.jp/",
+      "imageUrl": "https://echo-k.co.jp/#logo-horizontal",
+      "localPath": "assets/brands/echo.svg",
+      "authenticityEvidence": "Official Tsubame kitchen/household tools company homepage embeds symbol id=logo-horizontal and uses it in its footer; company page /company/ identifies エコー金属株式会社.",
+      "notes": "Official original inline SVG symbols extracted without changing paths or geometry and wrapped in a standalone SVG. All original symbols retained so nested symbol references resolve. Horizontal 480×75 variant, currentColor defaults black on transparent background. imageUrl denotes the source-page fragment, not a standalone HTTP image endpoint.",
+      "viewBox": "0 0 480 75",
+      "sourceType": "official-inline-svg",
+      "id": "echo",
+      "name": "ECHO",
+      "koreanName": "에코금속",
+      "status": "verified-asset",
+      "sha256": "7f5142f12897ed90f60f7c8b49a67719339f37068b3a7f2c39436e2fcb66ca28"
+    }
+  ]
+}

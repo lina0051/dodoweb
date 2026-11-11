@@ -1,0 +1,53 @@
+/* Two-row wholesale header based on the supplied second reference. */
+:root { --d-header-h: 172px; }
+.site-header {
+  position: fixed;
+  z-index: 10000;
+  inset: 0 0 auto;
+  min-width: 1440px;
+  height: var(--d-header-h);
+  background: #fff;
+  color: #111;
+  border-bottom: 1px solid #eee;
+}
+.site-header__announcement {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 32px;
+  background: #000;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: -.2px;
+}
+.site-header__inner { width: 1400px; margin: 0 auto; }
+.site-header__top { display: flex; align-items: center; justify-content: space-between; height: 84px; }
+.site-header__logo { display: block; flex-shrink: 0; }
+.site-header__logo img { display: block; width: 180px; height: auto; }
+.site-header .header-account { display: flex; align-items: center; gap: 12px; }
+.site-header .header-account__button { min-height: 32px; color: #555; font-size: 15px; cursor: pointer; }
+.site-header__divider { width: 1px; height: 12px; background: #ccc; }
+.site-header .header-account__bubble { top: auto; bottom: calc(100% + 1px); }
+.site-header .header-account__bubble::before { top: 100%; bottom: auto; border-top: 4px solid #222; border-bottom: 0; }
+.site-header__bottom { display: flex; align-items: center; justify-content: space-between; gap: 20px; height: 56px; transform: translateY(-8px); }
+.site-header--compact { height: 64px; }
+.site-header--compact .site-header__announcement,
+.site-header--compact .site-header__top { display: none; }
+.site-header--compact .site-header__bottom { height: 64px; transform: none; }
+.site-header__nav { display: flex; align-items: center; gap: 30px; flex: 0 0 auto; }
+.site-header__category { display: grid; place-items: center; width: 32px; height: 44px; cursor: pointer; }
+.site-header__menu { display: flex; align-items: center; gap: 30px; list-style: none; margin: 0; padding: 0; }
+.site-header__menu a { display: inline-flex; align-items: center; min-height: 44px; font-size: 17px; font-weight: 500; white-space: nowrap; }
+.site-header__menu a:hover, .site-header .header-account__button:hover { color: #000; }
+.site-header__tools { display: flex; align-items: center; gap: 12px; margin-left: auto; }
+.site-header__search { display: flex; align-items: center; width: clamp(280px, 19vw, 360px); height: 40px; padding: 0 12px 0 16px; border: 1px solid transparent; border-radius: 999px; background: #f7f7f7; }
+.site-header__search:focus-within { border-color: #555; }
+.site-header__search input { flex: 1; min-width: 0; width: 100%; border: 0; outline: 0; background: transparent; color: #222; font: inherit; font-size: 14px; }
+.site-header__search input::placeholder { color: #777; }
+.site-header__search button { display: grid; place-items: center; flex-shrink: 0; width: 32px; height: 40px; cursor: pointer; }
+.site-header__icons { display: flex; align-items: center; gap: 10px; }
+.site-header__icon { position: relative; display: grid; place-items: center; width: 36px; height: 44px; cursor: pointer; }
+.site-header__cart-count { position: absolute; top: 5px; right: 2px; display: grid; place-items: center; min-width: 13px; height: 13px; padding: 0 3px; border-radius: 50%; background: #111; color: #fff; font-size: 9px; line-height: 1; }
+.site-header .phosphor-icon { display: block; flex-shrink: 0; fill: currentColor; stroke: none; }
+.site-header :is(a, button):focus-visible { outline: 2px solid #111; outline-offset: 4px; }

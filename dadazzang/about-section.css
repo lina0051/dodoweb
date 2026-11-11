@@ -1,0 +1,65 @@
+/* Full-width brand story. The supplied photo stays fixed while the copy scrolls. */
+.about-section {
+  position: relative;
+  isolation: isolate;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 400px;
+  background-color: #d5d0c8;
+  background-image: url("assets/about/dadazzang-tableware-arrangement.jpg");
+  background-position: center 65%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #fff;
+}
+.about-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background-color: rgb(0 0 0 / 30%);
+  pointer-events: none;
+}
+.about-section__inner { display: flex; align-items: center; justify-content: space-between; gap: 64px; width: 1400px; margin: 0 auto; padding: 56px 0; }
+.about-section__copy { flex: 1; min-width: 0; text-align: left; }
+.about-section__title {
+  margin: 0;
+  font-size: 34px;
+  font-weight: 600;
+  line-height: 1.45;
+  letter-spacing: -.045em;
+  word-break: keep-all;
+}
+.about-section__description {
+  margin: 20px 0 0;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.9;
+  letter-spacing: -.025em;
+  word-break: keep-all;
+}
+.about-section__link {
+  display: inline-flex;
+  flex-shrink: 0;
+  align-self: flex-end;
+  align-items: center;
+  gap: 10px;
+  min-height: 44px;
+  margin-top: 0;
+  padding: 12px 24px;
+  border: 1px solid currentColor;
+  color: inherit;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration: none;
+}
+.about-section__arrow { flex: 0 0 14px; width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+.about-section__link:hover { text-decoration: underline; text-underline-offset: 5px; }
+.about-section__link:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
+@media (prefers-reduced-motion: reduce) {
+  .about-section { background-attachment: scroll; }
+}

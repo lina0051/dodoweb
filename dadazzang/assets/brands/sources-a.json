@@ -1,0 +1,47 @@
+[
+  {
+    "brand": "SHIMOMURA",
+    "koreanLabel": "시모무라",
+    "sourcePage": "https://www.shimomura-kogyo.co.jp/",
+    "imageUrl": "https://www.shimomura-kogyo.co.jp/media/images/common/logo_jp_bk.svg",
+    "localPath": "assets/brands/shimomura.svg",
+    "evidence": "Official 下村工業株式会社 header logo; <img alt=\"下村工業株式会社\">. Official products include slicers and kitchen tools matching supplied products.",
+    "notes": "Unmodified original SVG, 260×45 viewBox; black Japanese company lettering with blue/green mark; transparent background. Korean spelling supplied by user product list."
+  },
+  {
+    "brand": "AMBAI",
+    "koreanLabel": null,
+    "sourcePage": "https://www.cotogoto.jp/view/category/ambai",
+    "imageUrl": "https://gigaplus.makeshop.jp/cotogoto/site_data/cabinet/ambai/logo.png",
+    "localPath": "assets/brands/ambai.png",
+    "evidence": "Retailer cotogoto explicitly marks image alt=\"ambaiロゴ\". Logo visually matches the official Formlady brand image at https://formlady.co.jp/wp-content/uploads/2022/09/ambaitop.jpg linked by https://formlady.co.jp/products/ambai/. Official page confirms design: Koizumi Makoto.",
+    "notes": "Unmodified retailer-hosted original standalone logo. Official standalone asset not found; official brand composite confirms identity. 166×71 RGB PNG, white background and black lettering, modest whitespace. Avoid upscaling far beyond native size."
+  },
+  {
+    "brand": "KAICO",
+    "koreanLabel": null,
+    "sourcePage": "https://kaico.jp/",
+    "imageUrl": "https://kaico.jp/wp-content/uploads/2021/09/cropped-kaico-1.png",
+    "localPath": "assets/brands/kaico.png",
+    "evidence": "Official 国産 琺瑯 kaico website custom-logo header. Site and https://kaico.jp/kaico/ confirm enamel kitchenware and designer Koizumi Makoto.",
+    "notes": "Unmodified original transparent PNG, 248×170. Dark brown/near-black stylized logo; generous vertical transparent whitespace intrinsic to source."
+  },
+  {
+    "brand": "YOSHIKAWA",
+    "koreanLabel": null,
+    "sourcePage": "https://www.yoshikawa-lifestyle.com/",
+    "imageUrl": "https://www.yoshikawa-lifestyle.com/wp2021/wp-content/themes/html/img/logo.png",
+    "localPath": "assets/brands/yoshikawa.png",
+    "evidence": "Official kitchenware Lifestyle division header has alt=\"株式会社ヨシカワ ライフスタイル事業部\". Correct Niigata kitchenware company, not other similarly named firms.",
+    "notes": "Unmodified original transparent PNG, 248×69. Dark green Japanese company/division lettering, not English wordmark; authentic lifestyle division identity."
+  },
+  {
+    "brand": "PEARL LIFE",
+    "koreanLabel": null,
+    "sourcePage": "https://www.p-life.co.jp/",
+    "imageUrl": "https://www.p-life.co.jp/img/PL_logo.png",
+    "localPath": "assets/brands/pearl-life.png",
+    "evidence": "Official パール金属株式会社 homepage links this PL_logo image to its PEARL LIFE housewares division. Official https://ch.p-life.co.jp/com_jigyou.html identifies PEARL LIFE / パールライフ and houseware business; official consumer kitchen site is https://www.p-life-house.jp/.",
+    "notes": "Unmodified original RGBA PNG, 89×100, red symbol and PEARL LIFE wordmark on white internal field with transparent outer pixels. Low native resolution; avoid large display."
+  }
+]

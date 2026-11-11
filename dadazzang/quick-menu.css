@@ -1,0 +1,84 @@
+/* Shopping shortcuts, sized to the supplied Cafe24 reference. */
+.quick-menu {
+  --quick-icon-size: 100px;
+  --quick-icon-radius: 20px;
+  --quick-label-size: 15px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  align-self: flex-start;
+  flex-shrink: 0;
+  width: 1320px;
+  max-width: 1320px;
+  /* Quick shortcuts keep 100px above and 160px below. */
+  margin: 0;
+  padding: 100px 20px 160px;
+  box-sizing: border-box;
+}
+
+.quick-menu__list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.quick-menu__list > li { flex: 0 0 150px; }
+
+.quick-menu__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  width: 150px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #000;
+  font: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.quick-menu__image,
+.quick-menu__icon {
+  display: block;
+  width: var(--quick-icon-size);
+  height: var(--quick-icon-size);
+  border-radius: var(--quick-icon-radius);
+  object-fit: cover;
+  background: #f5f5f5;
+}
+
+.quick-menu__icon {
+  display: grid;
+  place-items: center;
+  color: #111;
+}
+
+.quick-menu__icon svg {
+  display: block;
+  width: 44px;
+  height: 44px;
+  fill: none;
+  /* Official outline shapes use non-scaling strokes for an exact CSS width. */
+  stroke-width: 1.5px;
+}
+
+.quick-menu__label {
+  font-size: var(--quick-label-size);
+  font-weight: 500;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.quick-menu__item > * { transition: transform 200ms ease; }
+.quick-menu__item:hover > *,
+.quick-menu__item:focus-visible > * { transform: translateY(-6px); }
+@media (prefers-reduced-motion: reduce) {
+  .quick-menu__item > * { transition: none; }
+}
+.quick-menu__item:focus-visible { outline: 2px solid #2468d5; outline-offset: 8px; border-radius: 8px; }
