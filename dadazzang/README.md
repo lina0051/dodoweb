@@ -1,5 +1,7 @@
 # 코오롱몰 메인 페이지 추출본
 
+Vercel 프로젝트dadazzang을 GitHub lina0051/dodoweb 저장소에 연결했습니다. Root Directory는dadazzang, 빌드는node build.mjs, 공개 출력은dist입니다. 빌드에는 사이트 HTML/CSS/JS와assets만 복사하며 로컬 환경·문서·테스트·작업 기록은 공개 출력에서 제외합니다. 로컬 빌드633개 파일이 원본과 동일함을 검증했습니다.
+
 문의폼 입력칸과 파일 선택 버튼의 테두리를 기존 공통 보더색#e5e5e5로 통일했습니다.
 
 문의 보내기 버튼을 기존 검은색#1f1f1f 배경과 흰색 텍스트·화살표로 변경했습니다.

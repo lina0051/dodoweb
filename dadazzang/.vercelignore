@@ -1,0 +1,14 @@
+.git
+.vercel
+.omx
+outputs
+dist
+node_modules
+.env*
+.DS_Store
+**/.DS_Store
+original-js
+tests
+*.md
+server.mjs
+resource-manifest.json
