@@ -1,5 +1,7 @@
 # 코오롱몰 메인 페이지 추출본
 
+문의폼 입력칸의 안내 문구와 판매 채널의 기본 안내 텍스트를 삭제했습니다. 항목명, 선택 옵션, 필수 입력 조건과 헤더 검색 안내는 유지합니다.
+
 공개 Vercel 주소: https://dadazzang.vercel.app/ (2026-11-11 배포 완료). GitHub main의dadazzang 폴더에 연동됩니다. 공개 도메인에서6개 페이지·이미지/스타일200응답, 오류/가로 넘침 없음, 문의 폼1440/2048px 검증과 검색·입력·첨부 동작을 확인했습니다. 문서·로컬 서버·테스트·환경 파일·원본 JS 보관본은404이며 공개되지 않습니다. 문의는 실제 접수하지 않는 기존 시안입니다. 증거: .omx/artifacts/vercel-production/ 및 .omx/artifacts/bulk-order-page/form/.
 
 Vercel 프로젝트dadazzang을 GitHub lina0051/dodoweb 저장소에 연결했습니다. Root Directory는dadazzang, 빌드는node build.mjs, 공개 출력은dist입니다. 빌드에는 사이트 HTML/CSS/JS와assets만 복사하며 로컬 환경·문서·테스트·작업 기록은 공개 출력에서 제외합니다. 로컬 빌드633개 파일이 원본과 동일함을 검증했습니다.

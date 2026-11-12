@@ -79,21 +79,21 @@
       <fieldset class="bulk-form__section">
         <legend>사업자 정보</legend>
         <div class="bulk-form__fields">
-          <div class="bulk-field"><label for="bulk-company">상호 / 법인명 <span aria-hidden="true">*</span></label><input id="bulk-company" name="company" autocomplete="organization" placeholder="사업자등록증의 상호" required></div>
-          <div class="bulk-field"><label for="bulk-contact-name">담당자명 <span aria-hidden="true">*</span></label><input id="bulk-contact-name" name="contactName" autocomplete="name" placeholder="담당자 성함" required></div>
-          <div class="bulk-field"><label for="bulk-phone">연락처 <span aria-hidden="true">*</span></label><input id="bulk-phone" name="phone" type="tel" autocomplete="tel" placeholder="연락 가능한 번호" required></div>
-          <div class="bulk-field"><label for="bulk-email">이메일 <span aria-hidden="true">*</span></label><input id="bulk-email" name="email" type="email" autocomplete="email" placeholder="답변받을 이메일" required></div>
+          <div class="bulk-field"><label for="bulk-company">상호 / 법인명 <span aria-hidden="true">*</span></label><input id="bulk-company" name="company" autocomplete="organization" required></div>
+          <div class="bulk-field"><label for="bulk-contact-name">담당자명 <span aria-hidden="true">*</span></label><input id="bulk-contact-name" name="contactName" autocomplete="name" required></div>
+          <div class="bulk-field"><label for="bulk-phone">연락처 <span aria-hidden="true">*</span></label><input id="bulk-phone" name="phone" type="tel" autocomplete="tel" required></div>
+          <div class="bulk-field"><label for="bulk-email">이메일 <span aria-hidden="true">*</span></label><input id="bulk-email" name="email" type="email" autocomplete="email" required></div>
         </div>
       </fieldset>
       <fieldset class="bulk-form__section">
         <legend>요청 내용</legend>
         <div class="bulk-form__fields">
-          <div class="bulk-field"><label for="bulk-channel">판매 채널 <span class="bulk-field__optional">선택</span></label><select id="bulk-channel" name="channel"><option value="">선택해 주세요</option><option>온라인 쇼핑몰</option><option>오프라인 매장</option><option>온라인·오프라인 함께 운영</option><option>오픈 준비 중</option><option>기타</option></select></div>
-          <div class="bulk-field"><label for="bulk-channel-url">판매 채널 주소 <span class="bulk-field__optional">선택</span></label><input id="bulk-channel-url" name="channelUrl" placeholder="쇼핑몰 URL 또는 매장 주소"></div>
-          <div class="bulk-field bulk-field--wide"><label for="bulk-products">상품명 · 품번 <span aria-hidden="true">*</span></label><input id="bulk-products" name="products" placeholder="상품명 또는 품번을 입력해 주세요" aria-describedby="bulk-products-help" required><p class="bulk-field__help" id="bulk-products-help">상품이 여러 개라면 목록을 첨부해 주세요.</p></div>
-          <div class="bulk-field"><label for="bulk-quantity">희망 수량 <span aria-hidden="true">*</span></label><input id="bulk-quantity" name="quantity" placeholder="예: 100개 또는 5박스" required></div>
+          <div class="bulk-field"><label for="bulk-channel">판매 채널 <span class="bulk-field__optional">선택</span></label><select id="bulk-channel" name="channel"><option value=""></option><option>온라인 쇼핑몰</option><option>오프라인 매장</option><option>온라인·오프라인 함께 운영</option><option>오픈 준비 중</option><option>기타</option></select></div>
+          <div class="bulk-field"><label for="bulk-channel-url">판매 채널 주소 <span class="bulk-field__optional">선택</span></label><input id="bulk-channel-url" name="channelUrl"></div>
+          <div class="bulk-field bulk-field--wide"><label for="bulk-products">상품명 · 품번 <span aria-hidden="true">*</span></label><input id="bulk-products" name="products" aria-describedby="bulk-products-help" required><p class="bulk-field__help" id="bulk-products-help">상품이 여러 개라면 목록을 첨부해 주세요.</p></div>
+          <div class="bulk-field"><label for="bulk-quantity">희망 수량 <span aria-hidden="true">*</span></label><input id="bulk-quantity" name="quantity" required></div>
           <div class="bulk-field"><label for="bulk-date">희망 납기 <span class="bulk-field__optional">선택</span></label><input id="bulk-date" name="desiredDate" type="date" aria-describedby="bulk-date-help"><p class="bulk-field__help" id="bulk-date-help">공급 가능 일정은 확인 후 안내합니다.</p></div>
-          <div class="bulk-field bulk-field--wide"><label for="bulk-message">문의 내용 <span aria-hidden="true">*</span></label><textarea id="bulk-message" name="message" rows="5" placeholder="납품 지역이나 견적 요청 사항을 적어주세요." required></textarea></div>
+          <div class="bulk-field bulk-field--wide"><label for="bulk-message">문의 내용 <span aria-hidden="true">*</span></label><textarea id="bulk-message" name="message" rows="5" required></textarea></div>
           <div class="bulk-field bulk-field--wide"><label for="bulk-file">참고 자료 <span class="bulk-field__optional">선택</span></label><input id="bulk-file" name="referenceFile" type="file" aria-describedby="bulk-file-help"><p class="bulk-field__help" id="bulk-file-help">발주 목록이나 참고할 상품 자료를 첨부해 주세요.</p></div>
         </div>
       </fieldset>
