@@ -2,6 +2,25 @@
    not executed: hydration requires live APIs and would enable tracking/account calls. */
 (() => {
   'use strict';
+  // Only pages included in this preview may open; retain product URLs for catalogue search.
+  const availablePages = new Set(['./', 'index.html', 'products.html', 'brands.html', 'about.html', 'wholesale.html', 'bulk-order.html'].map(path => new URL(path, location.href).href));
+  const isAvailableLink = link => {
+    const url = new URL(link.href);
+    url.search = '';
+    url.hash = '';
+    return availablePages.has(url.href);
+  };
+  const blockUnavailableLink = event => {
+    const link = event.target.closest('a[href]');
+    if (!link || isAvailableLink(link)) return false;
+    event.preventDefault();
+    event.stopImmediatePropagation();
+    return true;
+  };
+  document.querySelectorAll('a[href]').forEach(link => {
+    if (!isAvailableLink(link)) link.setAttribute('aria-disabled', 'true');
+  });
+  document.addEventListener('auxclick', blockUnavailableLink, true);
   const sliders=[];
   const notice=text=>{
     if(!text)return;
@@ -61,9 +80,10 @@
     e.preventDefault();notice();
   },true);
   document.addEventListener('click',e=>{
+    if(blockUnavailableLink(e))return;
     if(e.target.closest('[data-ignore-action-link]')){e.preventDefault();e.stopPropagation();notice();return}
     const link=e.target.closest('a[href]');
-    if(link){const href=link.getAttribute('href');if(/^javascript:/i.test(href)){e.preventDefault();notice();return}if(link.href==='https://www.kolonmall.com/'){e.preventDefault();location.href='index.html';return}if(/^https?:/.test(href)){link.target='_blank';link.rel='noopener noreferrer'}return}
+    if(link)return;
     const button=e.target.closest('button,[role="button"]');if(!button||button.closest('.local-slider-controls,[data-main-slider],[data-brand-marquee],[data-catalog-controls],.site-header__search'))return;
     const text=(button.getAttribute('aria-label')||button.textContent||'').trim();
     if(/^(맨 위|TOP|top|위로)/.test(text)){scrollTo({top:0,behavior:'smooth'});return}
